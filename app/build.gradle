@@ -1,0 +1,44 @@
+plugins {
+    id 'com.android.application'
+}
+
+def buildNumber = (System.getenv("GITHUB_RUN_NUMBER") ?: "1").toInteger()
+
+android {
+    namespace 'de.spielescanner'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId 'de.spielescanner'
+        minSdk 26
+        targetSdk 34
+        versionCode buildNumber
+        versionName "1.0.${buildNumber}"
+    }
+
+    signingConfigs {
+        release {
+            // Fester Schlüssel im Repo, damit sich neue Versionen über alte installieren lassen.
+            storeFile file('release.keystore')
+            storePassword 'spielescanner'
+            keyAlias 'spielescanner'
+            keyPassword 'spielescanner'
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            signingConfig signingConfigs.release
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+dependencies {
+    implementation 'com.google.android.gms:play-services-code-scanner:16.1.0'
+}

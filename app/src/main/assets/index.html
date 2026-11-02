@@ -1,0 +1,420 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Spiele-Scanner</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Atkinson+Hyperlegible:wght@400;700&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+:root{
+  --bg:#f3f4f7; --surface:#ffffff; --ink:#151a2e; --muted:#5d6380; --line:#dcdfea;
+  --accent:#2f47d6; --accent-ink:#ffffff; --tag:#ffcf3f; --tag-ink:#2a2100;
+  --ok:#1d7a4c; --warn:#a15c00; --bad:#b3261e;
+  --f-display:"Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --f-body:"Atkinson Hyperlegible", system-ui, -apple-system, sans-serif;
+  --f-mono:"IBM Plex Mono", ui-monospace, monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){:root{
+  --bg:#0f1220; --surface:#181c2e; --ink:#eceefa; --muted:#a2a8c6; --line:#2b3150;
+  --accent:#8c9cff; --accent-ink:#0f1220; --tag:#ffd65c; --tag-ink:#2a2100;
+  --ok:#5fd39a; --warn:#f0b35a; --bad:#ff8a80; color-scheme:dark}}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:16px;line-height:1.5;padding:20px 16px 48px}
+.wrap{max-width:620px;margin:0 auto;display:flex;flex-direction:column;gap:20px}
+h1,h2{font-family:var(--f-display);text-wrap:balance;margin:0}
+header{display:flex;align-items:flex-end;justify-content:space-between;gap:12px}
+h1{font-size:1.9rem;font-weight:800;letter-spacing:-.02em;line-height:1}
+.bars{display:flex;gap:2px;height:28px;flex:none}
+.bars i{display:block;background:var(--ink);border-radius:1px}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px;display:flex;flex-direction:column;gap:12px}
+.label{font-size:.75rem;text-transform:uppercase;letter-spacing:.09em;color:var(--muted);font-weight:700}
+button{font-family:var(--f-body)}
+.scan{display:flex;align-items:center;justify-content:center;gap:12px;font-size:1.15rem;font-weight:700;background:var(--accent);color:var(--accent-ink);border:0;border-radius:12px;padding:18px;cursor:pointer;width:100%}
+.scan svg{width:30px;height:30px}
+.scan:disabled{opacity:.5}
+.row{display:flex;gap:8px;align-items:stretch}
+.inp{flex:1 1 auto;min-width:0;font-size:1rem;padding:11px 12px;border:1px solid var(--line);border-radius:10px;background:var(--bg);color:var(--ink);font-family:var(--f-body)}
+.inp.mono{font-family:var(--f-mono);letter-spacing:.06em}
+.inp:focus{outline:2px solid var(--accent);outline-offset:1px}
+.ghost{font-weight:700;font-size:.95rem;background:transparent;color:var(--accent);border:1px solid var(--line);border-radius:10px;padding:0 14px;cursor:pointer;flex:none}
+.status{font-size:.9rem;color:var(--muted);min-height:1.4em}
+.status.ok{color:var(--ok)} .status.bad{color:var(--bad)} .status.warn{color:var(--warn)}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.card-top{padding:16px;display:flex;gap:14px;border-bottom:1px solid var(--line)}
+.cover{width:88px;flex:none;align-self:flex-start;border-radius:8px;background:var(--bg);border:1px solid var(--line);aspect-ratio:3/4;object-fit:contain}
+.ttl{display:flex;flex-direction:column;gap:6px;min-width:0}
+.pills{display:flex;gap:6px;flex-wrap:wrap}
+.pill{display:inline-block;font-size:.72rem;font-weight:700;padding:2px 9px;border-radius:99px;background:var(--tag);color:var(--tag-ink)}
+.pill.soft{background:transparent;color:var(--muted);border:1px solid var(--line)}
+.card h2{font-size:1.45rem;font-weight:800;line-height:1.15;overflow-wrap:anywhere}
+.meta-line{color:var(--muted);font-size:.92rem}
+.facts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));margin:0}
+.facts div{padding:11px 16px;border-bottom:1px solid var(--line);min-width:0}
+.facts div:nth-child(odd){border-right:1px solid var(--line)}
+.facts dt{font-size:.7rem;text-transform:uppercase;letter-spacing:.09em;color:var(--muted);font-weight:700}
+.facts dd{margin:2px 0 0;font-weight:700;overflow-wrap:anywhere}
+.card-body{padding:14px 16px;display:flex;flex-direction:column;gap:12px}
+.card-body p{margin:0}
+.links{display:flex;gap:8px;flex-wrap:wrap}
+.links a{font-size:.9rem;font-weight:700;color:var(--accent);text-decoration:none;border:1px solid var(--line);border-radius:99px;padding:6px 12px}
+.ean-strip{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;padding:11px 16px;background:var(--bg);border-top:1px solid var(--line);font-family:var(--f-mono);font-size:.9rem}
+.ean-strip span+span{font-family:var(--f-body);color:var(--muted);font-size:.82rem}
+.note{font-size:.85rem;color:var(--muted);margin:0}
+.thinking{display:flex;align-items:center;gap:10px;padding:16px;color:var(--muted)}
+.spin{width:18px;height:18px;border:3px solid var(--line);border-top-color:var(--accent);border-radius:50%;animation:sp .8s linear infinite;flex:none}
+@keyframes sp{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){.spin{animation:none}}
+.list{display:flex;flex-direction:column;border:1px solid var(--line);border-radius:14px;background:var(--surface);overflow:hidden}
+.list button{all:unset;cursor:pointer;display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 12px;padding:12px 16px;border-bottom:1px solid var(--line)}
+.list button:last-child{border-bottom:0}
+.list button:active{background:var(--bg)}
+.list .t{font-weight:700;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.list .e{font-family:var(--f-mono);font-size:.82rem;color:var(--muted)}
+.list .k{grid-column:1/-1;font-size:.85rem;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.empty{color:var(--muted);font-size:.95rem;padding:14px 16px}
+.head-row{display:flex;justify-content:space-between;align-items:center;gap:10px}
+.head-row .ghost{padding:6px 12px}
+button:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+@media (max-width:380px){.facts{grid-template-columns:1fr}.facts div:nth-child(odd){border-right:0}.cover{width:70px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Spiele-Scanner</h1>
+    <div class="bars" aria-hidden="true" id="bars"></div>
+  </header>
+
+  <section class="panel">
+    <button class="scan" id="scan" type="button">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 7V4h3M21 7V4h-3M3 17v3h3M21 17v3h-3M7 8v8M10 8v8M13 8v8M15.5 8v8M17.5 8v8"/></svg>
+      Barcode scannen
+    </button>
+    <div class="row">
+      <input class="inp mono" id="ean" inputmode="numeric" autocomplete="off" placeholder="oder EAN eintippen" maxlength="14" aria-label="EAN-Nummer">
+      <button class="ghost" id="eanGo" type="button">Suchen</button>
+    </div>
+    <div class="status" id="status">Halte die Kamera auf den Strichcode auf der Rückseite der Packung.</div>
+  </section>
+
+  <section style="display:flex;flex-direction:column;gap:10px">
+    <span class="label">Ergebnis</span>
+    <div id="result"></div>
+  </section>
+
+  <section class="panel" id="searchPanel">
+    <span class="label" id="searchLabel">Falsches oder kein Spiel gefunden?</span>
+    <div class="row">
+      <input class="inp" id="title" autocomplete="off" placeholder="Spieltitel eingeben, z. B. Azul" aria-label="Spieltitel">
+      <button class="ghost" id="titleGo" type="button">Suchen</button>
+    </div>
+    <div id="cands"></div>
+  </section>
+
+  <section style="display:flex;flex-direction:column;gap:10px">
+    <div class="head-row"><span class="label">Zuletzt gescannt</span><button class="ghost" id="clear" type="button" hidden>Leeren</button></div>
+    <div class="list" id="hist"></div>
+  </section>
+
+  <p class="note">Daten: UPCitemdb (EAN-Datenbank, ca. 100 Abfragen pro Tag), Wikidata und Wikipedia. Nicht jedes Spiel ist dort erfasst – dann hilft die Titelsuche.</p>
+</div>
+
+<script>
+(function(){
+'use strict';
+const $=id=>document.getElementById(id);
+const enc=encodeURIComponent;
+const esc=s=>String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+(function(){const w=[2,1,3,1,1,2,4,1,2,1,1,3,2];$('bars').innerHTML=w.map((x,i)=>i%2?`<span style="width:${x*2}px"></span>`:`<i style="width:${x*2}px"></i>`).join('')})();
+
+const APP=!!window.Android;
+
+/* ---------- Netz: in der App über Android-Bridge, sonst fetch ---------- */
+const pending={};let seq=0;
+window.onFetch=function(id,status,body){const r=pending[id];delete pending[id];if(r)r({status:status,body:body})};
+function http(url){
+  if(APP)return new Promise(res=>{const id='r'+(++seq);pending[id]=res;window.Android.get(id,url)});
+  return fetch(url).then(async r=>({status:r.status,body:await r.text()})).catch(()=>({status:0,body:''}));
+}
+async function getJSON(url){
+  const r=await http(url);
+  if(r.status<200||r.status>=300){const e=new Error('HTTP '+r.status);e.status=r.status;throw e}
+  return JSON.parse(r.body);
+}
+
+/* ---------- EAN ---------- */
+function checkDigitOK(code){
+  if(!/^\d{8}$|^\d{12,14}$/.test(code))return false;
+  const d=code.split('').map(Number);const c=d.pop();let s=0;
+  d.reverse().forEach((n,i)=>{s+=n*(i%2===0?3:1)});
+  return (10-s%10)%10===c;
+}
+function prefixLand(code){
+  const c=code.length===12?'0'+code:code;if(c.length!==13)return null;const p=+c.slice(0,3);
+  const R=[[0,139,'USA/Kanada'],[300,379,'Frankreich'],[400,440,'Deutschland'],[450,459,'Japan'],[490,499,'Japan'],[500,509,'Großbritannien'],[540,549,'Belgien/Luxemburg'],[560,560,'Portugal'],[570,579,'Dänemark'],[590,590,'Polen'],[640,649,'Finnland'],[690,699,'China'],[700,709,'Norwegen'],[730,739,'Schweden'],[760,769,'Schweiz'],[800,839,'Italien'],[840,849,'Spanien'],[859,859,'Tschechien'],[870,879,'Niederlande'],[880,880,'Südkorea'],[900,919,'Österreich'],[930,939,'Australien'],[978,979,'Buch (ISBN)']];
+  const r=R.find(x=>p>=x[0]&&p<=x[1]);return r?r[2]:null;
+}
+function eanInfo(code){if(!code)return '';const land=prefixLand(code);return (checkDigitOK(code)?'Prüfziffer stimmt':'Prüfziffer passt nicht')+(land?' · '+land:'')}
+
+function setStatus(t,cls){const s=$('status');s.textContent=t;s.className='status'+(cls?' '+cls:'')}
+
+/* ---------- Speicher ---------- */
+function load(k,def){try{const v=localStorage.getItem(k);return v?JSON.parse(v):def}catch(e){return def}}
+function save(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
+
+/* ---------- Wikidata ---------- */
+const WD='https://www.wikidata.org/w/api.php?format=json&origin=*&';
+const GAME_RE=/spiel|game|puzzle|videogame|computerspiel|tabletop/i;
+
+async function wdByGtin(ean){
+  const alts=[ean];if(ean.length===12)alts.push('0'+ean);if(ean.length===13&&ean[0]==='0')alts.push(ean.slice(1));
+  const q='haswbstatement:'+alts.map(a=>'P3962='+a).join('|');
+  const j=await getJSON(WD+'action=query&list=search&srlimit=1&srsearch='+enc(q));
+  const h=j.query&&j.query.search&&j.query.search[0];return h?h.title:null;
+}
+async function wdSearch(text,limit){
+  const out=[];const seen={};
+  for(const lang of ['de','en']){
+    let j;try{j=await getJSON(WD+'action=wbsearchentities&type=item&uselang=de&limit='+(limit||10)+'&language='+lang+'&search='+enc(text))}catch(e){continue}
+    for(const s of (j.search||[])){if(seen[s.id])continue;seen[s.id]=1;out.push({id:s.id,label:s.label||s.id,desc:s.description||''})}
+    if(out.some(o=>GAME_RE.test(o.desc)))break;
+  }
+  return out;
+}
+function cleanTitle(title,brand){
+  let t=' '+String(title||'')+' ';
+  if(brand)t=t.split(brand).join(' ');
+  t=t.replace(/[\(\[].*?[\)\]]/g,' ')
+     .replace(/\b(board ?game|brettspiel|kartenspiel|card ?game|familienspiel|gesellschaftsspiel|strategiespiel|partyspiel|kinderspiel|spiel des jahres|game|spiel|deutsch|german|english|edition|ausgabe|version|neu|new)\b/gi,' ')
+     .replace(/\b(playstation ?\d?|ps ?\d|xbox( one| series [xs])?|nintendo( switch)?|switch|pc|dvd|blu-?ray)\b/gi,' ')
+     .replace(/[-–:,\/|]+/g,' ').replace(/\s+/g,' ').trim();
+  const w=t.split(' ').filter(Boolean);const c=[];
+  if(w.length)c.push(w.join(' '));
+  [4,3,2,1].forEach(n=>{if(w.length>n){const s=w.slice(0,n).join(' ');if(c.indexOf(s)<0&&s.length>2)c.push(s)}});
+  return c;
+}
+async function wdFindGame(cands){
+  for(const c of cands){const r=await wdSearch(c,7);const g=r.find(o=>GAME_RE.test(o.desc));if(g)return g.id}
+  return null;
+}
+
+function nums(stmts){
+  const out=[];
+  (stmts||[]).forEach(s=>{
+    const v=s.mainsnak&&s.mainsnak.datavalue&&s.mainsnak.datavalue.value;
+    if(v&&typeof v==='object'){['amount','lowerBound','upperBound'].forEach(k=>{if(v[k]!=null)out.push(parseFloat(v[k]))})}
+    const q=s.qualifiers||{};
+    ['P2313','P2312'].forEach(p=>(q[p]||[]).forEach(x=>{const a=x.datavalue&&x.datavalue.value&&x.datavalue.value.amount;if(a!=null)out.push(parseFloat(a))}));
+  });
+  return out.filter(n=>!isNaN(n));
+}
+function range(stmts,suffix){
+  const n=nums(stmts);if(!n.length)return '';
+  const lo=Math.min.apply(null,n),hi=Math.max.apply(null,n);
+  return (lo===hi?String(lo):lo+'–'+hi)+(suffix||'');
+}
+function duration(stmts){
+  if(!stmts||!stmts.length)return '';
+  const v=stmts[0].mainsnak&&stmts[0].mainsnak.datavalue&&stmts[0].mainsnak.datavalue.value;
+  const unit=v&&v.unit||'';
+  const suf=/Q25235$/.test(unit)?' Std.':/Q11574$/.test(unit)?' Sek.':' Min.';
+  return range(stmts,suf);
+}
+function itemIds(stmts){return (stmts||[]).map(s=>s.mainsnak&&s.mainsnak.datavalue&&s.mainsnak.datavalue.value&&s.mainsnak.datavalue.value.id).filter(Boolean)}
+function year(stmts){
+  const ys=(stmts||[]).map(s=>{const t=s.mainsnak&&s.mainsnak.datavalue&&s.mainsnak.datavalue.value&&s.mainsnak.datavalue.value.time;const m=t&&/^[+-]?(\d{4})/.exec(t);return m?+m[1]:null}).filter(Boolean);
+  return ys.length?String(Math.min.apply(null,ys)):'';
+}
+function pickLabel(e){if(!e)return '';const l=e.labels||{};return (l.de&&l.de.value)||(l.en&&l.en.value)||''}
+
+async function wdEntity(qid){
+  const j=await getJSON(WD+'action=wbgetentities&props=labels|descriptions|claims|sitelinks&languages=de|en&ids='+qid);
+  const e=j.entities&&j.entities[qid];if(!e||e.missing!==undefined)return null;
+  const C=e.claims||{};
+  const P={typ:'P31',verlag:'P123',autor:'P50',designer:'P287',entwickler:'P178',plattform:'P400',genre:'P136',usk:'P914',pegi:'P908'};
+  const ids={};Object.keys(P).forEach(k=>{ids[k]=itemIds(C[P[k]]).slice(0,4)});
+  const all=[].concat.apply([],Object.values(ids)).filter((x,i,a)=>a.indexOf(x)===i).slice(0,45);
+  let L={};
+  if(all.length){try{const lj=await getJSON(WD+'action=wbgetentities&props=labels&languages=de|en&ids='+all.join('|'));L=lj.entities||{}}catch(err){}}
+  const lab=k=>ids[k].map(id=>pickLabel(L[id])).filter(Boolean);
+  const d={
+    qid:qid,
+    titel:pickLabel(e),
+    untertitel:(e.descriptions&&((e.descriptions.de&&e.descriptions.de.value)||(e.descriptions.en&&e.descriptions.en.value)))||'',
+    typ:lab('typ')[0]||'',
+    spieler:range(C.P1872),
+    alter:C.P2899?('ab '+range(C.P2899)+' Jahren'):'',
+    dauer:duration(C.P2047),
+    jahr:year(C.P577),
+    verlag:lab('verlag').concat(lab('entwickler')).slice(0,2).join(', '),
+    autor:lab('designer').concat(lab('autor')).slice(0,3).join(', '),
+    plattform:lab('plattform').slice(0,4).join(', '),
+    genre:lab('genre').slice(0,2).join(', '),
+    freigabe:lab('usk')[0]||lab('pegi')[0]||'',
+    bild:'',text:'',wiki:''
+  };
+  const imgFile=C.P18&&C.P18[0]&&C.P18[0].mainsnak.datavalue&&C.P18[0].mainsnak.datavalue.value;
+  if(imgFile)d.bild='https://commons.wikimedia.org/wiki/Special:FilePath/'+enc(imgFile)+'?width=300';
+  const sl=e.sitelinks||{};
+  const wk=sl.dewiki?['de',sl.dewiki.title]:sl.enwiki?['en',sl.enwiki.title]:null;
+  if(wk){
+    try{
+      const s=await getJSON('https://'+wk[0]+'.wikipedia.org/api/rest_v1/page/summary/'+enc(wk[1].replace(/ /g,'_')));
+      d.text=s.extract||'';
+      if(s.thumbnail&&s.thumbnail.source)d.bild=s.thumbnail.source;
+      d.wiki=(s.content_urls&&s.content_urls.mobile&&s.content_urls.mobile.page)||('https://'+wk[0]+'.wikipedia.org/wiki/'+enc(wk[1].replace(/ /g,'_')));
+    }catch(err){d.wiki='https://'+wk[0]+'.wikipedia.org/wiki/'+enc(wk[1].replace(/ /g,'_'))}
+  }
+  if(d.text.length>600)d.text=d.text.slice(0,600).replace(/\s\S*$/,'')+' …';
+  return d;
+}
+
+/* ---------- UPCitemdb ---------- */
+let upcLimited=false;
+async function upcLookup(ean){
+  try{
+    const j=await getJSON('https://api.upcitemdb.com/prod/trial/lookup?upc='+ean);
+    return (j.items&&j.items[0])||null;
+  }catch(e){if(e.status===429)upcLimited=true;return null}
+}
+
+/* ---------- Anzeige ---------- */
+function isVideo(d){return /video|computer|konsole/i.test((d.typ||'')+' '+(d.untertitel||''))||!!d.plattform}
+function linkBtns(d,ean){
+  const L=[];const q=enc(d.titel||ean||'');
+  if(d.wiki)L.push(['Wikipedia',d.wiki]);
+  if(d.titel){
+    if(isVideo(d))L.push(['Metacritic','https://www.metacritic.com/search/'+q+'/']);
+    else L.push(['BoardGameGeek','https://boardgamegeek.com/geeksearch.php?action=search&objecttype=boardgame&q='+q]);
+    L.push(['Preise','https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q='+q]);
+  }
+  if(ean)L.push(['EAN googeln','https://www.google.com/search?q='+enc(ean)]);
+  return L.map(x=>`<a href="${esc(x[1])}" data-ext="1">${esc(x[0])} ↗</a>`).join('');
+}
+function render(d,ean){
+  const F=[['Plattform',d.plattform],['Spieler',d.spieler],['Alter',d.alter],['Spieldauer',d.dauer],['Freigabe',d.freigabe],['Erschienen',d.jahr],['Verlag',d.verlag],['Autor/Design',d.autor],['Genre',d.genre],['Marke',d.marke]].filter(x=>x[1]);
+  const quelle=d.qid?'Wikidata':d.upc?'EAN-Datenbank':'';
+  $('result').innerHTML=`<article class="card">
+    <div class="card-top">
+      ${d.bild?`<img class="cover" src="${esc(d.bild)}" alt="" onerror="this.remove()">`:''}
+      <div class="ttl">
+        <div class="pills">${d.typ?`<span class="pill">${esc(d.typ)}</span>`:''}${quelle?`<span class="pill soft">${quelle}</span>`:''}</div>
+        <h2>${esc(d.titel||'Unbekanntes Spiel')}</h2>
+        ${d.untertitel?`<div class="meta-line">${esc(d.untertitel)}</div>`:''}
+      </div>
+    </div>
+    ${F.length?`<dl class="facts">${F.map(x=>`<div><dt>${x[0]}</dt><dd>${esc(x[1])}</dd></div>`).join('')}</dl>`:''}
+    <div class="card-body">
+      ${d.text?`<p>${esc(d.text)}</p>`:''}
+      ${d.hinweis?`<p class="note">${esc(d.hinweis)}</p>`:''}
+      <div class="links">${linkBtns(d,ean)}</div>
+    </div>
+    ${ean?`<div class="ean-strip"><span>EAN ${esc(ean)}</span><span>${esc(eanInfo(ean))}</span></div>`:''}
+  </article>`;
+}
+function renderBusy(t){$('result').innerHTML=`<div class="card thinking"><div class="spin"></div><span>${esc(t)}</span></div>`}
+
+document.addEventListener('click',e=>{
+  const a=e.target.closest('a[data-ext]');if(!a)return;
+  e.preventDefault();
+  if(APP)window.Android.openUrl(a.href);else window.open(a.href,'_blank','noopener');
+});
+
+/* ---------- Verlauf ---------- */
+function addHist(ean,d){
+  const h=load('verlauf',[]).filter(x=>!(x.ean===ean&&x.d.titel===d.titel));
+  h.unshift({ean:ean,d:d,t:Date.now()});save('verlauf',h.slice(0,30));renderHist();
+}
+function renderHist(){
+  const h=load('verlauf',[]);$('clear').hidden=!h.length;
+  $('hist').innerHTML=h.length?h.map((x,i)=>`<button type="button" data-i="${i}"><span class="t">${esc(x.d.titel||'Unbekannt')}</span><span class="e">${esc(x.ean||'')}</span><span class="k">${esc([x.d.typ,x.d.spieler&&x.d.spieler+' Spieler',x.d.alter,x.d.plattform].filter(Boolean).join(' · '))}</span></button>`).join('')
+    :'<div class="empty">Noch nichts gescannt. Deine Treffer landen hier.</div>';
+}
+$('hist').addEventListener('click',e=>{const b=e.target.closest('button[data-i]');if(!b)return;const x=load('verlauf',[])[+b.dataset.i];if(!x)return;
+  current=x.ean||'';render(x.d,x.ean);window.scrollTo({top:0,behavior:'smooth'})});
+$('clear').onclick=()=>{save('verlauf',[]);renderHist()};
+
+/* ---------- Ablauf ---------- */
+let current='';
+async function lookup(ean){
+  ean=String(ean||'').replace(/\D/g,'');
+  if(ean.length<8){setStatus('Die Nummer ist zu kurz. Eine EAN hat 8 oder 13 Ziffern.','bad');return}
+  current=ean;$('ean').value=ean;$('cands').innerHTML='';
+  setStatus('Gelesen: '+ean+' · '+eanInfo(ean),checkDigitOK(ean)?'ok':'warn');
+  renderBusy('Suche in den Datenbanken …');
+  try{
+    const map=load('zuordnung',{});
+    let qid=map[ean]||null, upc=null;
+    if(!qid){
+      const r=await Promise.all([wdByGtin(ean).catch(()=>null),upcLookup(ean)]);
+      qid=r[0];upc=r[1];
+      if(!qid&&upc){renderBusy('Gefunden: '+upc.title+' – suche Details …');qid=await wdFindGame(cleanTitle(upc.title,upc.brand))}
+    }
+    let d=qid?await wdEntity(qid):null;
+    if(d){
+      if(upc&&!d.bild&&upc.images&&upc.images[0])d.bild=upc.images[0];
+      render(d,ean);addHist(ean,d);
+      $('searchLabel').textContent='Falsches Spiel erkannt?';
+      if(cands0(upc))$('title').value=cands0(upc);
+    }else if(upc){
+      d={upc:1,titel:upc.title,marke:upc.brand||'',untertitel:upc.category||'',bild:(upc.images&&upc.images[0])||'',
+         text:(upc.description||'').slice(0,400),hinweis:'Zu diesem Produkt gibt es nur Basisdaten. Gib unten den Spieltitel ein, um Spielerzahl, Alter und Dauer zu bekommen.'};
+      render(d,ean);addHist(ean,d);
+      $('title').value=cands0(upc);$('searchLabel').textContent='Details ergänzen';
+    }else{
+      $('result').innerHTML=`<div class="card"><div class="card-body"><p><strong>Zu dieser EAN wurde nichts gefunden.</strong></p><p class="note">${upcLimited?'Die EAN-Datenbank hat ihr Tageslimit erreicht (ca. 100 Abfragen). Morgen geht es wieder. ':''}Gib den Titel von der Packung unten ein – dann merkt sich die App die Zuordnung für diesen Barcode.</p><div class="links">${linkBtns({},ean)}</div></div></div>`;
+      $('searchLabel').textContent='Spiel per Titel suchen';$('title').value='';$('title').focus();
+    }
+  }catch(e){
+    $('result').innerHTML=`<div class="card"><div class="card-body"><p><strong>Keine Verbindung.</strong></p><p class="note">Prüfe dein Internet und versuche es noch einmal.</p></div></div>`;
+  }
+}
+function cands0(upc){return upc?(cleanTitle(upc.title,upc.brand)[0]||''):''}
+
+async function titleSearch(){
+  const t=$('title').value.trim();if(t.length<2)return;
+  $('cands').innerHTML='<div class="thinking" style="padding:4px 0"><div class="spin"></div><span>Suche …</span></div>';
+  const r=await wdSearch(t,10);
+  const games=r.filter(o=>GAME_RE.test(o.desc));
+  const show=(games.length?games:r).slice(0,6);
+  $('cands').innerHTML=show.length?`<div class="list">${show.map(o=>`<button type="button" data-q="${esc(o.id)}"><span class="t">${esc(o.label)}</span><span class="e">${esc(o.id)}</span><span class="k">${esc(o.desc||'ohne Beschreibung')}</span></button>`).join('')}</div>`
+    :'<p class="note">Nichts gefunden. Versuch es mit dem Originaltitel oder einem kürzeren Begriff.</p>';
+}
+$('cands').addEventListener('click',async e=>{
+  const b=e.target.closest('button[data-q]');if(!b)return;
+  const qid=b.dataset.q;$('cands').innerHTML='';
+  renderBusy('Lade Details …');window.scrollTo({top:0,behavior:'smooth'});
+  try{
+    const d=await wdEntity(qid);if(!d)throw 0;
+    render(d,current);
+    if(current){const m=load('zuordnung',{});m[current]=qid;save('zuordnung',m)}
+    addHist(current,d);
+    setStatus(current?'Gespeichert: Dieser Barcode zeigt ab jetzt auf „'+d.titel+'“.':'Details geladen.','ok');
+  }catch(err){$('result').innerHTML='<div class="card"><div class="card-body"><p>Details konnten nicht geladen werden. Bitte noch einmal versuchen.</p></div></div>'}
+});
+$('titleGo').onclick=titleSearch;
+$('title').addEventListener('keydown',e=>{if(e.key==='Enter')titleSearch()});
+$('eanGo').onclick=()=>lookup($('ean').value);
+$('ean').addEventListener('keydown',e=>{if(e.key==='Enter')lookup($('ean').value)});
+$('ean').addEventListener('input',e=>{e.target.value=e.target.value.replace(/\D/g,'')});
+
+/* ---------- Scanner ---------- */
+window.onScan=function(code){$('scan').disabled=false;lookup(code)};
+window.onScanCancel=function(){$('scan').disabled=false;setStatus('Scan abgebrochen.')};
+window.onScanError=function(msg){$('scan').disabled=false;setStatus('Der Scanner ließ sich nicht starten'+(msg?' ('+msg+')':'')+'. Beim ersten Start lädt Android ihn kurz nach – bitte gleich noch einmal tippen.','bad')};
+$('scan').onclick=()=>{
+  if(!APP){setStatus('Der Kamera-Scanner funktioniert nur in der Android-App. Hier kannst du die EAN eintippen.','warn');return}
+  $('scan').disabled=true;setStatus('Kamera wird geöffnet …');window.Android.scan();
+};
+
+/* ---------- Start ---------- */
+renderHist();
+const last=load('verlauf',[])[0];
+if(last){current=last.ean||'';render(last.d,last.ean)}
+else $('result').innerHTML='<div class="card"><div class="card-body"><p><strong>Bereit.</strong> Tippe auf „Barcode scannen“ und halte die Kamera auf den Strichcode einer Spielepackung.</p><p class="note">Du bekommst Titel, Spielerzahl, Alter, Spieldauer, Verlag und eine kurze Beschreibung.</p></div></div>';
+})();
+</script>
+</body>
+</html>
