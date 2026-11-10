@@ -1,0 +1,12 @@
+# Beispiel für das Text-Format (fiktive Namen, nur zur Veranschaulichung)
+# Zeilen ohne Nummer sind Abschnittsüberschriften.
+Intro
+00 Logo glitzer
+1 Pokal
+FC Beispielstadt
+2 Wappen FC Beispielstadt glitzer
+3 Max Mustermann - FC Beispielstadt
+4 Erika Musterfrau (FC Beispielstadt)
+5
+Extra-Sticker
+X1 Legende Beispiel
