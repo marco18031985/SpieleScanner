@@ -1,0 +1,522 @@
+{
+  "album": {
+    "slug": "panini-dfb-frauen-team-set-2025",
+    "publisher": "Panini",
+    "title": "DFB-Frauen Team-Set 2025 Trading Cards",
+    "year": 2025,
+    "season": null,
+    "category": "Fußball",
+    "region": "DE",
+    "kind": "card",
+    "total_stickers": null,
+    "cover_url": null,
+    "source": "https://www.panini.de/media/paniniFiles/DFB-Frauen-Team-Set-2025-Checkliste-005278.pdf",
+    "notes": null
+  },
+  "stickers": [
+    {
+      "code": "BA-01",
+      "name": "ANN-KATRIN BERGER"
+    },
+    {
+      "code": "BA-02",
+      "name": "JULE BRAND"
+    },
+    {
+      "code": "BA-03",
+      "name": "KLARA BÜHL"
+    },
+    {
+      "code": "BA-04",
+      "name": "SELINA CERCI"
+    },
+    {
+      "code": "BA-05",
+      "name": "SARA DÄBRITZ"
+    },
+    {
+      "code": "BA-06",
+      "name": "LINDA DALLMANN"
+    },
+    {
+      "code": "BA-07",
+      "name": "SARA DOORSOUN"
+    },
+    {
+      "code": "BA-08",
+      "name": "VIVIEN ENDEMANN"
+    },
+    {
+      "code": "BA-09",
+      "name": "LAURA FREIGANG"
+    },
+    {
+      "code": "BA-10",
+      "name": "LISANNE GRÄWE"
+    },
+    {
+      "code": "BA-11",
+      "name": "GIULIA GWINN"
+    },
+    {
+      "code": "BA-12",
+      "name": "KATHRIN HENDRICH"
+    },
+    {
+      "code": "BA-13",
+      "name": "GIOVANNA HOFFMANN"
+    },
+    {
+      "code": "BA-14",
+      "name": "STINA JOHANNES"
+    },
+    {
+      "code": "BA-15",
+      "name": "REBECCA KNAAK"
+    },
+    {
+      "code": "BA-16",
+      "name": "SOPHIA KLEINHERNE"
+    },
+    {
+      "code": "BA-17",
+      "name": "SARAI LINDER"
+    },
+    {
+      "code": "BA-18",
+      "name": "ENA MAHMUTOVIC"
+    },
+    {
+      "code": "BA-19",
+      "name": "JANINA MINGE"
+    },
+    {
+      "code": "BA-20",
+      "name": "SJOEKE NÜSKEN"
+    },
+    {
+      "code": "BA-21",
+      "name": "FELICITAS RAUCH"
+    },
+    {
+      "code": "BA-22",
+      "name": "LEA SCHÜLLER"
+    },
+    {
+      "code": "BA-23",
+      "name": "ALARA ŞEHITLER"
+    },
+    {
+      "code": "BA-24",
+      "name": "ELISA SENß"
+    },
+    {
+      "code": "BA-25",
+      "name": "PIA-SOPHIE WOLTER"
+    },
+    {
+      "code": "BA-26",
+      "name": "CORA ZICAI"
+    },
+    {
+      "code": "DEB-01",
+      "name": "ANN-KATRIN BERGER"
+    },
+    {
+      "code": "DEB-02",
+      "name": "JULE BRAND"
+    },
+    {
+      "code": "DEB-03",
+      "name": "KLARA BÜHL"
+    },
+    {
+      "code": "DEB-04",
+      "name": "SELINA CERCI"
+    },
+    {
+      "code": "DEB-05",
+      "name": "SARA DÄBRITZ"
+    },
+    {
+      "code": "DEB-06",
+      "name": "LINDA DALLMANN"
+    },
+    {
+      "code": "DEB-07",
+      "name": "SARA DOORSOUN"
+    },
+    {
+      "code": "DEB-08",
+      "name": "VIVIEN ENDEMANN"
+    },
+    {
+      "code": "DEB-09",
+      "name": "LAURA FREIGANG"
+    },
+    {
+      "code": "DEB-10",
+      "name": "LISANNE GRÄWE"
+    },
+    {
+      "code": "DEB-11",
+      "name": "GIULIA GWINN"
+    },
+    {
+      "code": "DEB-12",
+      "name": "KATHRIN HENDRICH"
+    },
+    {
+      "code": "DEB-13",
+      "name": "GIOVANNA HOFFMANN"
+    },
+    {
+      "code": "DEB-14",
+      "name": "STINA JOHANNES"
+    },
+    {
+      "code": "DEB-15",
+      "name": "REBECCA KNAAK"
+    },
+    {
+      "code": "DEB-16",
+      "name": "SOPHIA KLEINHERNE"
+    },
+    {
+      "code": "DEB-17",
+      "name": "SARAI LINDER"
+    },
+    {
+      "code": "DEB-18",
+      "name": "ENA MAHMUTOVIC"
+    },
+    {
+      "code": "DEB-19",
+      "name": "JANINA MINGE"
+    },
+    {
+      "code": "DEB-20",
+      "name": "SJOEKE NÜSKEN"
+    },
+    {
+      "code": "DEB-21",
+      "name": "FELICITAS RAUCH"
+    },
+    {
+      "code": "DEB-22",
+      "name": "LEA SCHÜLLER"
+    },
+    {
+      "code": "DEB-23",
+      "name": "ALARA ŞEHITLER"
+    },
+    {
+      "code": "DEB-24",
+      "name": "ELISA SENß"
+    },
+    {
+      "code": "DEB-25",
+      "name": "PIA-SOPHIE WOLTER"
+    },
+    {
+      "code": "DEB-26",
+      "name": "CORA ZICAI"
+    },
+    {
+      "code": "FOC-01",
+      "name": "ANN-KATRIN BERGER"
+    },
+    {
+      "code": "FOC-02",
+      "name": "JULE BRAND"
+    },
+    {
+      "code": "FOC-03",
+      "name": "KLARA BÜHL"
+    },
+    {
+      "code": "FOC-04",
+      "name": "SELINA CERCI"
+    },
+    {
+      "code": "FOC-05",
+      "name": "SARA DÄBRITZ"
+    },
+    {
+      "code": "FOC-06",
+      "name": "LINDA DALLMANN"
+    },
+    {
+      "code": "FOC-07",
+      "name": "SARA DOORSOUN"
+    },
+    {
+      "code": "FOC-08",
+      "name": "VIVIEN ENDEMANN"
+    },
+    {
+      "code": "FOC-09",
+      "name": "LAURA FREIGANG"
+    },
+    {
+      "code": "FOC-10",
+      "name": "LISANNE GRÄWE"
+    },
+    {
+      "code": "FOC-11",
+      "name": "GIULIA GWINN"
+    },
+    {
+      "code": "FOC-12",
+      "name": "KATHRIN HENDRICH"
+    },
+    {
+      "code": "FOC-13",
+      "name": "GIOVANNA HOFFMANN"
+    },
+    {
+      "code": "FOC-14",
+      "name": "STINA JOHANNES"
+    },
+    {
+      "code": "FOC-15",
+      "name": "REBECCA KNAAK"
+    },
+    {
+      "code": "FOC-16",
+      "name": "SOPHIA KLEINHERNE"
+    },
+    {
+      "code": "FOC-17",
+      "name": "SARAI LINDER"
+    },
+    {
+      "code": "FOC-18",
+      "name": "ENA MAHMUTOVIC"
+    },
+    {
+      "code": "FOC-19",
+      "name": "JANINA MINGE"
+    },
+    {
+      "code": "FOC-20",
+      "name": "SJOEKE NÜSKEN"
+    },
+    {
+      "code": "FOC-21",
+      "name": "FELICITAS RAUCH"
+    },
+    {
+      "code": "FOC-22",
+      "name": "LEA SCHÜLLER"
+    },
+    {
+      "code": "FOC-23",
+      "name": "ALARA ŞEHITLER"
+    },
+    {
+      "code": "FOC-24",
+      "name": "ELISA SENß"
+    },
+    {
+      "code": "FOC-25",
+      "name": "PIA-SOPHIE WOLTER"
+    },
+    {
+      "code": "FOC-26",
+      "name": "CORA ZICAI"
+    },
+    {
+      "code": "VIC-01",
+      "name": "ANN-KATRIN BERGER"
+    },
+    {
+      "code": "VIC-02",
+      "name": "JULE BRAND"
+    },
+    {
+      "code": "VIC-03",
+      "name": "KLARA BÜHL"
+    },
+    {
+      "code": "VIC-04",
+      "name": "LAURA FREIGANG"
+    },
+    {
+      "code": "VIC-05",
+      "name": "GIULIA GWINN"
+    },
+    {
+      "code": "VIC-06",
+      "name": "SJOEKE NÜSKEN"
+    },
+    {
+      "code": "VIC-07",
+      "name": "LEA SCHÜLLER"
+    },
+    {
+      "code": "VIC-08",
+      "name": "ELISA SENß"
+    },
+    {
+      "code": "RIS-01",
+      "name": "VIVIEN ENDEMANN"
+    },
+    {
+      "code": "RIS-02",
+      "name": "LISANNE GRÄWE"
+    },
+    {
+      "code": "RIS-03",
+      "name": "ENA MAHMUTOVIC"
+    },
+    {
+      "code": "RIS-05",
+      "name": "ALARA ŞEHITLER"
+    },
+    {
+      "code": "RIS-06",
+      "name": "CORA ZICAI"
+    },
+    {
+      "code": "DUO-01",
+      "name": "ANN-KATRIN BERGER / STINA JOHANNES"
+    },
+    {
+      "code": "DUO-02",
+      "name": "LAURA FREIGANG / LEA SCHÜLLER"
+    },
+    {
+      "code": "DUO-03",
+      "name": "KLARA BÜHL / JULE BRAND"
+    },
+    {
+      "code": "DUO-04",
+      "name": "SJOEKE NÜSKEN / ELISA SENß"
+    },
+    {
+      "code": "DUO-05",
+      "name": "GIULIA GWINN / JANINA MINGE"
+    },
+    {
+      "code": "DUO-06",
+      "name": "LINDA DALLMANN / VIVIEN ENDEMANN"
+    },
+    {
+      "code": "DUO-07",
+      "name": "ALARA ŞEHITLER / SARA DÄBRITZ"
+    },
+    {
+      "code": "DUO-08",
+      "name": "SELINA CERCI / GIOVANNA HOFFMANN"
+    },
+    {
+      "code": "DUO-09",
+      "name": "LISANNE GRÄWE / CORA ZICAI"
+    },
+    {
+      "code": "AU-01",
+      "name": "ANN-KATRIN BERGER"
+    },
+    {
+      "code": "AU-02",
+      "name": "JULE BRAND"
+    },
+    {
+      "code": "AU-03",
+      "name": "KLARA BÜHL"
+    },
+    {
+      "code": "AU-04",
+      "name": "SELINA CERCI"
+    },
+    {
+      "code": "AU-05",
+      "name": "SARA DÄBRITZ"
+    },
+    {
+      "code": "AU-06",
+      "name": "LINDA DALLMANN"
+    },
+    {
+      "code": "AU-07",
+      "name": "SARA DOORSOUN"
+    },
+    {
+      "code": "AU-08",
+      "name": "VIVIEN ENDEMANN"
+    },
+    {
+      "code": "AU-09",
+      "name": "LAURA FREIGANG"
+    },
+    {
+      "code": "AU-10",
+      "name": "LISANNE GRÄWE"
+    },
+    {
+      "code": "AU-11",
+      "name": "GIULIA GWINN"
+    },
+    {
+      "code": "AU-12",
+      "name": "KATHRIN HENDRICH"
+    },
+    {
+      "code": "AU-13",
+      "name": "GIOVANNA HOFFMANN"
+    },
+    {
+      "code": "AU-14",
+      "name": "STINA JOHANNES"
+    },
+    {
+      "code": "AU-15",
+      "name": "REBECCA KNAAK"
+    },
+    {
+      "code": "AU-16",
+      "name": "SOPHIA KLEINHERNE"
+    },
+    {
+      "code": "AU-17",
+      "name": "SARAI LINDER"
+    },
+    {
+      "code": "AU-18",
+      "name": "ENA MAHMUTOVIC"
+    },
+    {
+      "code": "AU-19",
+      "name": "JANINA MINGE"
+    },
+    {
+      "code": "AU-20",
+      "name": "SJOEKE NÜSKEN"
+    },
+    {
+      "code": "AU-21",
+      "name": "FELICITAS RAUCH"
+    },
+    {
+      "code": "AU-22",
+      "name": "LEA SCHÜLLER"
+    },
+    {
+      "code": "AU-23",
+      "name": "ALARA ŞEHITLER"
+    },
+    {
+      "code": "AU-24",
+      "name": "ELISA SENß"
+    },
+    {
+      "code": "AU-25",
+      "name": "PIA-SOPHIE WOLTER"
+    },
+    {
+      "code": "AU-26",
+      "name": "CORA ZICAI"
+    }
+  ]
+}

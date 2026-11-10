@@ -1,0 +1,1470 @@
+{
+  "album": {
+    "slug": "panini-deutschland-2024-die-besten-aus-europa",
+    "publisher": "Panini",
+    "title": "Deutschland 2024 & die Besten aus Europa",
+    "year": 2024,
+    "season": null,
+    "category": "Fußball",
+    "region": "DE",
+    "kind": "sticker",
+    "total_stickers": null,
+    "cover_url": null,
+    "source": "https://www.panini.de/media/paniniFiles/D2024udBaE-Sticker-Checkliste.pdf",
+    "notes": null
+  },
+  "stickers": [
+    {
+      "code": "1",
+      "name": "Cover"
+    },
+    {
+      "code": "2",
+      "name": "Cover"
+    },
+    {
+      "code": "3",
+      "name": "Rovesciata"
+    },
+    {
+      "code": "4",
+      "name": "Franz Beckenbauer",
+      "team": "Legenden"
+    },
+    {
+      "code": "5",
+      "name": "Jürgen Kohler",
+      "team": "Legenden"
+    },
+    {
+      "code": "6",
+      "name": "Michael Ballack",
+      "team": "Legenden"
+    },
+    {
+      "code": "7",
+      "name": "Thomas Häßler",
+      "team": "Legenden"
+    },
+    {
+      "code": "8",
+      "name": "Lothar Matthäus",
+      "team": "Legenden"
+    },
+    {
+      "code": "9",
+      "name": "Andreas Möller",
+      "team": "Legenden"
+    },
+    {
+      "code": "10",
+      "name": "Matthias Sammer",
+      "team": "Legenden"
+    },
+    {
+      "code": "11",
+      "name": "Bernd Schuster",
+      "team": "Legenden"
+    },
+    {
+      "code": "12",
+      "name": "Bastian Schweinsteiger",
+      "team": "Legenden"
+    },
+    {
+      "code": "13",
+      "name": "Mario Gómez",
+      "team": "Legenden"
+    },
+    {
+      "code": "14",
+      "name": "Miroslav Klose",
+      "team": "Legenden"
+    },
+    {
+      "code": "15",
+      "name": "Karl-Heinz Riedle",
+      "team": "Legenden"
+    },
+    {
+      "code": "16",
+      "name": "Wappen",
+      "team": "Deutschland",
+      "is_special": true
+    },
+    {
+      "code": "17",
+      "name": "Marc-André Ter Stegen",
+      "team": "Deutschland"
+    },
+    {
+      "code": "18",
+      "name": "Manuel Neuer",
+      "team": "Deutschland"
+    },
+    {
+      "code": "19",
+      "name": "Kevin Trapp",
+      "team": "Deutschland"
+    },
+    {
+      "code": "20",
+      "name": "Robin Gosens",
+      "team": "Deutschland"
+    },
+    {
+      "code": "21",
+      "name": "Benjamin Henrichs",
+      "team": "Deutschland"
+    },
+    {
+      "code": "22",
+      "name": "Mats Hummels",
+      "team": "Deutschland"
+    },
+    {
+      "code": "23",
+      "name": "David Raum",
+      "team": "Deutschland"
+    },
+    {
+      "code": "24",
+      "name": "Antonio Rüdiger",
+      "team": "Deutschland"
+    },
+    {
+      "code": "25",
+      "name": "Niklas Süle",
+      "team": "Deutschland"
+    },
+    {
+      "code": "26",
+      "name": "Jonathan Tah",
+      "team": "Deutschland"
+    },
+    {
+      "code": "27",
+      "name": "Malick Thiaw",
+      "team": "Deutschland"
+    },
+    {
+      "code": "28",
+      "name": "Julian Brandt",
+      "team": "Deutschland"
+    },
+    {
+      "code": "29",
+      "name": "Chris Führich",
+      "team": "Deutschland"
+    },
+    {
+      "code": "30",
+      "name": "Leon Goretzka",
+      "team": "Deutschland"
+    },
+    {
+      "code": "31",
+      "name": "Pascal Groß",
+      "team": "Deutschland"
+    },
+    {
+      "code": "32",
+      "name": "İlkay Gündoğan",
+      "team": "Deutschland"
+    },
+    {
+      "code": "33",
+      "name": "Kai Havertz",
+      "team": "Deutschland"
+    },
+    {
+      "code": "34",
+      "name": "Jonas Hofmann",
+      "team": "Deutschland"
+    },
+    {
+      "code": "35",
+      "name": "Joshua Kimmich",
+      "team": "Deutschland"
+    },
+    {
+      "code": "36",
+      "name": "Toni Kroos",
+      "team": "Deutschland"
+    },
+    {
+      "code": "37",
+      "name": "Jamal Musiala",
+      "team": "Deutschland"
+    },
+    {
+      "code": "38",
+      "name": "Leroy Sané",
+      "team": "Deutschland"
+    },
+    {
+      "code": "39",
+      "name": "Florian Wirtz",
+      "team": "Deutschland"
+    },
+    {
+      "code": "40",
+      "name": "Niclas Füllkrug",
+      "team": "Deutschland"
+    },
+    {
+      "code": "41",
+      "name": "Serge Gnabry",
+      "team": "Deutschland"
+    },
+    {
+      "code": "42",
+      "name": "Thomas Müller",
+      "team": "Deutschland"
+    },
+    {
+      "code": "43",
+      "name": "Marc-André Ter Stegen",
+      "team": "Deutschland"
+    },
+    {
+      "code": "44",
+      "name": "Marc-André Ter Stegen",
+      "team": "Deutschland"
+    },
+    {
+      "code": "45",
+      "name": "Marc-André Ter Stegen",
+      "team": "Deutschland"
+    },
+    {
+      "code": "46",
+      "name": "Marc-André Ter Stegen",
+      "team": "Deutschland"
+    },
+    {
+      "code": "47",
+      "name": "Marc-André Ter Stegen",
+      "team": "Deutschland"
+    },
+    {
+      "code": "48",
+      "name": "Manuel Neuer",
+      "team": "Deutschland"
+    },
+    {
+      "code": "49",
+      "name": "Manuel Neuer",
+      "team": "Deutschland"
+    },
+    {
+      "code": "50",
+      "name": "Manuel Neuer",
+      "team": "Deutschland"
+    },
+    {
+      "code": "51",
+      "name": "Manuel Neuer",
+      "team": "Deutschland"
+    },
+    {
+      "code": "52",
+      "name": "Manuel Neuer",
+      "team": "Deutschland"
+    },
+    {
+      "code": "53",
+      "name": "Kevin Trapp",
+      "team": "Deutschland"
+    },
+    {
+      "code": "54",
+      "name": "Kevin Trapp",
+      "team": "Deutschland"
+    },
+    {
+      "code": "55",
+      "name": "Kevin Trapp",
+      "team": "Deutschland"
+    },
+    {
+      "code": "56",
+      "name": "Kevin Trapp",
+      "team": "Deutschland"
+    },
+    {
+      "code": "57",
+      "name": "Kevin Trapp",
+      "team": "Deutschland"
+    },
+    {
+      "code": "58",
+      "name": "Robin Gosens",
+      "team": "Deutschland"
+    },
+    {
+      "code": "59",
+      "name": "Robin Gosens",
+      "team": "Deutschland"
+    },
+    {
+      "code": "60",
+      "name": "Robin Gosens",
+      "team": "Deutschland"
+    },
+    {
+      "code": "61",
+      "name": "Robin Gosens",
+      "team": "Deutschland"
+    },
+    {
+      "code": "62",
+      "name": "Robin Gosens",
+      "team": "Deutschland"
+    },
+    {
+      "code": "63",
+      "name": "Benjamin Henrichs",
+      "team": "Deutschland"
+    },
+    {
+      "code": "64",
+      "name": "Benjamin Henrichs",
+      "team": "Deutschland"
+    },
+    {
+      "code": "65",
+      "name": "Benjamin Henrichs",
+      "team": "Deutschland"
+    },
+    {
+      "code": "66",
+      "name": "Benjamin Henrichs",
+      "team": "Deutschland"
+    },
+    {
+      "code": "67",
+      "name": "Benjamin Henrichs",
+      "team": "Deutschland"
+    },
+    {
+      "code": "68",
+      "name": "Mats Hummels",
+      "team": "Deutschland"
+    },
+    {
+      "code": "69",
+      "name": "Mats Hummels",
+      "team": "Deutschland"
+    },
+    {
+      "code": "70",
+      "name": "Mats Hummels",
+      "team": "Deutschland"
+    },
+    {
+      "code": "71",
+      "name": "Mats Hummels",
+      "team": "Deutschland"
+    },
+    {
+      "code": "72",
+      "name": "Mats Hummels",
+      "team": "Deutschland"
+    },
+    {
+      "code": "73",
+      "name": "David Raum",
+      "team": "Deutschland"
+    },
+    {
+      "code": "74",
+      "name": "David Raum",
+      "team": "Deutschland"
+    },
+    {
+      "code": "75",
+      "name": "David Raum",
+      "team": "Deutschland"
+    },
+    {
+      "code": "76",
+      "name": "David Raum",
+      "team": "Deutschland"
+    },
+    {
+      "code": "77",
+      "name": "David Raum",
+      "team": "Deutschland"
+    },
+    {
+      "code": "78",
+      "name": "Antonio Rüdiger",
+      "team": "Deutschland"
+    },
+    {
+      "code": "79",
+      "name": "Antonio Rüdiger",
+      "team": "Deutschland"
+    },
+    {
+      "code": "80",
+      "name": "Antonio Rüdiger",
+      "team": "Deutschland"
+    },
+    {
+      "code": "81",
+      "name": "Antonio Rüdiger",
+      "team": "Deutschland"
+    },
+    {
+      "code": "82",
+      "name": "Antonio Rüdiger",
+      "team": "Deutschland"
+    },
+    {
+      "code": "83",
+      "name": "Niklas Süle",
+      "team": "Deutschland"
+    },
+    {
+      "code": "84",
+      "name": "Niklas Süle",
+      "team": "Deutschland"
+    },
+    {
+      "code": "85",
+      "name": "Niklas Süle",
+      "team": "Deutschland"
+    },
+    {
+      "code": "86",
+      "name": "Niklas Süle",
+      "team": "Deutschland"
+    },
+    {
+      "code": "87",
+      "name": "Niklas Süle",
+      "team": "Deutschland"
+    },
+    {
+      "code": "88",
+      "name": "Jonathan Tah",
+      "team": "Deutschland"
+    },
+    {
+      "code": "89",
+      "name": "Jonathan Tah",
+      "team": "Deutschland"
+    },
+    {
+      "code": "90",
+      "name": "Jonathan Tah",
+      "team": "Deutschland"
+    },
+    {
+      "code": "91",
+      "name": "Jonathan Tah",
+      "team": "Deutschland"
+    },
+    {
+      "code": "92",
+      "name": "Jonathan Tah",
+      "team": "Deutschland"
+    },
+    {
+      "code": "93",
+      "name": "Malick Thiaw",
+      "team": "Deutschland"
+    },
+    {
+      "code": "94",
+      "name": "Malick Thiaw",
+      "team": "Deutschland"
+    },
+    {
+      "code": "95",
+      "name": "Malick Thiaw",
+      "team": "Deutschland"
+    },
+    {
+      "code": "96",
+      "name": "Malick Thiaw",
+      "team": "Deutschland"
+    },
+    {
+      "code": "97",
+      "name": "Malick Thiaw",
+      "team": "Deutschland"
+    },
+    {
+      "code": "98",
+      "name": "Julian Brandt",
+      "team": "Deutschland"
+    },
+    {
+      "code": "99",
+      "name": "Julian Brandt",
+      "team": "Deutschland"
+    },
+    {
+      "code": "100",
+      "name": "Julian Brandt",
+      "team": "Deutschland"
+    },
+    {
+      "code": "101",
+      "name": "Julian Brandt",
+      "team": "Deutschland"
+    },
+    {
+      "code": "102",
+      "name": "Julian Brandt",
+      "team": "Deutschland"
+    },
+    {
+      "code": "103",
+      "name": "Chris Führich",
+      "team": "Deutschland"
+    },
+    {
+      "code": "104",
+      "name": "Chris Führich",
+      "team": "Deutschland"
+    },
+    {
+      "code": "105",
+      "name": "Chris Führich",
+      "team": "Deutschland"
+    },
+    {
+      "code": "106",
+      "name": "Chris Führich",
+      "team": "Deutschland"
+    },
+    {
+      "code": "107",
+      "name": "Chris Führich",
+      "team": "Deutschland"
+    },
+    {
+      "code": "108",
+      "name": "Leon Goretzka",
+      "team": "Deutschland"
+    },
+    {
+      "code": "109",
+      "name": "Leon Goretzka",
+      "team": "Deutschland"
+    },
+    {
+      "code": "110",
+      "name": "Leon Goretzka",
+      "team": "Deutschland"
+    },
+    {
+      "code": "111",
+      "name": "Leon Goretzka",
+      "team": "Deutschland"
+    },
+    {
+      "code": "112",
+      "name": "Leon Goretzka",
+      "team": "Deutschland"
+    },
+    {
+      "code": "113",
+      "name": "Pascal Groß",
+      "team": "Deutschland"
+    },
+    {
+      "code": "114",
+      "name": "Pascal Groß",
+      "team": "Deutschland"
+    },
+    {
+      "code": "115",
+      "name": "Pascal Groß",
+      "team": "Deutschland"
+    },
+    {
+      "code": "116",
+      "name": "Pascal Groß",
+      "team": "Deutschland"
+    },
+    {
+      "code": "117",
+      "name": "Pascal Groß",
+      "team": "Deutschland"
+    },
+    {
+      "code": "118",
+      "name": "İlkay Gündoğan",
+      "team": "Deutschland"
+    },
+    {
+      "code": "119",
+      "name": "İlkay Gündoğan",
+      "team": "Deutschland"
+    },
+    {
+      "code": "120",
+      "name": "İlkay Gündoğan",
+      "team": "Deutschland"
+    },
+    {
+      "code": "121",
+      "name": "İlkay Gündoğan",
+      "team": "Deutschland"
+    },
+    {
+      "code": "122",
+      "name": "İlkay Gündoğan",
+      "team": "Deutschland"
+    },
+    {
+      "code": "123",
+      "name": "Kai Havertz",
+      "team": "Deutschland"
+    },
+    {
+      "code": "124",
+      "name": "Kai Havertz",
+      "team": "Deutschland"
+    },
+    {
+      "code": "125",
+      "name": "Kai Havertz",
+      "team": "Deutschland"
+    },
+    {
+      "code": "126",
+      "name": "Kai Havertz",
+      "team": "Deutschland"
+    },
+    {
+      "code": "127",
+      "name": "Kai Havertz",
+      "team": "Deutschland"
+    },
+    {
+      "code": "128",
+      "name": "Jonas Hofmann",
+      "team": "Deutschland"
+    },
+    {
+      "code": "129",
+      "name": "Jonas Hofmann",
+      "team": "Deutschland"
+    },
+    {
+      "code": "130",
+      "name": "Jonas Hofmann",
+      "team": "Deutschland"
+    },
+    {
+      "code": "131",
+      "name": "Jonas Hofmann",
+      "team": "Deutschland"
+    },
+    {
+      "code": "132",
+      "name": "Jonas Hofmann",
+      "team": "Deutschland"
+    },
+    {
+      "code": "133",
+      "name": "Joshua Kimmich",
+      "team": "Deutschland"
+    },
+    {
+      "code": "134",
+      "name": "Joshua Kimmich",
+      "team": "Deutschland"
+    },
+    {
+      "code": "135",
+      "name": "Joshua Kimmich",
+      "team": "Deutschland"
+    },
+    {
+      "code": "136",
+      "name": "Joshua Kimmich",
+      "team": "Deutschland"
+    },
+    {
+      "code": "137",
+      "name": "Joshua Kimmich",
+      "team": "Deutschland"
+    },
+    {
+      "code": "138",
+      "name": "Toni Kroos",
+      "team": "Deutschland"
+    },
+    {
+      "code": "139",
+      "name": "Toni Kroos",
+      "team": "Deutschland"
+    },
+    {
+      "code": "140",
+      "name": "Toni Kroos",
+      "team": "Deutschland"
+    },
+    {
+      "code": "141",
+      "name": "Toni Kroos",
+      "team": "Deutschland"
+    },
+    {
+      "code": "142",
+      "name": "Toni Kroos",
+      "team": "Deutschland"
+    },
+    {
+      "code": "143",
+      "name": "Jamal Musiala",
+      "team": "Deutschland"
+    },
+    {
+      "code": "144",
+      "name": "Jamal Musiala",
+      "team": "Deutschland"
+    },
+    {
+      "code": "145",
+      "name": "Jamal Musiala",
+      "team": "Deutschland"
+    },
+    {
+      "code": "146",
+      "name": "Jamal Musiala",
+      "team": "Deutschland"
+    },
+    {
+      "code": "147",
+      "name": "Jamal Musiala",
+      "team": "Deutschland"
+    },
+    {
+      "code": "148",
+      "name": "Leroy Sané",
+      "team": "Deutschland"
+    },
+    {
+      "code": "149",
+      "name": "Leroy Sané",
+      "team": "Deutschland"
+    },
+    {
+      "code": "150",
+      "name": "Leroy Sané",
+      "team": "Deutschland"
+    },
+    {
+      "code": "151",
+      "name": "Leroy Sané",
+      "team": "Deutschland"
+    },
+    {
+      "code": "152",
+      "name": "Leroy Sané",
+      "team": "Deutschland"
+    },
+    {
+      "code": "153",
+      "name": "Florian Wirtz",
+      "team": "Deutschland"
+    },
+    {
+      "code": "154",
+      "name": "Florian Wirtz",
+      "team": "Deutschland"
+    },
+    {
+      "code": "155",
+      "name": "Florian Wirtz",
+      "team": "Deutschland"
+    },
+    {
+      "code": "156",
+      "name": "Florian Wirtz",
+      "team": "Deutschland"
+    },
+    {
+      "code": "157",
+      "name": "Florian Wirtz",
+      "team": "Deutschland"
+    },
+    {
+      "code": "158",
+      "name": "Niclas Füllkrug",
+      "team": "Deutschland"
+    },
+    {
+      "code": "159",
+      "name": "Niclas Füllkrug",
+      "team": "Deutschland"
+    },
+    {
+      "code": "160",
+      "name": "Niclas Füllkrug",
+      "team": "Deutschland"
+    },
+    {
+      "code": "161",
+      "name": "Niclas Füllkrug",
+      "team": "Deutschland"
+    },
+    {
+      "code": "162",
+      "name": "Niclas Füllkrug",
+      "team": "Deutschland"
+    },
+    {
+      "code": "163",
+      "name": "Serge Gnabry",
+      "team": "Deutschland"
+    },
+    {
+      "code": "164",
+      "name": "Serge Gnabry",
+      "team": "Deutschland"
+    },
+    {
+      "code": "165",
+      "name": "Serge Gnabry",
+      "team": "Deutschland"
+    },
+    {
+      "code": "166",
+      "name": "Serge Gnabry",
+      "team": "Deutschland"
+    },
+    {
+      "code": "167",
+      "name": "Serge Gnabry",
+      "team": "Deutschland"
+    },
+    {
+      "code": "168",
+      "name": "Thomas Müller",
+      "team": "Deutschland"
+    },
+    {
+      "code": "169",
+      "name": "Thomas Müller",
+      "team": "Deutschland"
+    },
+    {
+      "code": "170",
+      "name": "Thomas Müller",
+      "team": "Deutschland"
+    },
+    {
+      "code": "171",
+      "name": "Thomas Müller",
+      "team": "Deutschland"
+    },
+    {
+      "code": "172",
+      "name": "Thomas Müller",
+      "team": "Deutschland"
+    },
+    {
+      "code": "173",
+      "name": "Noah Atubolu",
+      "team": "Next Generation"
+    },
+    {
+      "code": "174",
+      "name": "Nathaniel Brown",
+      "team": "Next Generation"
+    },
+    {
+      "code": "175",
+      "name": "Luca Netz",
+      "team": "Next Generation"
+    },
+    {
+      "code": "176",
+      "name": "Eric Martel",
+      "team": "Next Generation"
+    },
+    {
+      "code": "177",
+      "name": "Rocco Reitz",
+      "team": "Next Generation"
+    },
+    {
+      "code": "178",
+      "name": "Merlin Röhl",
+      "team": "Next Generation"
+    },
+    {
+      "code": "179",
+      "name": "Brajan Gruda",
+      "team": "Next Generation"
+    },
+    {
+      "code": "180",
+      "name": "Ansgar Knauff",
+      "team": "Next Generation"
+    },
+    {
+      "code": "181",
+      "name": "Jan Thielmann",
+      "team": "Next Generation"
+    },
+    {
+      "code": "182",
+      "name": "Youssoufa Moukoko",
+      "team": "Next Generation"
+    },
+    {
+      "code": "183",
+      "name": "Wappen",
+      "team": "Frankreich",
+      "is_special": true
+    },
+    {
+      "code": "184",
+      "name": "Alphonse Areola",
+      "team": "Frankreich"
+    },
+    {
+      "code": "185",
+      "name": "Mike Maignan",
+      "team": "Frankreich"
+    },
+    {
+      "code": "186",
+      "name": "Brice Samba",
+      "team": "Frankreich"
+    },
+    {
+      "code": "187",
+      "name": "Jonathan Clauss",
+      "team": "Frankreich"
+    },
+    {
+      "code": "188",
+      "name": "Lucas Hernández",
+      "team": "Frankreich"
+    },
+    {
+      "code": "189",
+      "name": "Théo Hernández",
+      "team": "Frankreich"
+    },
+    {
+      "code": "190",
+      "name": "Ibrahima Konaté",
+      "team": "Frankreich"
+    },
+    {
+      "code": "191",
+      "name": "Jules Koundé",
+      "team": "Frankreich"
+    },
+    {
+      "code": "192",
+      "name": "Benjamin Pavard",
+      "team": "Frankreich"
+    },
+    {
+      "code": "193",
+      "name": "William Saliba",
+      "team": "Frankreich"
+    },
+    {
+      "code": "194",
+      "name": "Jean-Clair Todibo",
+      "team": "Frankreich"
+    },
+    {
+      "code": "195",
+      "name": "Dayot Upamecano",
+      "team": "Frankreich"
+    },
+    {
+      "code": "196",
+      "name": "Eduardo Camavinga",
+      "team": "Frankreich"
+    },
+    {
+      "code": "197",
+      "name": "Youssouf Fofana",
+      "team": "Frankreich"
+    },
+    {
+      "code": "198",
+      "name": "Boubacar Kamara",
+      "team": "Frankreich"
+    },
+    {
+      "code": "199",
+      "name": "Christopher Nkunku",
+      "team": "Frankreich"
+    },
+    {
+      "code": "200",
+      "name": "Adrien Rabiot",
+      "team": "Frankreich"
+    },
+    {
+      "code": "201",
+      "name": "Aurélien Tchouameni",
+      "team": "Frankreich"
+    },
+    {
+      "code": "202",
+      "name": "Warren Zaïre-Emery",
+      "team": "Frankreich"
+    },
+    {
+      "code": "203",
+      "name": "Kingsley Coman",
+      "team": "Frankreich"
+    },
+    {
+      "code": "204",
+      "name": "Ousmane Dembélé",
+      "team": "Frankreich"
+    },
+    {
+      "code": "205",
+      "name": "Olivier Giroud",
+      "team": "Frankreich"
+    },
+    {
+      "code": "206",
+      "name": "Antoine Griezmann",
+      "team": "Frankreich"
+    },
+    {
+      "code": "207",
+      "name": "Randal Kolo Muani",
+      "team": "Frankreich"
+    },
+    {
+      "code": "208",
+      "name": "Kylian Mbappé",
+      "team": "Frankreich"
+    },
+    {
+      "code": "209",
+      "name": "Marcus Thuram",
+      "team": "Frankreich"
+    },
+    {
+      "code": "210",
+      "name": "Wappen",
+      "team": "England",
+      "is_special": true
+    },
+    {
+      "code": "211",
+      "name": "Jordan Pickford",
+      "team": "England"
+    },
+    {
+      "code": "212",
+      "name": "Sam Johnstone",
+      "team": "England"
+    },
+    {
+      "code": "213",
+      "name": "Aaron Ramsdale",
+      "team": "England"
+    },
+    {
+      "code": "214",
+      "name": "Ben Chilwell",
+      "team": "England"
+    },
+    {
+      "code": "215",
+      "name": "Marc Guéhi",
+      "team": "England"
+    },
+    {
+      "code": "216",
+      "name": "Harry Maguire",
+      "team": "England"
+    },
+    {
+      "code": "217",
+      "name": "Luke Shaw",
+      "team": "England"
+    },
+    {
+      "code": "218",
+      "name": "John Stones",
+      "team": "England"
+    },
+    {
+      "code": "219",
+      "name": "Kieran Trippier",
+      "team": "England"
+    },
+    {
+      "code": "220",
+      "name": "Kyle Walker",
+      "team": "England"
+    },
+    {
+      "code": "221",
+      "name": "Trent Alexander-Arnold",
+      "team": "England"
+    },
+    {
+      "code": "222",
+      "name": "Jude Bellingham",
+      "team": "England"
+    },
+    {
+      "code": "223",
+      "name": "Phil Foden",
+      "team": "England"
+    },
+    {
+      "code": "224",
+      "name": "Conor Gallagher",
+      "team": "England"
+    },
+    {
+      "code": "225",
+      "name": "Jack Grealish",
+      "team": "England"
+    },
+    {
+      "code": "226",
+      "name": "Jordan Henderson",
+      "team": "England"
+    },
+    {
+      "code": "227",
+      "name": "James Maddison",
+      "team": "England"
+    },
+    {
+      "code": "228",
+      "name": "Cole Palmer",
+      "team": "England"
+    },
+    {
+      "code": "229",
+      "name": "Kalvin Phillips",
+      "team": "England"
+    },
+    {
+      "code": "230",
+      "name": "Declan Rice",
+      "team": "England"
+    },
+    {
+      "code": "231",
+      "name": "Bukayo Saka",
+      "team": "England"
+    },
+    {
+      "code": "232",
+      "name": "Jarrod Bowen",
+      "team": "England"
+    },
+    {
+      "code": "233",
+      "name": "Harry Kane",
+      "team": "England"
+    },
+    {
+      "code": "234",
+      "name": "Marcus Rashford",
+      "team": "England"
+    },
+    {
+      "code": "235",
+      "name": "Ollie Watkins",
+      "team": "England"
+    },
+    {
+      "code": "236",
+      "name": "Callum Wilson",
+      "team": "England"
+    },
+    {
+      "code": "237",
+      "name": "Wappen",
+      "team": "Italien",
+      "is_special": true
+    },
+    {
+      "code": "238",
+      "name": "Gianluigi Donnarumma",
+      "team": "Italien"
+    },
+    {
+      "code": "239",
+      "name": "Alex Meret",
+      "team": "Italien"
+    },
+    {
+      "code": "240",
+      "name": "Francesco Acerbi",
+      "team": "Italien"
+    },
+    {
+      "code": "241",
+      "name": "Alessandro Bastoni",
+      "team": "Italien"
+    },
+    {
+      "code": "242",
+      "name": "Alessandro Buongiorno",
+      "team": "Italien"
+    },
+    {
+      "code": "243",
+      "name": "Matteo Darmian",
+      "team": "Italien"
+    },
+    {
+      "code": "244",
+      "name": "Giovanni Di Lorenzo",
+      "team": "Italien"
+    },
+    {
+      "code": "245",
+      "name": "Federico Dimarco",
+      "team": "Italien"
+    },
+    {
+      "code": "246",
+      "name": "Gianluca Mancini",
+      "team": "Italien"
+    },
+    {
+      "code": "247",
+      "name": "Giorgio Scalvini",
+      "team": "Italien"
+    },
+    {
+      "code": "248",
+      "name": "Destiny Udogie",
+      "team": "Italien"
+    },
+    {
+      "code": "249",
+      "name": "Nicolò Barella",
+      "team": "Italien"
+    },
+    {
+      "code": "250",
+      "name": "Giacomo Bonaventura",
+      "team": "Italien"
+    },
+    {
+      "code": "251",
+      "name": "Bryan Cristante",
+      "team": "Italien"
+    },
+    {
+      "code": "252",
+      "name": "Davide Frattesi",
+      "team": "Italien"
+    },
+    {
+      "code": "253",
+      "name": "Jorginho",
+      "team": "Italien"
+    },
+    {
+      "code": "254",
+      "name": "Manuel Locatelli",
+      "team": "Italien"
+    },
+    {
+      "code": "255",
+      "name": "Nicolò Zaniolo",
+      "team": "Italien"
+    },
+    {
+      "code": "256",
+      "name": "Domenico Berardi",
+      "team": "Italien"
+    },
+    {
+      "code": "257",
+      "name": "Federico Chiesa",
+      "team": "Italien"
+    },
+    {
+      "code": "258",
+      "name": "Stephan El Shaarawy",
+      "team": "Italien"
+    },
+    {
+      "code": "259",
+      "name": "Ciro Immobile",
+      "team": "Italien"
+    },
+    {
+      "code": "260",
+      "name": "Matteo Politano",
+      "team": "Italien"
+    },
+    {
+      "code": "261",
+      "name": "Giacomo Raspadori",
+      "team": "Italien"
+    },
+    {
+      "code": "262",
+      "name": "Mateo Retegui",
+      "team": "Italien"
+    },
+    {
+      "code": "263",
+      "name": "Gianluca Scamacca",
+      "team": "Italien"
+    },
+    {
+      "code": "264",
+      "name": "Wappen",
+      "team": "Spanien",
+      "is_special": true
+    },
+    {
+      "code": "265",
+      "name": "Unai Simón",
+      "team": "Spanien"
+    },
+    {
+      "code": "266",
+      "name": "Kepa Arrizabalaga",
+      "team": "Spanien"
+    },
+    {
+      "code": "267",
+      "name": "Alejandro Balde",
+      "team": "Spanien"
+    },
+    {
+      "code": "268",
+      "name": "Daniel Carvajal",
+      "team": "Spanien"
+    },
+    {
+      "code": "269",
+      "name": "David García",
+      "team": "Spanien"
+    },
+    {
+      "code": "270",
+      "name": "José Gayà",
+      "team": "Spanien"
+    },
+    {
+      "code": "271",
+      "name": "Aymeric Laporte",
+      "team": "Spanien"
+    },
+    {
+      "code": "272",
+      "name": "Robin Le Normand",
+      "team": "Spanien"
+    },
+    {
+      "code": "273",
+      "name": "Iñigo Martínez",
+      "team": "Spanien"
+    },
+    {
+      "code": "274",
+      "name": "Jesús Navas",
+      "team": "Spanien"
+    },
+    {
+      "code": "275",
+      "name": "Gavi",
+      "team": "Spanien"
+    },
+    {
+      "code": "276",
+      "name": "Mikel Merino",
+      "team": "Spanien"
+    },
+    {
+      "code": "277",
+      "name": "Dani Olmo",
+      "team": "Spanien"
+    },
+    {
+      "code": "278",
+      "name": "Pedri",
+      "team": "Spanien"
+    },
+    {
+      "code": "279",
+      "name": "Rodri",
+      "team": "Spanien"
+    },
+    {
+      "code": "280",
+      "name": "Fabián Ruiz",
+      "team": "Spanien"
+    },
+    {
+      "code": "281",
+      "name": "Oihan Sancet",
+      "team": "Spanien"
+    },
+    {
+      "code": "282",
+      "name": "Martín Zubimendi",
+      "team": "Spanien"
+    },
+    {
+      "code": "283",
+      "name": "Marco Asensio",
+      "team": "Spanien"
+    },
+    {
+      "code": "284",
+      "name": "Ansu Fati",
+      "team": "Spanien"
+    },
+    {
+      "code": "285",
+      "name": "Joselu",
+      "team": "Spanien"
+    },
+    {
+      "code": "286",
+      "name": "Álvaro Morata",
+      "team": "Spanien"
+    },
+    {
+      "code": "287",
+      "name": "Mikel Oyarzabal",
+      "team": "Spanien"
+    },
+    {
+      "code": "288",
+      "name": "Ferran Torres",
+      "team": "Spanien"
+    },
+    {
+      "code": "289",
+      "name": "Nico Williams",
+      "team": "Spanien"
+    },
+    {
+      "code": "290",
+      "name": "Lamine Yamal",
+      "team": "Spanien"
+    }
+  ]
+}

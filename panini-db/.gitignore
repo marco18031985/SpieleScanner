@@ -2,3 +2,4 @@ stickers.db
 __pycache__/
 *.pyc
 bilder/
+.cache/

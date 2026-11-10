@@ -1,0 +1,1303 @@
+{
+  "album": {
+    "slug": "panini-pdc-world-championship-2026-tc",
+    "publisher": "Panini",
+    "title": "PDC World Championship 2026 Trading Cards",
+    "year": 2025,
+    "season": null,
+    "category": "Darts",
+    "region": "INT",
+    "kind": "card",
+    "total_stickers": null,
+    "cover_url": null,
+    "source": "https://www.panini.de/media/paniniFiles/pdc-world-championship-2026-darts-trading-cards-checklist-005260.pdf",
+    "notes": null
+  },
+  "stickers": [
+    {
+      "code": "BA-01",
+      "name": "LUKE HUMPHRIES"
+    },
+    {
+      "code": "BA-02",
+      "name": "LUKE LITTLER"
+    },
+    {
+      "code": "BA-03",
+      "name": "MICHAEL VAN GERWEN"
+    },
+    {
+      "code": "BA-04",
+      "name": "STEPHEN BUNTING"
+    },
+    {
+      "code": "BA-05",
+      "name": "JAMES WADE"
+    },
+    {
+      "code": "BA-06",
+      "name": "GERWYN PRICE"
+    },
+    {
+      "code": "BA-07",
+      "name": "CHRIS DOBEY"
+    },
+    {
+      "code": "BA-08",
+      "name": "JONNY CLAYTON"
+    },
+    {
+      "code": "BA-09",
+      "name": "ROB CROSS"
+    },
+    {
+      "code": "BA-10",
+      "name": "DAMON HETA"
+    },
+    {
+      "code": "BA-11",
+      "name": "JOSH ROCK"
+    },
+    {
+      "code": "BA-12",
+      "name": "GARY ANDERSON"
+    },
+    {
+      "code": "BA-13",
+      "name": "DAVE CHISNALL"
+    },
+    {
+      "code": "BA-14",
+      "name": "ROSS SMITH"
+    },
+    {
+      "code": "BA-15",
+      "name": "DANNY NOPPERT"
+    },
+    {
+      "code": "BA-16",
+      "name": "PETER WRIGHT"
+    },
+    {
+      "code": "BA-17",
+      "name": "MARTIN SCHINDLER"
+    },
+    {
+      "code": "BA-18",
+      "name": "GIAN VAN VEEN"
+    },
+    {
+      "code": "BA-19",
+      "name": "MIKE DE DECKER"
+    },
+    {
+      "code": "BA-20",
+      "name": "RYAN SEARLE"
+    },
+    {
+      "code": "BA-21",
+      "name": "MICHAEL SMITH"
+    },
+    {
+      "code": "BA-22",
+      "name": "DIMITRI VAN DEN BERGH"
+    },
+    {
+      "code": "BA-23",
+      "name": "NATHAN ASPINALL"
+    },
+    {
+      "code": "BA-24",
+      "name": "RYAN JOYCE"
+    },
+    {
+      "code": "BA-25",
+      "name": "ANDREW GILDING"
+    },
+    {
+      "code": "BA-26",
+      "name": "JERMAINE WATTIMENA"
+    },
+    {
+      "code": "BA-27",
+      "name": "DARYL GURNEY"
+    },
+    {
+      "code": "BA-28",
+      "name": "RITCHIE EDHOUSE"
+    },
+    {
+      "code": "BA-29",
+      "name": "RICARDO PIETRECZKO"
+    },
+    {
+      "code": "BA-30",
+      "name": "JOE CULLEN"
+    },
+    {
+      "code": "BA-31",
+      "name": "LUKE WOODHOUSE"
+    },
+    {
+      "code": "BA-32",
+      "name": "DIRK VAN DUIJVENBODE"
+    },
+    {
+      "code": "BA-33",
+      "name": "CAMERON MENZIES"
+    },
+    {
+      "code": "BA-34",
+      "name": "KRZYSZTOF RATAJSKI"
+    },
+    {
+      "code": "BA-35",
+      "name": "RAYMOND VAN BARNEVELD"
+    },
+    {
+      "code": "BA-36",
+      "name": "BRENDAN DOLAN"
+    },
+    {
+      "code": "BA-37",
+      "name": "SCOTT WILLIAMS"
+    },
+    {
+      "code": "BA-38",
+      "name": "MARTIN LUKEMAN"
+    },
+    {
+      "code": "BA-39",
+      "name": "GABRIEL CLEMENS"
+    },
+    {
+      "code": "BA-40",
+      "name": "WESSEL NIJMAN"
+    },
+    {
+      "code": "BA-41",
+      "name": "KEVIN DOETS"
+    },
+    {
+      "code": "BA-42",
+      "name": "CALLAN RYDZ"
+    },
+    {
+      "code": "BA-43",
+      "name": "MICKEY MANSELL"
+    },
+    {
+      "code": "BA-44",
+      "name": "NIELS ZONNEVELD"
+    },
+    {
+      "code": "BA-45",
+      "name": "RICKY EVANS"
+    },
+    {
+      "code": "BA-46",
+      "name": "MADARS RAZMA"
+    },
+    {
+      "code": "BA-47",
+      "name": "WILLIAM O’CONNOR"
+    },
+    {
+      "code": "BA-48",
+      "name": "IAN WHITE"
+    },
+    {
+      "code": "BA-49",
+      "name": "RICHARD VEENSTRA"
+    },
+    {
+      "code": "BA-50",
+      "name": "KIM HUYBRECHTS"
+    },
+    {
+      "code": "BA-51",
+      "name": "FLORIAN HEMPEL"
+    },
+    {
+      "code": "BA-52",
+      "name": "KEANE BARRY"
+    },
+    {
+      "code": "BA-53",
+      "name": "MATT CAMPBELL"
+    },
+    {
+      "code": "BA-54",
+      "name": "ALAN SOUTAR"
+    },
+    {
+      "code": "BA-55",
+      "name": "CONNOR SCUTT"
+    },
+    {
+      "code": "BA-56",
+      "name": "JOSÉ DE SOUSA"
+    },
+    {
+      "code": "BA-57",
+      "name": "JIM WILLIAMS"
+    },
+    {
+      "code": "BA-58",
+      "name": "ROB OWEN"
+    },
+    {
+      "code": "BA-59",
+      "name": "JEFFREY DE GRAAF"
+    },
+    {
+      "code": "BA-60",
+      "name": "RYAN MEIKLE"
+    },
+    {
+      "code": "BA-61",
+      "name": "NICK KENNY"
+    },
+    {
+      "code": "BA-62",
+      "name": "STEPHEN BURTON"
+    },
+    {
+      "code": "BA-63",
+      "name": "MENSUR SULJOVIĆ"
+    },
+    {
+      "code": "BA-64",
+      "name": "THIBAULT TRICOLE"
+    },
+    {
+      "code": "BA-65",
+      "name": "DYLAN SLEVIN"
+    },
+    {
+      "code": "BA-66",
+      "name": "DOM TAYLOR"
+    },
+    {
+      "code": "BA-67",
+      "name": "JAMES HURRELL"
+    },
+    {
+      "code": "BA-68",
+      "name": "MARIO VANDENBOGAERDE"
+    },
+    {
+      "code": "BA-69",
+      "name": "CHRIS LANDMANN"
+    },
+    {
+      "code": "BA-70",
+      "name": "LUKAS WENIG"
+    },
+    {
+      "code": "BA-71",
+      "name": "NIKO SPRINGER"
+    },
+    {
+      "code": "BA-72",
+      "name": "ANDY BAETENS"
+    },
+    {
+      "code": "BA-73",
+      "name": "BRADLEY BROOKS"
+    },
+    {
+      "code": "BA-74",
+      "name": "MATTHEW DENNANT"
+    },
+    {
+      "code": "BA-75",
+      "name": "BERRY VAN PEER"
+    },
+    {
+      "code": "BA-76",
+      "name": "STEVE LENNON"
+    },
+    {
+      "code": "BA-77",
+      "name": "DARREN BEVERIDGE"
+    },
+    {
+      "code": "BA-78",
+      "name": "OWEN BATES"
+    },
+    {
+      "code": "BA-79",
+      "name": "NATHAN RAFFERTY"
+    },
+    {
+      "code": "BA-80",
+      "name": "KAREL SEDLÁČEK"
+    },
+    {
+      "code": "BA-81",
+      "name": "SEBASTIAN BIALECKI"
+    },
+    {
+      "code": "BA-82",
+      "name": "RHYS GRIFFIN"
+    },
+    {
+      "code": "BA-83",
+      "name": "NITIN KUMAR"
+    },
+    {
+      "code": "BA-84",
+      "name": "ADAM HUNT"
+    },
+    {
+      "code": "BA-85",
+      "name": "LEONARD GATES"
+    },
+    {
+      "code": "BA-86",
+      "name": "RADEK SZAGANSKI"
+    },
+    {
+      "code": "BA-87",
+      "name": "JELLE KLAASEN"
+    },
+    {
+      "code": "BA-88",
+      "name": "CAMERON CRABTREE"
+    },
+    {
+      "code": "BA-89",
+      "name": "MAX HOPP"
+    },
+    {
+      "code": "BA-90",
+      "name": "DANNY LAUBY"
+    },
+    {
+      "code": "BA-91",
+      "name": "ADRIAN LEWIS"
+    },
+    {
+      "code": "BA-92",
+      "name": "BEAU GREAVES"
+    },
+    {
+      "code": "BA-93",
+      "name": "FALLON SHERROCK"
+    },
+    {
+      "code": "BA-94",
+      "name": "CHRISTIAN KIST"
+    },
+    {
+      "code": "BA-95",
+      "name": "JEFFREY DE ZWAAN"
+    },
+    {
+      "code": "BA-96",
+      "name": "KAI GOTTHARDT"
+    },
+    {
+      "code": "BA-97",
+      "name": "LISA ASHTON"
+    },
+    {
+      "code": "BA-98",
+      "name": "LOURENCE ILAGAN"
+    },
+    {
+      "code": "BA-99",
+      "name": "NOA-LYNN VAN LEUVEN"
+    },
+    {
+      "code": "BA-100",
+      "name": "PAOLO NEBRIDA"
+    },
+    {
+      "code": "CHAMP-01",
+      "name": "DENNIS PRIESTLEY"
+    },
+    {
+      "code": "CHAMP-02",
+      "name": "PHIL TAYLOR"
+    },
+    {
+      "code": "CHAMP-03",
+      "name": "JOHN PART"
+    },
+    {
+      "code": "CHAMP-04",
+      "name": "RAYMOND VAN BARNEVELD"
+    },
+    {
+      "code": "CHAMP-05",
+      "name": "ADRIAN LEWIS"
+    },
+    {
+      "code": "CHAMP-06",
+      "name": "MICHAEL VAN GERWEN"
+    },
+    {
+      "code": "CHAMP-07",
+      "name": "GARY ANDERSON"
+    },
+    {
+      "code": "CHAMP-08",
+      "name": "ROB CROSS"
+    },
+    {
+      "code": "CHAMP-09",
+      "name": "PETER WRIGHT"
+    },
+    {
+      "code": "CHAMP-10",
+      "name": "GERWYN PRICE"
+    },
+    {
+      "code": "CHAMP-11",
+      "name": "MICHAEL SMITH"
+    },
+    {
+      "code": "CHAMP-12",
+      "name": "LUKE HUMPHRIES"
+    },
+    {
+      "code": "CHAMP-13",
+      "name": "LUKE LITTLER"
+    },
+    {
+      "code": "CHAMP-14",
+      "name": "LUKE LITTLER (WC 2025 Design)"
+    },
+    {
+      "code": "NINE-01",
+      "name": "RAYMOND VAN BARNEVELD"
+    },
+    {
+      "code": "NINE-02",
+      "name": "RAYMOND VAN BARNEVELD"
+    },
+    {
+      "code": "NINE-03",
+      "name": "ADRIAN LEWIS"
+    },
+    {
+      "code": "NINE-04",
+      "name": "DEAN WINSTANLEY"
+    },
+    {
+      "code": "NINE-05",
+      "name": "MICHAEL VAN GERWEN"
+    },
+    {
+      "code": "NINE-06",
+      "name": "TERRY JENKINS"
+    },
+    {
+      "code": "NINE-07",
+      "name": "KYLE ANDERSON"
+    },
+    {
+      "code": "NINE-08",
+      "name": "ADRIAN LEWIS"
+    },
+    {
+      "code": "NINE-09",
+      "name": "GARY ANDERSON"
+    },
+    {
+      "code": "NINE-10",
+      "name": "JAMES WADE"
+    },
+    {
+      "code": "NINE-11",
+      "name": "WILLIAM BORLAND"
+    },
+    {
+      "code": "NINE-12",
+      "name": "DARIUS LABANAUSKAS"
+    },
+    {
+      "code": "NINE-13",
+      "name": "GERWYN PRICE"
+    },
+    {
+      "code": "NINE-14",
+      "name": "MICHAEL SMITH"
+    },
+    {
+      "code": "NINE-15",
+      "name": "CHRISTIAN KIST"
+    },
+    {
+      "code": "NINE-16",
+      "name": "DAMON HETA"
+    },
+    {
+      "code": "NINE-17",
+      "name": "CHRISTIAN KIST (WC 2025 Design)"
+    },
+    {
+      "code": "NINE-18",
+      "name": "DAMON HETA (WC 2025 Design)"
+    },
+    {
+      "code": "EPIC-01",
+      "name": "JOHN PART - PHIL TAYLOR"
+    },
+    {
+      "code": "EPIC-02",
+      "name": "RAYMOND VAN BARNEVELD -"
+    },
+    {
+      "code": "EPIC-03",
+      "name": "ADRIAN LEWIS - GARY ANDERSON"
+    },
+    {
+      "code": "EPIC-04",
+      "name": "GARY ANDERSON - PHIL TAYLOR"
+    },
+    {
+      "code": "EPIC-05",
+      "name": "ROB CROSS - PHIL TAYLOR"
+    },
+    {
+      "code": "EPIC-06",
+      "name": "MICHAEL SMITH -",
+      "team": "PETER WRIGHT"
+    },
+    {
+      "code": "EPIC-07",
+      "name": "LUKE HUMPHRIES - LUKE LITTLER"
+    },
+    {
+      "code": "EPIC-08",
+      "name": "LUKE LITTLER -"
+    },
+    {
+      "code": "EPIC-09",
+      "name": "PETER WRIGHT - MICHAEL SMITH"
+    },
+    {
+      "code": "EPIC-10",
+      "name": "GARY ANDERSON - ADRIAN LEWIS"
+    },
+    {
+      "code": "EPIC-11",
+      "name": "MICHAEL VAN GERWEN -"
+    },
+    {
+      "code": "EPIC-12",
+      "name": "PHIL TAYLOR - KEVIN PAINTER"
+    },
+    {
+      "code": "LE-01",
+      "name": "SIMON WHITLOCK"
+    },
+    {
+      "code": "LE-02",
+      "name": "PHIL TAYLOR"
+    },
+    {
+      "code": "LE-03",
+      "name": "JOHN PART"
+    },
+    {
+      "code": "LE-04",
+      "name": "DENNIS PRIESTLEY"
+    },
+    {
+      "code": "LE-05",
+      "name": "PETER MANLEY"
+    },
+    {
+      "code": "LE-06",
+      "name": "JOHN LOWE"
+    },
+    {
+      "code": "LE-07",
+      "name": "ROD HARRINGTON"
+    },
+    {
+      "code": "LE-08",
+      "name": "ALAN WARRINER-LITTLE"
+    },
+    {
+      "code": "LE-09",
+      "name": "ANDY HAMILTON"
+    },
+    {
+      "code": "LE-10",
+      "name": "MERVYN KING"
+    },
+    {
+      "code": "LE-11",
+      "name": "STEVE BEATON"
+    },
+    {
+      "code": "LE-12",
+      "name": "WAYNE MARDLE"
+    },
+    {
+      "code": "HIGH-01",
+      "name": "MICHAEL VAN GERWEN"
+    },
+    {
+      "code": "HIGH-02",
+      "name": "LUKE HUMPHRIES"
+    },
+    {
+      "code": "HIGH-03",
+      "name": "LUKE LITTLER"
+    },
+    {
+      "code": "HIGH-04",
+      "name": "ROB CROSS"
+    },
+    {
+      "code": "HIGH-05",
+      "name": "MICHAEL SMITH"
+    },
+    {
+      "code": "HIGH-06",
+      "name": "GERWYN PRICE"
+    },
+    {
+      "code": "HIGH-07",
+      "name": "JAMES WADE"
+    },
+    {
+      "code": "HIGH-08",
+      "name": "JONNY CLAYTON"
+    },
+    {
+      "code": "HIGH-09",
+      "name": "BRENDAN DOLAN"
+    },
+    {
+      "code": "HIGH-10",
+      "name": "DIMITRI VAN DEN BERGH"
+    },
+    {
+      "code": "HIGH-11",
+      "name": "NATHAN ASPINALL"
+    },
+    {
+      "code": "HIGH-12",
+      "name": "CHRIS DOBEY"
+    },
+    {
+      "code": "FANS-01",
+      "name": "MAX HOPP"
+    },
+    {
+      "code": "FANS-02",
+      "name": "MARTIN SCHINDLER"
+    },
+    {
+      "code": "FANS-03",
+      "name": "DAVE CHISNALL"
+    },
+    {
+      "code": "FANS-04",
+      "name": "GARY ANDERSON"
+    },
+    {
+      "code": "FANS-05",
+      "name": "STEPHEN BUNTING"
+    },
+    {
+      "code": "FANS-06",
+      "name": "PETER WRIGHT"
+    },
+    {
+      "code": "FANS-07",
+      "name": "DIRK VAN DUIJVENBODE"
+    },
+    {
+      "code": "FANS-08",
+      "name": "PAUL LIM"
+    },
+    {
+      "code": "FANS-09",
+      "name": "HAUPAI PUHA"
+    },
+    {
+      "code": "FANS-10",
+      "name": "PAOLO NEBRIDA"
+    },
+    {
+      "code": "FANS-11",
+      "name": "MENSUR SULJOVIĆ"
+    },
+    {
+      "code": "FANS-12",
+      "name": "RICKY EVANS"
+    },
+    {
+      "code": "DEC-01",
+      "name": "VAN BARNEVELD - TAYLOR"
+    },
+    {
+      "code": "DEC-02",
+      "name": "BORLAND - BROOKS"
+    },
+    {
+      "code": "DEC-03",
+      "name": "VAN GERWEN - VAN BARNEVELD"
+    },
+    {
+      "code": "DEC-04",
+      "name": "CLAYTON - MANSELL"
+    },
+    {
+      "code": "DEC-05",
+      "name": "CROSS - VAN GERWEN"
+    },
+    {
+      "code": "DEC-06",
+      "name": "LITTLER - JOYCE"
+    },
+    {
+      "code": "DEC-07",
+      "name": "CULLEN - CLAYTON"
+    },
+    {
+      "code": "DEC-08",
+      "name": "ASPINALL - PRICE"
+    },
+    {
+      "code": "DEC-09",
+      "name": "SMITH - CLAYTON"
+    },
+    {
+      "code": "DEC-10",
+      "name": "DOLAN - MANSELL"
+    },
+    {
+      "code": "DEC-11",
+      "name": "ANDERSON - ARTUT"
+    },
+    {
+      "code": "DEC-12",
+      "name": "ANDERSON - LLOYD"
+    },
+    {
+      "code": "APDC-01",
+      "name": "RUSS BRAY"
+    },
+    {
+      "code": "APDC-02",
+      "name": "JOHN MCDONALD"
+    },
+    {
+      "code": "APDC-03",
+      "name": "EMMA PATON"
+    },
+    {
+      "code": "APDC-04",
+      "name": "ELMAR PAULKE"
+    },
+    {
+      "code": "APDC-05",
+      "name": "CHARLIE CORSTORPHINE"
+    },
+    {
+      "code": "APDC-06",
+      "name": "GEORGE NOBLE"
+    },
+    {
+      "code": "APDC-07",
+      "name": "HUW WARE"
+    },
+    {
+      "code": "APDC-08",
+      "name": "LAURA TURNER"
+    },
+    {
+      "code": "APDC-09",
+      "name": "KIRK BEVINS"
+    },
+    {
+      "code": "APDC-10",
+      "name": "PDC DANCERS"
+    },
+    {
+      "code": "AU-01",
+      "name": "LUKE HUMPHRIES"
+    },
+    {
+      "code": "AU-02",
+      "name": "LUKE LITTLER"
+    },
+    {
+      "code": "AU-03",
+      "name": "MICHAEL VAN GERWEN"
+    },
+    {
+      "code": "AU-04",
+      "name": "STEPHEN BUNTING"
+    },
+    {
+      "code": "AU-05",
+      "name": "GERWYN PRICE"
+    },
+    {
+      "code": "AU-06",
+      "name": "CHRIS DOBEY"
+    },
+    {
+      "code": "AU-07",
+      "name": "JONNY CLAYTON"
+    },
+    {
+      "code": "AU-08",
+      "name": "ROB CROSS"
+    },
+    {
+      "code": "AU-09",
+      "name": "DAMON HETA"
+    },
+    {
+      "code": "AU-10",
+      "name": "JOSH ROCK"
+    },
+    {
+      "code": "AU-11",
+      "name": "GARY ANDERSON"
+    },
+    {
+      "code": "AU-12",
+      "name": "DAVE CHISNALL"
+    },
+    {
+      "code": "AU-13",
+      "name": "ROSS SMITH"
+    },
+    {
+      "code": "AU-14",
+      "name": "DANNY NOPPERT"
+    },
+    {
+      "code": "AU-15",
+      "name": "MARTIN SCHINDLER"
+    },
+    {
+      "code": "AU-16",
+      "name": "GIAN VAN VEEN"
+    },
+    {
+      "code": "AU-17",
+      "name": "MIKE DE DECKER"
+    },
+    {
+      "code": "AU-18",
+      "name": "RYAN SEARLE"
+    },
+    {
+      "code": "AU-19",
+      "name": "MICHAEL SMITH"
+    },
+    {
+      "code": "AU-20",
+      "name": "DIMITRI VAN DEN BERGH"
+    },
+    {
+      "code": "AU-21",
+      "name": "NATHAN ASPINALL"
+    },
+    {
+      "code": "AU-22",
+      "name": "RYAN JOYCE"
+    },
+    {
+      "code": "AU-23",
+      "name": "ANDREW GILDING"
+    },
+    {
+      "code": "AU-24",
+      "name": "JERMAINE WATTIMENA"
+    },
+    {
+      "code": "AU-25",
+      "name": "RITCHIE EDHOUSE"
+    },
+    {
+      "code": "AU-26",
+      "name": "RICARDO PIETRECZKO"
+    },
+    {
+      "code": "AU-27",
+      "name": "JOE CULLEN"
+    },
+    {
+      "code": "AU-28",
+      "name": "LUKE WOODHOUSE"
+    },
+    {
+      "code": "AU-29",
+      "name": "DIRK VAN DUIJVENBODE"
+    },
+    {
+      "code": "AU-30",
+      "name": "CAMERON MENZIES"
+    },
+    {
+      "code": "AU-31",
+      "name": "KRZYSZTOF RATAJSKI"
+    },
+    {
+      "code": "AU-32",
+      "name": "RAYMOND VAN BARNEVELD"
+    },
+    {
+      "code": "AU-33",
+      "name": "BRENDAN DOLAN"
+    },
+    {
+      "code": "AU-34",
+      "name": "SCOTT WILLIAMS"
+    },
+    {
+      "code": "AU-35",
+      "name": "MARTIN LUKEMAN"
+    },
+    {
+      "code": "AU-36",
+      "name": "GABRIEL CLEMENS"
+    },
+    {
+      "code": "AU-37",
+      "name": "WESSEL NIJMAN"
+    },
+    {
+      "code": "AU-38",
+      "name": "KEVIN DOETS"
+    },
+    {
+      "code": "AU-39",
+      "name": "CALLAN RYDZ"
+    },
+    {
+      "code": "AU-40",
+      "name": "RICKY EVANS"
+    },
+    {
+      "code": "AU-41",
+      "name": "WILLIAM O’CONNOR"
+    },
+    {
+      "code": "AU-42",
+      "name": "KIM HUYBRECHTS"
+    },
+    {
+      "code": "AU-43",
+      "name": "FLORIAN HEMPEL"
+    },
+    {
+      "code": "AU-44",
+      "name": "KEANE BARRY"
+    },
+    {
+      "code": "AU-45",
+      "name": "CONNOR SCUTT"
+    },
+    {
+      "code": "AU-46",
+      "name": "JOSÉ DE SOUSA"
+    },
+    {
+      "code": "AU-47",
+      "name": "RYAN MEIKLE"
+    },
+    {
+      "code": "AU-48",
+      "name": "MENSUR SULJOVIĆ"
+    },
+    {
+      "code": "AU-49",
+      "name": "NIKO SPRINGER"
+    },
+    {
+      "code": "AU-50",
+      "name": "STEVE LENNON"
+    },
+    {
+      "code": "AU-51",
+      "name": "NATHAN RAFFERTY"
+    },
+    {
+      "code": "AU-52",
+      "name": "JELLE KLAASEN"
+    },
+    {
+      "code": "AU-53",
+      "name": "ADRIAN LEWIS"
+    },
+    {
+      "code": "AU-54",
+      "name": "BEAU GREAVES"
+    },
+    {
+      "code": "AU-55",
+      "name": "FALLON SHERROCK"
+    },
+    {
+      "code": "AU-56",
+      "name": "CHRISTIAN KIST"
+    },
+    {
+      "code": "AU-57",
+      "name": "JEFFREY DE ZWAAN"
+    },
+    {
+      "code": "AU-58",
+      "name": "KAI GOTTHARDT"
+    },
+    {
+      "code": "AU-59",
+      "name": "LISA ASHTON"
+    },
+    {
+      "code": "AU-60",
+      "name": "LOURENCE ILAGAN"
+    },
+    {
+      "code": "AU-61",
+      "name": "NOA-LYNN VAN LEUVEN"
+    },
+    {
+      "code": "AU-62",
+      "name": "PAOLO NEBRIDA"
+    },
+    {
+      "code": "AULE-01",
+      "name": "SIMON WHITLOCK"
+    },
+    {
+      "code": "AULE-02",
+      "name": "PHIL TAYLOR"
+    },
+    {
+      "code": "AULE-03",
+      "name": "JOHN PART"
+    },
+    {
+      "code": "AULE-04",
+      "name": "DENNIS PRIESTLEY"
+    },
+    {
+      "code": "AULE-05",
+      "name": "PETER MANLEY"
+    },
+    {
+      "code": "AULE-06",
+      "name": "JOHN LOWE"
+    },
+    {
+      "code": "AULE-07",
+      "name": "ROD HARRINGTON"
+    },
+    {
+      "code": "AULE-08",
+      "name": "ALAN WARRINER-LITTLE"
+    },
+    {
+      "code": "AULE-09",
+      "name": "ANDY HAMILTON"
+    },
+    {
+      "code": "AULE-10",
+      "name": "MERVYN KING"
+    },
+    {
+      "code": "AULE-11",
+      "name": "STEVE BEATON"
+    },
+    {
+      "code": "AULE-12",
+      "name": "WAYNE MARDLE"
+    },
+    {
+      "code": "AUPDC-01",
+      "name": "RUSS BRAY"
+    },
+    {
+      "code": "AUPDC-02",
+      "name": "JOHN MCDONALD"
+    },
+    {
+      "code": "AUPDC-03",
+      "name": "EMMA PATON"
+    },
+    {
+      "code": "AUPDC-04",
+      "name": "ELMAR PAULKE"
+    },
+    {
+      "code": "AUPDC-05",
+      "name": "CHARLIE CORSTORPHINE"
+    },
+    {
+      "code": "AUPDC-06",
+      "name": "GEORGE NOBLE"
+    },
+    {
+      "code": "AUPDC-07",
+      "name": "HUW WARE"
+    },
+    {
+      "code": "AUPDC-08",
+      "name": "LAURA TURNER"
+    },
+    {
+      "code": "AUPDC-09",
+      "name": "KIRK BEVINS"
+    },
+    {
+      "code": "RBOW-01",
+      "name": "PHIL TAYLOR"
+    },
+    {
+      "code": "RBOW-02",
+      "name": "MICHAEL VAN GERWEN"
+    },
+    {
+      "code": "RBOW-03",
+      "name": "GARY ANDERSON"
+    },
+    {
+      "code": "RBOW-04",
+      "name": "STEPHEN BUNTING"
+    },
+    {
+      "code": "RBOW-05",
+      "name": "LUKE LITTLER"
+    },
+    {
+      "code": "RBOW-06",
+      "name": "MARTIN SCHINDLER"
+    },
+    {
+      "code": "RBOW-07",
+      "name": "CHRIS DOBEY"
+    },
+    {
+      "code": "RBOW-08",
+      "name": "NATHAN ASPINALL"
+    },
+    {
+      "code": "RBOW-09",
+      "name": "GERWYN PRICE"
+    },
+    {
+      "code": "RBOW-10",
+      "name": "LUKE HUMPHRIES"
+    },
+    {
+      "code": "RBOW-11",
+      "name": "DENNIS PRIESTLEY"
+    },
+    {
+      "code": "RBOW-12",
+      "name": "SIMON WHITLOCK"
+    },
+    {
+      "code": "BULL-01",
+      "name": "GIAN VAN VEEN"
+    },
+    {
+      "code": "BULL-02",
+      "name": "DIRK VAN DUIJVENBODE"
+    },
+    {
+      "code": "BULL-03",
+      "name": "DAMON HETA"
+    },
+    {
+      "code": "BULL-04",
+      "name": "STEPHEN BUNTING"
+    },
+    {
+      "code": "BULL-05",
+      "name": "LUKE HUMPHRIES"
+    },
+    {
+      "code": "BULL-06",
+      "name": "MICHAEL VAN GERWEN"
+    },
+    {
+      "code": "BULL-07",
+      "name": "DANNY NOPPERT"
+    },
+    {
+      "code": "BULL-08",
+      "name": "LUKE LITTLER"
+    },
+    {
+      "code": "BULL-09",
+      "name": "DENNIS PRIESTLEY"
+    },
+    {
+      "code": "BULL-10",
+      "name": "DAVE CHISNALL"
+    },
+    {
+      "code": "BULL-11",
+      "name": "GERWYN PRICE"
+    },
+    {
+      "code": "BULL-12",
+      "name": "JONNY CLAYTON"
+    },
+    {
+      "code": "RUSH-01",
+      "name": "JOSH ROCK"
+    },
+    {
+      "code": "RUSH-02",
+      "name": "MIKE DE DECKER"
+    },
+    {
+      "code": "RUSH-03",
+      "name": "GIAN VAN VEEN"
+    },
+    {
+      "code": "RUSH-04",
+      "name": "PETER WRIGHT"
+    },
+    {
+      "code": "RUSH-05",
+      "name": "RICKY EVANS"
+    },
+    {
+      "code": "RUSH-06",
+      "name": "RYAN SEARLE"
+    },
+    {
+      "code": "RUSH-07",
+      "name": "GABRIEL CLEMENS"
+    },
+    {
+      "code": "RUSH-08",
+      "name": "LUKE LITTLER"
+    },
+    {
+      "code": "RUSH-09",
+      "name": "RAYMOND VAN BARNEVELD"
+    },
+    {
+      "code": "RUSH-10",
+      "name": "LUKE HUMPHRIES"
+    },
+    {
+      "code": "RUSH-11",
+      "name": "MICHAEL VAN GERWEN"
+    },
+    {
+      "code": "RUSH-12",
+      "name": "WAYNE MARDLE"
+    }
+  ]
+}

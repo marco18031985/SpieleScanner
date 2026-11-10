@@ -14,7 +14,9 @@ notfalls als nummerierte Platzhalter (`fill`). Namen und Bilder kommen später d
 
 ```bash
 cd panini-db
-python3 stickerdb.py import-albums data/albums.csv          # Start-Katalog (10 aktuelle Alben)
+python3 stickerdb.py fetch                                   # offizielle Panini-Checklisten laden (data/sources.csv)
+python3 stickerdb.py import - data/checklists/panini-dfb-team-set-2024.json   # oder offline aus dem Repo
+python3 stickerdb.py import-albums data/albums.csv          # Start-Katalog (10 aktuelle Alben, noch ohne Sticker)
 python3 stickerdb.py import panini-3-liga-2026-2027 liste.txt --dry-run   # erst prüfen
 python3 stickerdb.py import panini-3-liga-2026-2027 liste.txt             # dann speichern
 python3 stickerdb.py fill panini-fifa-365-2027 --to 591      # oder nur Nummern 1..591
@@ -31,6 +33,7 @@ Tests: `python3 -m unittest discover -s tests`
 |---|---|
 | `.txt` | Eine Zeile pro Sticker: `12 Max Mustermann - FC Beispiel` oder `12 Max Mustermann (FC Beispiel)`. Zeilen ohne Nummer gelten als Abschnitt (Mannschaft/Kapitel). Codes wie `00`, `FWC5`, `GER 12`, `12a` werden erkannt. Siehe `data/checklists/BEISPIEL-format.txt`. |
 | `.csv` | Kopfzeile mit `code` (oder `Nr`), optional `name`/`Spieler`, `team`/`Verein`, `section`, `variant`, `special`/`Glitzer`. Trennzeichen `,` `;` oder Tab. Excel-Export geht direkt. |
+| `.pdf` | Offizielle Panini-Checklisten (Text-PDFs, mehrspaltig). Braucht `pdftotext` (Paket `poppler-utils`). Vorher mit `--dry-run` prüfen. |
 | `.json` | Das Format von `export` – enthält Album und Sticker, ideal zum Austausch zwischen Datenbanken. Mit Album-Slug `-` wird der Slug aus der Datei übernommen. |
 
 Ein erneuter Import desselben Albums aktualisiert vorhandene Sticker und lässt die Sammlungen
@@ -67,6 +70,34 @@ Stil zu übernehmen ist heikel (Datenbankherstellerrecht, §87b UrhG) – daher 
 bewusst keinen Scraper für solche Seiten.
 
 ## Woher die Checklisten kommen
+
+### Automatisch von panini.de: `fetch`
+
+`data/sources.csv` listet offizielle Checklisten-PDFs von panini.de. `fetch` lädt sie herunter
+(einmalig, Cache in `.cache/`) und importiert sie – ohne Claude, z. B. per Cronjob.
+Neue Kollektion = eine Zeile mit der PDF-Adresse ergänzen. PDFs findest du auf den
+Produktseiten von panini.de („Zur Checkliste“) oder per Suche `site:panini.de/media/paniniFiles checkliste`.
+
+Bereits enthalten (alle lückenlos geprüft, auch als JSON in `data/checklists/`):
+
+| Kollektion | Art | Anzahl |
+|---|---|---|
+| Deutschland 2024 & die Besten aus Europa | Sticker | 290 |
+| Score FIFA 2023-24 | Cards | 399 |
+| DFB Team-Set 2024 | Cards | 119 |
+| DFB-Frauen Team-Set 2025 | Cards | 126 (RIS-04 fehlt auch im Panini-PDF) |
+| Google Pixel Frauen-Bundesliga 2024-25 | Cards | 208 (RISE-13/14 ohne Namen im PDF) |
+| PDC World Championship 2025 | Cards | 221 |
+| PDC World Championship 2026 | Cards | 321 |
+| PDC Premier League Darts | Cards | 150 |
+
+Grenzen: Viele Panini-PDFs sind eingescannte Bilder ohne Text (Disney, One Piece, Harry Potter,
+Adrenalyn-Ordner …) – die liefern beim `fetch` die Meldung „keine Sticker erkannt“. Die
+Checklisten der großen Sticker-Alben (WM 2026, Bundesliga, 3. Liga …) stehen bei Panini
+meist nicht als PDF, sondern nur im Shop unter „fehlende Bilder“ (dort per JavaScript und hinter
+einer Warteschlange) – dafür bleibt der Weg über `import` mit abgetippter/kopierter Liste.
+
+### Weitere Wege
 
 - **Panini selbst:** Checklisten auf paninigroup.com / paniniamerica.net und meist auf der
   letzten Albumseite – abtippen oder als Text kopieren und mit `import` einlesen.

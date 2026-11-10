@@ -1,0 +1,494 @@
+{
+  "album": {
+    "slug": "panini-dfb-team-set-2024",
+    "publisher": "Panini",
+    "title": "DFB Team-Set 2024 Trading Cards",
+    "year": 2024,
+    "season": null,
+    "category": "Fußball",
+    "region": "DE",
+    "kind": "card",
+    "total_stickers": null,
+    "cover_url": null,
+    "source": "https://www.panini.de/media/paniniFiles/dfb-team-set-2024-trading-cards-checklist-004715.pdf",
+    "notes": null
+  },
+  "stickers": [
+    {
+      "code": "BA-01",
+      "name": "MANUEL NEUER"
+    },
+    {
+      "code": "BA-02",
+      "name": "MARC-ANDRÉ TER STEGEN"
+    },
+    {
+      "code": "BA-03",
+      "name": "WALDEMAR ANTON"
+    },
+    {
+      "code": "BA-04",
+      "name": "BENJAMIN HENRICHS"
+    },
+    {
+      "code": "BA-05",
+      "name": "JOSHUA KIMMICH"
+    },
+    {
+      "code": "BA-06",
+      "name": "ROBIN KOCH"
+    },
+    {
+      "code": "BA-07",
+      "name": "MAXIMILIAN MITTELSTÄDT"
+    },
+    {
+      "code": "BA-08",
+      "name": "DAVID RAUM"
+    },
+    {
+      "code": "BA-09",
+      "name": "ANTONIO RÜDIGER"
+    },
+    {
+      "code": "BA-10",
+      "name": "JONATHAN TAH"
+    },
+    {
+      "code": "BA-11",
+      "name": "ROBERT ANDRICH"
+    },
+    {
+      "code": "BA-12",
+      "name": "JULIAN BRANDT"
+    },
+    {
+      "code": "BA-13",
+      "name": "CHRIS FÜHRICH"
+    },
+    {
+      "code": "BA-14",
+      "name": "SERGE GNABRY"
+    },
+    {
+      "code": "BA-15",
+      "name": "LEON GORETZKA"
+    },
+    {
+      "code": "BA-16",
+      "name": "PASCAL GROSS"
+    },
+    {
+      "code": "BA-17",
+      "name": "İLKAY GÜNDOĞAN"
+    },
+    {
+      "code": "BA-18",
+      "name": "JONAS HOFMANN"
+    },
+    {
+      "code": "BA-19",
+      "name": "TONI KROOS"
+    },
+    {
+      "code": "BA-20",
+      "name": "JAMAL MUSIALA"
+    },
+    {
+      "code": "BA-21",
+      "name": "LEROY SANÉ"
+    },
+    {
+      "code": "BA-22",
+      "name": "FLORIAN WIRTZ"
+    },
+    {
+      "code": "BA-23",
+      "name": "NICLAS FÜLLKRUG"
+    },
+    {
+      "code": "BA-24",
+      "name": "KAI HAVERTZ"
+    },
+    {
+      "code": "BA-25",
+      "name": "THOMAS MÜLLER"
+    },
+    {
+      "code": "BA-26",
+      "name": "DENIZ UNDAV"
+    },
+    {
+      "code": "BA-27",
+      "name": "JULIAN NAGELSMANN"
+    },
+    {
+      "code": "DEB-01",
+      "name": "MANUEL NEUER"
+    },
+    {
+      "code": "DEB-02",
+      "name": "MARC-ANDRÉ TER STEGEN"
+    },
+    {
+      "code": "DEB-03",
+      "name": "WALDEMAR ANTON"
+    },
+    {
+      "code": "DEB-04",
+      "name": "BENJAMIN HENRICHS"
+    },
+    {
+      "code": "DEB-05",
+      "name": "JOSHUA KIMMICH"
+    },
+    {
+      "code": "DEB-06",
+      "name": "ROBIN KOCH"
+    },
+    {
+      "code": "DEB-07",
+      "name": "MAXIMILIAN MITTELSTÄDT"
+    },
+    {
+      "code": "DEB-08",
+      "name": "DAVID RAUM"
+    },
+    {
+      "code": "DEB-09",
+      "name": "ANTONIO RÜDIGER"
+    },
+    {
+      "code": "DEB-10",
+      "name": "JONATHAN TAH"
+    },
+    {
+      "code": "DEB-11",
+      "name": "ROBERT ANDRICH"
+    },
+    {
+      "code": "DEB-12",
+      "name": "JULIAN BRANDT"
+    },
+    {
+      "code": "DEB-13",
+      "name": "CHRIS FÜHRICH"
+    },
+    {
+      "code": "DEB-14",
+      "name": "SERGE GNABRY"
+    },
+    {
+      "code": "DEB-15",
+      "name": "LEON GORETZKA"
+    },
+    {
+      "code": "DEB-16",
+      "name": "PASCAL GROSS"
+    },
+    {
+      "code": "DEB-17",
+      "name": "İLKAY GÜNDOĞAN"
+    },
+    {
+      "code": "DEB-18",
+      "name": "JONAS HOFMANN"
+    },
+    {
+      "code": "DEB-19",
+      "name": "TONI KROOS"
+    },
+    {
+      "code": "DEB-20",
+      "name": "JAMAL MUSIALA"
+    },
+    {
+      "code": "DEB-21",
+      "name": "LEROY SANÉ"
+    },
+    {
+      "code": "DEB-22",
+      "name": "FLORIAN WIRTZ"
+    },
+    {
+      "code": "DEB-23",
+      "name": "NICLAS FÜLLKRUG"
+    },
+    {
+      "code": "DEB-24",
+      "name": "KAI HAVERTZ"
+    },
+    {
+      "code": "DEB-25",
+      "name": "THOMAS MÜLLER"
+    },
+    {
+      "code": "DEB-26",
+      "name": "DENIZ UNDAV"
+    },
+    {
+      "code": "FOC-01",
+      "name": "MANUEL NEUER"
+    },
+    {
+      "code": "FOC-02",
+      "name": "MARC-ANDRÉ TER STEGEN"
+    },
+    {
+      "code": "FOC-03",
+      "name": "WALDEMAR ANTON"
+    },
+    {
+      "code": "FOC-04",
+      "name": "BENJAMIN HENRICHS"
+    },
+    {
+      "code": "FOC-05",
+      "name": "JOSHUA KIMMICH"
+    },
+    {
+      "code": "FOC-06",
+      "name": "ROBIN KOCH"
+    },
+    {
+      "code": "FOC-07",
+      "name": "MAXIMILIAN MITTELSTÄDT"
+    },
+    {
+      "code": "FOC-08",
+      "name": "DAVID RAUM"
+    },
+    {
+      "code": "FOC-09",
+      "name": "ANTONIO RÜDIGER"
+    },
+    {
+      "code": "FOC-10",
+      "name": "JONATHAN TAH"
+    },
+    {
+      "code": "FOC-11",
+      "name": "ROBERT ANDRICH"
+    },
+    {
+      "code": "FOC-12",
+      "name": "JULIAN BRANDT"
+    },
+    {
+      "code": "FOC-13",
+      "name": "CHRIS FÜHRICH"
+    },
+    {
+      "code": "FOC-14",
+      "name": "SERGE GNABRY"
+    },
+    {
+      "code": "FOC-15",
+      "name": "LEON GORETZKA"
+    },
+    {
+      "code": "FOC-16",
+      "name": "PASCAL GROSS"
+    },
+    {
+      "code": "FOC-17",
+      "name": "İLKAY GÜNDOĞAN"
+    },
+    {
+      "code": "FOC-18",
+      "name": "JONAS HOFMANN"
+    },
+    {
+      "code": "FOC-19",
+      "name": "TONI KROOS"
+    },
+    {
+      "code": "FOC-20",
+      "name": "JAMAL MUSIALA"
+    },
+    {
+      "code": "FOC-21",
+      "name": "LEROY SANÉ"
+    },
+    {
+      "code": "FOC-22",
+      "name": "FLORIAN WIRTZ"
+    },
+    {
+      "code": "FOC-23",
+      "name": "NICLAS FÜLLKRUG"
+    },
+    {
+      "code": "FOC-24",
+      "name": "KAI HAVERTZ"
+    },
+    {
+      "code": "FOC-25",
+      "name": "THOMAS MÜLLER"
+    },
+    {
+      "code": "FOC-26",
+      "name": "DENIZ UNDAV"
+    },
+    {
+      "code": "VIC-01",
+      "name": "ROBERT ANDRICH"
+    },
+    {
+      "code": "VIC-02",
+      "name": "WALDEMAR ANTON"
+    },
+    {
+      "code": "VIC-03",
+      "name": "LEON GORETZKA"
+    },
+    {
+      "code": "VIC-04",
+      "name": "PASCAL GROSS"
+    },
+    {
+      "code": "VIC-05",
+      "name": "BENJAMIN HENRICHS"
+    },
+    {
+      "code": "VIC-06",
+      "name": "JONAS HOFMANN"
+    },
+    {
+      "code": "VIC-07",
+      "name": "ROBIN KOCH"
+    },
+    {
+      "code": "VIC-08",
+      "name": "MANUEL NEUER"
+    },
+    {
+      "code": "VIC-09",
+      "name": "DAVID RAUM"
+    },
+    {
+      "code": "VIC-10",
+      "name": "MARC-ANDRÉ TER STEGEN"
+    },
+    {
+      "code": "DUO-01",
+      "name": "TONI KROOS / İLKAY GÜNDOĞAN"
+    },
+    {
+      "code": "DUO-02",
+      "name": "FLORIAN WIRTZ / JAMAL MUSIALA"
+    },
+    {
+      "code": "DUO-03",
+      "name": "CHRIS FÜHRICH / DENIZ UNDAV"
+    },
+    {
+      "code": "DUO-04",
+      "name": "JONATHAN TAH / ANTONIO RÜDIGER"
+    },
+    {
+      "code": "DUO-05",
+      "name": "JOSHUA KIMMICH / MAXIMILIAN MITTELSTÄDT"
+    },
+    {
+      "code": "DUO-06",
+      "name": "NICLAS FÜLLKRUG / THOMAS MÜLLER"
+    },
+    {
+      "code": "DUO-07",
+      "name": "LEROY SANÉ / KAI HAVERTZ"
+    },
+    {
+      "code": "DUO-08",
+      "name": "JULIAN BRANDT / SERGE GNABRY"
+    },
+    {
+      "code": "ICON-01",
+      "name": "MICHAEL BALLACK"
+    },
+    {
+      "code": "ICON-02",
+      "name": "FRANZ BECKENBAUER"
+    },
+    {
+      "code": "ICON-03",
+      "name": "MARIO GOMEZ"
+    },
+    {
+      "code": "ICON-04",
+      "name": "THOMAS HÄSSLER"
+    },
+    {
+      "code": "ICON-05",
+      "name": "MIROSLAV KLOSE"
+    },
+    {
+      "code": "ICON-06",
+      "name": "LOTHAR MATTHÄUS"
+    },
+    {
+      "code": "ICON-07",
+      "name": "ANDREAS MÖLLER"
+    },
+    {
+      "code": "ICON-08",
+      "name": "MATTHIAS SAMMER"
+    },
+    {
+      "code": "ICON-09",
+      "name": "BERND SCHUSTER"
+    },
+    {
+      "code": "ICON-10",
+      "name": "BASTIAN SCHWEINSTEIGER"
+    },
+    {
+      "code": "AU-01",
+      "name": "NICLAS FÜLLKRUG"
+    },
+    {
+      "code": "AU-02",
+      "name": "İLKAY GÜNDOĞAN"
+    },
+    {
+      "code": "AU-03",
+      "name": "KAI HAVERTZ"
+    },
+    {
+      "code": "AU-04",
+      "name": "BENJAMIN HENRICHS"
+    },
+    {
+      "code": "AU-05",
+      "name": "JOSHUA KIMMICH"
+    },
+    {
+      "code": "AU-06",
+      "name": "TONI KROOS"
+    },
+    {
+      "code": "AU-07",
+      "name": "THOMAS MÜLLER"
+    },
+    {
+      "code": "AU-08",
+      "name": "JAMAL MUSIALA"
+    },
+    {
+      "code": "AU-09",
+      "name": "ANTONIO RÜDIGER"
+    },
+    {
+      "code": "AU-10",
+      "name": "DENIZ UNDAV"
+    },
+    {
+      "code": "AU-11",
+      "name": "FLORIAN WIRTZ"
+    },
+    {
+      "code": "FRANZ-01",
+      "name": "FRANZ BECKENBAUER"
+    }
+  ]
+}

@@ -95,6 +95,32 @@ class StickerDbTest(unittest.TestCase):
         self.assertEqual(sdb.export_album(other, "test-album")["stickers"][1], {"code": "2", "name": "B", "section": "Team"})
         other.close()
 
+    def test_parse_pdf_columns(self):
+        text = (
+            "    Beispiel Stickerkollektion\n"
+            "                 CHECKLISTE\n"
+            "1 Cover                       3 Erika Muster      FC B\n"
+            "2 Max Muster        FC A      4\n"
+            "                                         Seite 1 / 1\n"
+        )
+        rows = sdb.parse_pdf_text(text)
+        self.assertEqual([(r.code, r.name, r.team) for r in rows],
+                         [("1", "Cover", None), ("2", "Max Muster", "FC A"),
+                          ("3", "Erika Muster", "FC B"), ("4", None, None)])
+
+    def test_parse_pdf_prefixed_codes_drop_header_numbers(self):
+        text = ("2 PARALLELS PRO BOX\n2025 TEAM-SET\n"
+                + "".join(f"BA-{i:02d}    SPIELERIN {i}            AU-{i:02d}    SPIELERIN {i}\n" for i in range(1, 6)))
+        codes = [r.code for r in sdb.parse_pdf_text(text)]
+        self.assertEqual(codes, [f"BA-{i:02d}" for i in range(1, 6)] + [f"AU-{i:02d}" for i in range(1, 6)])
+
+    def test_bundled_checklists_import(self):
+        for f in sorted((HERE / "data/checklists").glob("*.json")):
+            album, rows = sdb.parse_json(f.read_text(encoding="utf-8"))
+            aid = sdb.upsert_album(self.con, album)
+            res = sdb.import_stickers(self.con, aid, rows)
+            self.assertGreater(res["total"], 50, f.name)
+
     def test_cli_end_to_end(self):
         db = str(self.db)
         self.assertEqual(sdb.main(["--db", db, "import-albums", str(HERE / "data/albums.csv")]), 0)

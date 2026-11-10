@@ -208,9 +208,69 @@ def parse_json(text: str) -> tuple[dict | None, list[StickerRow]]:
     return album, rows
 
 
+# Spalten-Layout aus PDF-Checklisten (pdftotext -layout): mehrere Spalten pro Zeile,
+# jede Spalte beginnt mit einem Code: "1 Cover      51 Manuel Neuer   Deutschland"
+_PDF_CODE = r"(?:[A-Z]{1,5}-?\d{1,4}|\d{1,4}[a-z]?)"
+_PDF_SEG = re.compile(rf"(?:(?<=^)|(?<=\s{{2}}))\s*(?P<code>{_PDF_CODE})(?:\s+(?=[^\s\d])|\s*$)")
+
+
+def _natural_key(code: str) -> tuple:
+    m = re.match(r"^([A-Z]*)-?(\d+)([A-Z]?)$", code)
+    return (m[1], int(m[2]), m[3]) if m else (code, 0, "")
+
+
+def parse_pdf_text(text: str) -> list[StickerRow]:
+    """Liest den Text einer PDF-Checkliste (Ausgabe von `pdftotext -layout`).
+
+    Zeilen werden in Spalten zerlegt; jede Spalte = Code, Name und optional Team
+    (durch mind. zwei Leerzeichen getrennt). Zeilen ohne Code (Überschriften, Hinweise)
+    werden ignoriert. Ergebnis ist nach Code sortiert, weil die Spalten im PDF
+    nebeneinander stehen (1, 51, 2, 52 …).
+    """
+    rows: dict[str, StickerRow] = {}
+    prefix_order: dict[str, int] = {}
+    for line in text.splitlines():
+        line = line.rstrip()
+        starts = [m for m in _PDF_SEG.finditer(line)]
+        for i, m in enumerate(starts):
+            end = starts[i + 1].start() if i + 1 < len(starts) else len(line)
+            parts = [p.strip() for p in re.split(r"\s{2,}", line[m.end():end].strip()) if p.strip()]
+            code = normalize_code(m["code"])
+            name = parts[0] if parts else None
+            team = parts[1] if len(parts) > 1 else None
+            if (name and re.fullmatch(r"(Seite|Page)\b.*", name, re.I)) or code in rows:
+                continue
+            rows[code] = StickerRow(code=code, name=name, team=team,
+                                    is_special=bool(name and _SPECIAL_HINT.search(name)))
+            prefix_order.setdefault(_natural_key(code)[0], len(prefix_order))
+    # Überschriften wie "2 PARALLELS PRO BOX" oder "2026 PDC …" sehen aus wie Sticker – aussortieren:
+    numeric = [c for c in rows if c.isdigit()]
+    if len(numeric) < 0.2 * len(rows):          # Album nutzt Präfix-Codes (BA-01 …)
+        for c in numeric:
+            del rows[c]
+    else:                                        # Album nutzt Nummern: Jahreszahlen raus
+        small = [int(c) for c in numeric if int(c) < 1900]
+        top = max(small, default=0)
+        for c in numeric:
+            if 1900 <= int(c) <= 2100 and top < 1000:
+                del rows[c]
+    return sorted(rows.values(), key=lambda r: (prefix_order[_natural_key(r.code)[0]], _natural_key(r.code)))
+
+
+def pdf_to_text(path: Path) -> str:
+    import shutil
+    import subprocess
+    if not shutil.which("pdftotext"):
+        raise SystemExit("Für PDF-Import wird 'pdftotext' benötigt (Paket poppler-utils).")
+    return subprocess.run(["pdftotext", "-layout", str(path), "-"], check=True,
+                          capture_output=True, text=True).stdout
+
+
 def parse_file(path: Path) -> tuple[dict | None, list[StickerRow]]:
-    text = path.read_text(encoding="utf-8-sig")
     ext = path.suffix.lower()
+    if ext == ".pdf":
+        return None, parse_pdf_text(pdf_to_text(path))
+    text = path.read_text(encoding="utf-8-sig")
     if ext == ".json":
         return parse_json(text)
     if ext in {".csv", ".tsv"}:
@@ -354,6 +414,42 @@ def stats(con: sqlite3.Connection) -> list[dict]:
         "GROUP BY a.id ORDER BY a.year DESC, a.title")]
 
 
+# ---------------------------------------------------------------- Quellen-Liste
+
+def download(url: str, cache: Path) -> Path:
+    """Lädt eine Datei einmalig in den Cache (erneuter Aufruf nutzt die Kopie)."""
+    import urllib.request
+    cache.mkdir(parents=True, exist_ok=True)
+    target = cache / (hashlib.sha1(url.encode()).hexdigest()[:12] + "-" + Path(url.split("?")[0]).name)
+    if not target.exists():
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (StickerDB-Import)"})
+        with urllib.request.urlopen(req, timeout=60) as resp:
+            target.write_bytes(resp.read())
+    return target
+
+
+def import_sources(con: sqlite3.Connection, sources_csv: Path, cache: Path,
+                   only: str | None = None) -> list[dict]:
+    """Lädt alle Checklisten aus sources.csv herunter und importiert sie."""
+    results = []
+    with open(sources_csv, encoding="utf-8-sig", newline="") as fh:
+        for rec in csv.DictReader(fh):
+            if only and rec["slug"] != only:
+                continue
+            try:
+                album_id = upsert_album(con, {**rec, "source": rec["url"]})
+                _, rows = parse_file(download(rec["url"], cache))
+                if not rows:
+                    raise ValueError("keine Sticker erkannt (PDF evtl. nur als Bild?)")
+                res = import_stickers(con, album_id, rows)
+                con.commit()
+                results.append({"slug": rec["slug"], **res})
+            except Exception as e:  # eine kaputte Quelle soll den Rest nicht stoppen
+                con.rollback()
+                results.append({"slug": rec["slug"], "error": str(e)})
+    return results
+
+
 # ------------------------------------------------------------------------ CLI
 
 def main(argv: list[str] | None = None) -> int:
@@ -366,7 +462,7 @@ def main(argv: list[str] | None = None) -> int:
     p = sub.add_parser("import-albums", help="Album-Katalog aus CSV einlesen")
     p.add_argument("file")
 
-    p = sub.add_parser("import", help="Checkliste (.txt/.csv/.json) in ein Album einlesen")
+    p = sub.add_parser("import", help="Checkliste (.txt/.csv/.json/.pdf) in ein Album einlesen")
     p.add_argument("album", help="Album-Slug (bei .json mit Albumdaten: '-' für automatisch)")
     p.add_argument("file")
     p.add_argument("--replace", action="store_true",
@@ -388,6 +484,11 @@ def main(argv: list[str] | None = None) -> int:
 
     p = sub.add_parser("search", help="Sticker nach Name/Mannschaft suchen")
     p.add_argument("text")
+
+    p = sub.add_parser("fetch", help="Checklisten aus data/sources.csv herunterladen und importieren")
+    p.add_argument("--sources", default=str(HERE / "data" / "sources.csv"))
+    p.add_argument("--only", help="nur dieses Album (Slug)")
+    p.add_argument("--cache", default=str(HERE / ".cache"))
 
     sub.add_parser("stats", help="Übersicht: wie vollständig sind die Alben erfasst")
 
@@ -453,6 +554,13 @@ def main(argv: list[str] | None = None) -> int:
             "SELECT a.slug, s.code, s.name, s.team FROM stickers s JOIN albums a ON a.id = s.album_id "
             "WHERE s.name LIKE ? OR s.team LIKE ? ORDER BY a.year DESC, s.sort_key LIMIT 100", (q, q)):
             print(f"{r['slug']:45} {r['code']:>6}  {r['name'] or ''}  {('(' + r['team'] + ')') if r['team'] else ''}")
+
+    elif args.cmd == "fetch":
+        for r in import_sources(con, Path(args.sources), Path(args.cache), args.only):
+            if "error" in r:
+                print(f"FEHLER  {r['slug']}: {r['error']}")
+            else:
+                print(f"OK      {r['slug']}: {r['total']} Sticker ({r['added']} neu)")
 
     elif args.cmd == "stats":
         rows = stats(con)

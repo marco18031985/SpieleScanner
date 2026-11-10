@@ -1,0 +1,2013 @@
+{
+  "album": {
+    "slug": "panini-score-fifa-2023-24",
+    "publisher": "Panini",
+    "title": "Score FIFA 2023-24 Soccer Trading Cards",
+    "year": 2024,
+    "season": "2023/24",
+    "category": "Fußball",
+    "region": "INT",
+    "kind": "card",
+    "total_stickers": null,
+    "cover_url": null,
+    "source": "https://www.panini.de/media/paniniFiles/2023-24-score-fifa-checklist-201629.pdf",
+    "notes": null
+  },
+  "stickers": [
+    {
+      "code": "1",
+      "name": "Lionel Messi",
+      "team": "Argentina"
+    },
+    {
+      "code": "2",
+      "name": "Angel Di Maria",
+      "team": "Argentina"
+    },
+    {
+      "code": "3",
+      "name": "Cristian Romero",
+      "team": "Argentina"
+    },
+    {
+      "code": "4",
+      "name": "Emiliano Martinez",
+      "team": "Argentina"
+    },
+    {
+      "code": "5",
+      "name": "Julian Alvarez",
+      "team": "Argentina"
+    },
+    {
+      "code": "6",
+      "name": "Thiago Almada",
+      "team": "Argentina"
+    },
+    {
+      "code": "7",
+      "name": "Nico Gonzalez",
+      "team": "Argentina"
+    },
+    {
+      "code": "8",
+      "name": "Paulo Dybala",
+      "team": "Argentina"
+    },
+    {
+      "code": "9",
+      "name": "Rodrigo De Paul",
+      "team": "Argentina"
+    },
+    {
+      "code": "10",
+      "name": "Alejandro Garnacho",
+      "team": "Argentina"
+    },
+    {
+      "code": "11",
+      "name": "Alexis Mac Allister",
+      "team": "Argentina"
+    },
+    {
+      "code": "12",
+      "name": "Enzo Fernandez",
+      "team": "Argentina"
+    },
+    {
+      "code": "13",
+      "name": "Christian Pulisic",
+      "team": "AC Milan"
+    },
+    {
+      "code": "14",
+      "name": "Rafael Leao",
+      "team": "AC Milan"
+    },
+    {
+      "code": "15",
+      "name": "Yunus Musah",
+      "team": "AC Milan"
+    },
+    {
+      "code": "16",
+      "name": "Davide Calabria",
+      "team": "AC Milan"
+    },
+    {
+      "code": "17",
+      "name": "Theo Hernandez",
+      "team": "AC Milan"
+    },
+    {
+      "code": "18",
+      "name": "Olivier Giroud",
+      "team": "AC Milan"
+    },
+    {
+      "code": "19",
+      "name": "Tijjani Reijnders",
+      "team": "AC Milan"
+    },
+    {
+      "code": "20",
+      "name": "Fikayo Tomori",
+      "team": "AC Milan"
+    },
+    {
+      "code": "21",
+      "name": "Mike Maignan",
+      "team": "AC Milan"
+    },
+    {
+      "code": "22",
+      "name": "Rodrigo De Paul",
+      "team": "Atletico de Madrid"
+    },
+    {
+      "code": "23",
+      "name": "Memphis Depay",
+      "team": "Atletico de Madrid"
+    },
+    {
+      "code": "24",
+      "name": "Antoine Griezmann",
+      "team": "Atletico de Madrid"
+    },
+    {
+      "code": "25",
+      "name": "Thomas Lemar",
+      "team": "Atletico de Madrid"
+    },
+    {
+      "code": "26",
+      "name": "Jan Oblak",
+      "team": "Atletico de Madrid"
+    },
+    {
+      "code": "27",
+      "name": "Marcos Llorente",
+      "team": "Atletico de Madrid"
+    },
+    {
+      "code": "28",
+      "name": "Cesar Azpilicueta",
+      "team": "Atletico de Madrid"
+    },
+    {
+      "code": "29",
+      "name": "Alvaro Morata",
+      "team": "Atletico de Madrid"
+    },
+    {
+      "code": "30",
+      "name": "Angel Correa",
+      "team": "Atletico de Madrid"
+    },
+    {
+      "code": "31",
+      "name": "Phil Foden",
+      "team": "England"
+    },
+    {
+      "code": "32",
+      "name": "Bukayo Saka",
+      "team": "England"
+    },
+    {
+      "code": "33",
+      "name": "Harry Kane",
+      "team": "England"
+    },
+    {
+      "code": "34",
+      "name": "Marcus Rashford",
+      "team": "England"
+    },
+    {
+      "code": "35",
+      "name": "Declan Rice",
+      "team": "England"
+    },
+    {
+      "code": "36",
+      "name": "Kyle Walker",
+      "team": "England"
+    },
+    {
+      "code": "37",
+      "name": "Jordan Pickford",
+      "team": "England"
+    },
+    {
+      "code": "38",
+      "name": "Jack Grealish",
+      "team": "England"
+    },
+    {
+      "code": "39",
+      "name": "Kieran Trippier",
+      "team": "England"
+    },
+    {
+      "code": "40",
+      "name": "Trent Alexander-Arnold",
+      "team": "England"
+    },
+    {
+      "code": "41",
+      "name": "James Maddison",
+      "team": "England"
+    },
+    {
+      "code": "42",
+      "name": "Jude Bellingham",
+      "team": "England"
+    },
+    {
+      "code": "43",
+      "name": "Reece James",
+      "team": "Chelsea FC"
+    },
+    {
+      "code": "44",
+      "name": "Thiago Silva",
+      "team": "Chelsea FC"
+    },
+    {
+      "code": "45",
+      "name": "Nicolas Jackson",
+      "team": "Chelsea FC"
+    },
+    {
+      "code": "46",
+      "name": "Moises Caicedo",
+      "team": "Chelsea FC"
+    },
+    {
+      "code": "47",
+      "name": "Mykhailo Mudryk",
+      "team": "Chelsea FC"
+    },
+    {
+      "code": "48",
+      "name": "Raheem Sterling",
+      "team": "Chelsea FC"
+    },
+    {
+      "code": "49",
+      "name": "Ian Maatsen",
+      "team": "Chelsea FC"
+    },
+    {
+      "code": "50",
+      "name": "Christopher Nkunku",
+      "team": "Chelsea FC"
+    },
+    {
+      "code": "51",
+      "name": "Axel Disasi",
+      "team": "Chelsea FC"
+    },
+    {
+      "code": "52",
+      "name": "William Saliba",
+      "team": "France"
+    },
+    {
+      "code": "53",
+      "name": "Kylian Mbappe",
+      "team": "France"
+    },
+    {
+      "code": "54",
+      "name": "Antoine Griezmann",
+      "team": "France"
+    },
+    {
+      "code": "55",
+      "name": "Olivier Giroud",
+      "team": "France"
+    },
+    {
+      "code": "56",
+      "name": "Ousmane Dembele",
+      "team": "France"
+    },
+    {
+      "code": "57",
+      "name": "Aurelien Tchouameni",
+      "team": "France"
+    },
+    {
+      "code": "58",
+      "name": "Adrien Rabiot",
+      "team": "France"
+    },
+    {
+      "code": "59",
+      "name": "Eduardo Camavinga",
+      "team": "France"
+    },
+    {
+      "code": "60",
+      "name": "Kingsley Coman",
+      "team": "France"
+    },
+    {
+      "code": "61",
+      "name": "Dayot Upamecano",
+      "team": "France"
+    },
+    {
+      "code": "62",
+      "name": "Randal Kolo Muani",
+      "team": "France"
+    },
+    {
+      "code": "63",
+      "name": "Benjamin Pavard",
+      "team": "France"
+    },
+    {
+      "code": "64",
+      "name": "Cesinha",
+      "team": "Daegu FC"
+    },
+    {
+      "code": "65",
+      "name": "Jin-hyuk Kim",
+      "team": "Daegu FC"
+    },
+    {
+      "code": "66",
+      "name": "Robin Koch",
+      "team": "Eintracht Frankfurt"
+    },
+    {
+      "code": "67",
+      "name": "Ellyes Skhiri",
+      "team": "Eintracht Frankfurt"
+    },
+    {
+      "code": "68",
+      "name": "Omar Marmoush",
+      "team": "Eintracht Frankfurt"
+    },
+    {
+      "code": "69",
+      "name": "Mario Gotze",
+      "team": "Eintracht Frankfurt"
+    },
+    {
+      "code": "70",
+      "name": "Jessic Ngankam",
+      "team": "Eintracht Frankfurt"
+    },
+    {
+      "code": "71",
+      "name": "Kevin Trapp",
+      "team": "Eintracht Frankfurt"
+    },
+    {
+      "code": "72",
+      "name": "Junior Dina Ebimbe",
+      "team": "Eintracht Frankfurt"
+    },
+    {
+      "code": "73",
+      "name": "Philipp Max",
+      "team": "Eintracht Frankfurt"
+    },
+    {
+      "code": "74",
+      "name": "Willian Pacho",
+      "team": "Eintracht Frankfurt"
+    },
+    {
+      "code": "75",
+      "name": "Kevin Trapp",
+      "team": "Germany"
+    },
+    {
+      "code": "76",
+      "name": "Jonathan Tah",
+      "team": "Germany"
+    },
+    {
+      "code": "77",
+      "name": "Leroy Sane",
+      "team": "Germany"
+    },
+    {
+      "code": "78",
+      "name": "Joshua Kimmich",
+      "team": "Germany"
+    },
+    {
+      "code": "79",
+      "name": "Marc-Andre ter Stegen",
+      "team": "Germany"
+    },
+    {
+      "code": "80",
+      "name": "David Raum",
+      "team": "Germany"
+    },
+    {
+      "code": "81",
+      "name": "Julian Brandt",
+      "team": "Germany"
+    },
+    {
+      "code": "82",
+      "name": "Leon Goretzka",
+      "team": "Germany"
+    },
+    {
+      "code": "83",
+      "name": "Mats Hummels",
+      "team": "Germany"
+    },
+    {
+      "code": "84",
+      "name": "Jonas Hofmann",
+      "team": "Germany"
+    },
+    {
+      "code": "85",
+      "name": "Antonio Rudiger",
+      "team": "Germany"
+    },
+    {
+      "code": "86",
+      "name": "Niclas Fullkrug",
+      "team": "Germany"
+    },
+    {
+      "code": "87",
+      "name": "Lamine Yamal",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "88",
+      "name": "Robert Lewandowski",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "89",
+      "name": "Ferran Torres",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "90",
+      "name": "Alejandro Balde",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "91",
+      "name": "Ilkay Gundogan",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "92",
+      "name": "Pedri",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "93",
+      "name": "Gavi",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "94",
+      "name": "Frenkie de Jong",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "95",
+      "name": "Fermin Lopez",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "96",
+      "name": "Lautaro Martinez",
+      "team": "FC Internazionale Milano"
+    },
+    {
+      "code": "97",
+      "name": "Denzel Dumfries",
+      "team": "FC Internazionale Milano"
+    },
+    {
+      "code": "98",
+      "name": "Yann Sommer",
+      "team": "FC Internazionale Milano"
+    },
+    {
+      "code": "99",
+      "name": "Nicolo Barella",
+      "team": "FC Internazionale Milano"
+    },
+    {
+      "code": "100",
+      "name": "Henrikh Mkhitaryan",
+      "team": "FC Internazionale Milano"
+    },
+    {
+      "code": "101",
+      "name": "Hakan Calhanoglu",
+      "team": "FC Internazionale Milano"
+    },
+    {
+      "code": "102",
+      "name": "Alessandro Bastoni",
+      "team": "FC Internazionale Milano"
+    },
+    {
+      "code": "103",
+      "name": "Marcus Thuram",
+      "team": "FC Internazionale Milano"
+    },
+    {
+      "code": "104",
+      "name": "Federico Dimarco",
+      "team": "FC Internazionale Milano"
+    },
+    {
+      "code": "105",
+      "name": "Mattia Zaccagni",
+      "team": "Italy"
+    },
+    {
+      "code": "106",
+      "name": "Ciro Immobile",
+      "team": "Italy"
+    },
+    {
+      "code": "107",
+      "name": "Giacomo Raspadori",
+      "team": "Italy"
+    },
+    {
+      "code": "108",
+      "name": "Federico Chiesa",
+      "team": "Italy"
+    },
+    {
+      "code": "109",
+      "name": "Davide Frattesi",
+      "team": "Italy"
+    },
+    {
+      "code": "110",
+      "name": "Giorgio Scalvini",
+      "team": "Italy"
+    },
+    {
+      "code": "111",
+      "name": "Gianluigi Donnarumma",
+      "team": "Italy"
+    },
+    {
+      "code": "112",
+      "name": "Wilfried Gnonto",
+      "team": "Italy"
+    },
+    {
+      "code": "113",
+      "name": "Simone Pafundi",
+      "team": "Italy"
+    },
+    {
+      "code": "114",
+      "name": "Giovanni Di Lorenzo",
+      "team": "Italy"
+    },
+    {
+      "code": "115",
+      "name": "Manuel Locatelli",
+      "team": "Italy"
+    },
+    {
+      "code": "116",
+      "name": "Nicolo Barella",
+      "team": "Italy"
+    },
+    {
+      "code": "117",
+      "name": "Manuel Locatelli",
+      "team": "Juventus"
+    },
+    {
+      "code": "118",
+      "name": "Dusan Vlahovic",
+      "team": "Juventus"
+    },
+    {
+      "code": "119",
+      "name": "Federico Chiesa",
+      "team": "Juventus"
+    },
+    {
+      "code": "120",
+      "name": "Wojciech Szczesny",
+      "team": "Juventus"
+    },
+    {
+      "code": "121",
+      "name": "Adrien Rabiot",
+      "team": "Juventus"
+    },
+    {
+      "code": "122",
+      "name": "Fabio Miretti",
+      "team": "Juventus"
+    },
+    {
+      "code": "123",
+      "name": "Federico Gatti",
+      "team": "Juventus"
+    },
+    {
+      "code": "124",
+      "name": "Danilo",
+      "team": "Juventus"
+    },
+    {
+      "code": "125",
+      "name": "Kenan Yildiz",
+      "team": "Juventus"
+    },
+    {
+      "code": "126",
+      "name": "Edson Alvarez",
+      "team": "Mexico"
+    },
+    {
+      "code": "127",
+      "name": "Hirving Lozano",
+      "team": "Mexico"
+    },
+    {
+      "code": "128",
+      "name": "Raul Jimenez",
+      "team": "Mexico"
+    },
+    {
+      "code": "129",
+      "name": "Santiago Gimenez",
+      "team": "Mexico"
+    },
+    {
+      "code": "130",
+      "name": "Mohamed Salah",
+      "team": "Liverpool FC"
+    },
+    {
+      "code": "131",
+      "name": "Diogo Jota",
+      "team": "Liverpool FC"
+    },
+    {
+      "code": "132",
+      "name": "Darwin Nunez",
+      "team": "Liverpool FC"
+    },
+    {
+      "code": "133",
+      "name": "Luis Diaz",
+      "team": "Liverpool FC"
+    },
+    {
+      "code": "134",
+      "name": "Cody Gakpo",
+      "team": "Liverpool FC"
+    },
+    {
+      "code": "135",
+      "name": "Alisson Becker",
+      "team": "Liverpool FC"
+    },
+    {
+      "code": "136",
+      "name": "Trent Alexander-Arnold",
+      "team": "Liverpool FC"
+    },
+    {
+      "code": "137",
+      "name": "Dominik Szoboszlai",
+      "team": "Liverpool FC"
+    },
+    {
+      "code": "138",
+      "name": "Virgil van Dijk",
+      "team": "Liverpool FC"
+    },
+    {
+      "code": "139",
+      "name": "Yassine Bounou",
+      "team": "Morocco"
+    },
+    {
+      "code": "140",
+      "name": "Achraf Hakimi",
+      "team": "Morocco"
+    },
+    {
+      "code": "141",
+      "name": "Youssef En-Nesyri",
+      "team": "Morocco"
+    },
+    {
+      "code": "142",
+      "name": "Noussair Mazraoui",
+      "team": "Morocco"
+    },
+    {
+      "code": "143",
+      "name": "Jack Grealish",
+      "team": "Manchester City"
+    },
+    {
+      "code": "144",
+      "name": "Phil Foden",
+      "team": "Manchester City"
+    },
+    {
+      "code": "145",
+      "name": "Erling Haaland",
+      "team": "Manchester City"
+    },
+    {
+      "code": "146",
+      "name": "Julian Alvarez",
+      "team": "Manchester City"
+    },
+    {
+      "code": "147",
+      "name": "Rodri",
+      "team": "Manchester City"
+    },
+    {
+      "code": "148",
+      "name": "Ederson",
+      "team": "Manchester City"
+    },
+    {
+      "code": "149",
+      "name": "Kevin De Bruyne",
+      "team": "Manchester City"
+    },
+    {
+      "code": "150",
+      "name": "John Stones",
+      "team": "Manchester City"
+    },
+    {
+      "code": "151",
+      "name": "Bernardo Silva",
+      "team": "Manchester City"
+    },
+    {
+      "code": "152",
+      "name": "Kalidou Koulibaly",
+      "team": "Senegal"
+    },
+    {
+      "code": "153",
+      "name": "Sadio Mane",
+      "team": "Senegal"
+    },
+    {
+      "code": "154",
+      "name": "Ismaila Sarr",
+      "team": "Senegal"
+    },
+    {
+      "code": "155",
+      "name": "Nicolas Jackson",
+      "team": "Senegal"
+    },
+    {
+      "code": "156",
+      "name": "Rasmus Hojlund",
+      "team": "Manchester United"
+    },
+    {
+      "code": "157",
+      "name": "Kobbie Mainoo",
+      "team": "Manchester United"
+    },
+    {
+      "code": "158",
+      "name": "Andre Onana",
+      "team": "Manchester United"
+    },
+    {
+      "code": "159",
+      "name": "Lisandro Martinez",
+      "team": "Manchester United"
+    },
+    {
+      "code": "160",
+      "name": "Raphael Varane",
+      "team": "Manchester United"
+    },
+    {
+      "code": "161",
+      "name": "Casemiro",
+      "team": "Manchester United"
+    },
+    {
+      "code": "162",
+      "name": "Bruno Fernandes",
+      "team": "Manchester United"
+    },
+    {
+      "code": "163",
+      "name": "Mason Mount",
+      "team": "Manchester United"
+    },
+    {
+      "code": "164",
+      "name": "Marcus Rashford",
+      "team": "Manchester United"
+    },
+    {
+      "code": "165",
+      "name": "Brenden Aaronson",
+      "team": "United States"
+    },
+    {
+      "code": "166",
+      "name": "Timothy Weah",
+      "team": "United States"
+    },
+    {
+      "code": "167",
+      "name": "Tyler Adams",
+      "team": "United States"
+    },
+    {
+      "code": "168",
+      "name": "Christian Pulisic",
+      "team": "United States"
+    },
+    {
+      "code": "169",
+      "name": "Jesus Ferreira",
+      "team": "United States"
+    },
+    {
+      "code": "170",
+      "name": "Weston McKennie",
+      "team": "United States"
+    },
+    {
+      "code": "171",
+      "name": "Rony",
+      "team": "Palmeiras"
+    },
+    {
+      "code": "172",
+      "name": "Endrick",
+      "team": "Palmeiras"
+    },
+    {
+      "code": "173",
+      "name": "Artur",
+      "team": "Palmeiras"
+    },
+    {
+      "code": "174",
+      "name": "Raphael Veiga",
+      "team": "Palmeiras"
+    },
+    {
+      "code": "175",
+      "name": "David Alaba",
+      "team": "Real Madrid"
+    },
+    {
+      "code": "176",
+      "name": "Vini Jr.",
+      "team": "Real Madrid"
+    },
+    {
+      "code": "177",
+      "name": "Eduardo Camavinga",
+      "team": "Real Madrid"
+    },
+    {
+      "code": "178",
+      "name": "Rodrygo",
+      "team": "Real Madrid"
+    },
+    {
+      "code": "179",
+      "name": "Jude Bellingham",
+      "team": "Real Madrid"
+    },
+    {
+      "code": "180",
+      "name": "Federico Valverde",
+      "team": "Real Madrid"
+    },
+    {
+      "code": "181",
+      "name": "Toni Kroos",
+      "team": "Real Madrid"
+    },
+    {
+      "code": "182",
+      "name": "Dani Carvajal",
+      "team": "Real Madrid"
+    },
+    {
+      "code": "183",
+      "name": "Aurelien Tchouameni",
+      "team": "Real Madrid"
+    },
+    {
+      "code": "184",
+      "name": "Alyssa Thompson",
+      "team": "United States"
+    },
+    {
+      "code": "185",
+      "name": "Alex Morgan",
+      "team": "United States"
+    },
+    {
+      "code": "186",
+      "name": "Lindsey Horan",
+      "team": "United States"
+    },
+    {
+      "code": "187",
+      "name": "Trinity Rodman",
+      "team": "United States"
+    },
+    {
+      "code": "188",
+      "name": "Rose Lavelle",
+      "team": "United States"
+    },
+    {
+      "code": "189",
+      "name": "Sophia Smith",
+      "team": "United States"
+    },
+    {
+      "code": "190",
+      "name": "Yves Bissouma",
+      "team": "Tottenham Hotspur"
+    },
+    {
+      "code": "191",
+      "name": "Cristian Romero",
+      "team": "Tottenham Hotspur"
+    },
+    {
+      "code": "192",
+      "name": "Dejan Kulusevski",
+      "team": "Tottenham Hotspur"
+    },
+    {
+      "code": "193",
+      "name": "Guglielmo Vicario",
+      "team": "Tottenham Hotspur"
+    },
+    {
+      "code": "194",
+      "name": "Heung-min Son",
+      "team": "Tottenham Hotspur"
+    },
+    {
+      "code": "195",
+      "name": "Micky van de Ven",
+      "team": "Tottenham Hotspur"
+    },
+    {
+      "code": "196",
+      "name": "Destiny Udogie",
+      "team": "Tottenham Hotspur"
+    },
+    {
+      "code": "197",
+      "name": "James Maddison",
+      "team": "Tottenham Hotspur"
+    },
+    {
+      "code": "198",
+      "name": "Richarlison",
+      "team": "Tottenham Hotspur"
+    },
+    {
+      "code": "199",
+      "name": "Young-gwon Kim",
+      "team": "Ulsan Hyundai"
+    },
+    {
+      "code": "200",
+      "name": "Valeri Qazaishvili",
+      "team": "Ulsan Hyundai"
+    },
+    {
+      "code": "201",
+      "name": "Enzo Fernandez",
+      "team": "Chelsea FC"
+    },
+    {
+      "code": "202",
+      "name": "Malo Gusto",
+      "team": "Chelsea FC"
+    },
+    {
+      "code": "203",
+      "name": "Harvey Elliott",
+      "team": "Liverpool FC"
+    },
+    {
+      "code": "204",
+      "name": "Ryan Gravenberch",
+      "team": "Liverpool FC"
+    },
+    {
+      "code": "205",
+      "name": "Fran Garcia",
+      "team": "Real Madrid"
+    },
+    {
+      "code": "206",
+      "name": "Josko Gvardiol",
+      "team": "Manchester City"
+    },
+    {
+      "code": "207",
+      "name": "Alejandro Garnacho",
+      "team": "Manchester United"
+    },
+    {
+      "code": "208",
+      "name": "Iliman Ndiaye",
+      "team": "Senegal"
+    },
+    {
+      "code": "209",
+      "name": "Rico Lewis",
+      "team": "Manchester City"
+    },
+    {
+      "code": "210",
+      "name": "Pascal Gross",
+      "team": "Germany"
+    },
+    {
+      "code": "211",
+      "name": "Samuel Lino",
+      "team": "Atletico de Madrid"
+    },
+    {
+      "code": "212",
+      "name": "Abde Ezzalzouli",
+      "team": "Morocco"
+    },
+    {
+      "code": "213",
+      "name": "Joao Felix",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "214",
+      "name": "Jules Kounde",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "215",
+      "name": "Jude Bellingham",
+      "team": "Real Madrid"
+    },
+    {
+      "code": "216",
+      "name": "Pape Matar Sarr",
+      "team": "Senegal"
+    },
+    {
+      "code": "217",
+      "name": "James Maddison",
+      "team": "Tottenham Hotspur"
+    },
+    {
+      "code": "218",
+      "name": "Brennan Johnson",
+      "team": "Tottenham Hotspur"
+    },
+    {
+      "code": "219",
+      "name": "Joaquin Piquerez",
+      "team": "Palmeiras"
+    },
+    {
+      "code": "220",
+      "name": "Rasmus Hojlund",
+      "team": "Manchester United"
+    },
+    {
+      "code": "221",
+      "name": "Joselu",
+      "team": "Real Madrid"
+    },
+    {
+      "code": "222",
+      "name": "Timothy Weah",
+      "team": "Juventus"
+    },
+    {
+      "code": "223",
+      "name": "Moise Kean",
+      "team": "Juventus"
+    },
+    {
+      "code": "224",
+      "name": "Davide Frattesi",
+      "team": "FC Internazionale Milano"
+    },
+    {
+      "code": "225",
+      "name": "Kristjan Asllani",
+      "team": "FC Internazionale Milano"
+    },
+    {
+      "code": "226",
+      "name": "Noah Okafor",
+      "team": "AC Milan"
+    },
+    {
+      "code": "227",
+      "name": "Samuel Chukwueze",
+      "team": "AC Milan"
+    },
+    {
+      "code": "228",
+      "name": "Marvin Ducksch",
+      "team": "Germany"
+    },
+    {
+      "code": "229",
+      "name": "Paxten Aaronson",
+      "team": "Eintracht Frankfurt"
+    },
+    {
+      "code": "230",
+      "name": "Fares Chaibi",
+      "team": "Eintracht Frankfurt"
+    },
+    {
+      "code": "231",
+      "name": "Edouard Mendy",
+      "team": "Senegal"
+    },
+    {
+      "code": "232",
+      "name": "Ederson",
+      "team": "Manchester City"
+    },
+    {
+      "code": "233",
+      "name": "Thibaut Courtois",
+      "team": "Real Madrid"
+    },
+    {
+      "code": "234",
+      "name": "Gianluigi Donnarumma",
+      "team": "Italy"
+    },
+    {
+      "code": "235",
+      "name": "Marc-Andre ter Stegen",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "236",
+      "name": "Emiliano Martinez",
+      "team": "Argentina"
+    },
+    {
+      "code": "237",
+      "name": "Jan Oblak",
+      "team": "Atletico de Madrid"
+    },
+    {
+      "code": "238",
+      "name": "Guillermo Ochoa",
+      "team": "Mexico"
+    },
+    {
+      "code": "239",
+      "name": "Jordan Pickford",
+      "team": "England"
+    },
+    {
+      "code": "240",
+      "name": "Andre Onana",
+      "team": "Manchester United"
+    },
+    {
+      "code": "241",
+      "name": "Ian Maatsen",
+      "team": "Chelsea FC"
+    },
+    {
+      "code": "242",
+      "name": "Josha Vagnoman",
+      "team": "Germany"
+    },
+    {
+      "code": "243",
+      "name": "Ben Doak",
+      "team": "Liverpool FC"
+    },
+    {
+      "code": "244",
+      "name": "Nico Paz",
+      "team": "Real Madrid"
+    },
+    {
+      "code": "245",
+      "name": "Ismael Saibari",
+      "team": "Morocco"
+    },
+    {
+      "code": "246",
+      "name": "Facundo Buonanotte",
+      "team": "Argentina"
+    },
+    {
+      "code": "247",
+      "name": "Luis Guilherme",
+      "team": "Palmeiras"
+    },
+    {
+      "code": "248",
+      "name": "Hans Nicolussi Caviglia",
+      "team": "Juventus"
+    },
+    {
+      "code": "249",
+      "name": "Micky van de Ven",
+      "team": "Tottenham Hotspur"
+    },
+    {
+      "code": "250",
+      "name": "Bilal El Khannouss",
+      "team": "Morocco"
+    },
+    {
+      "code": "251",
+      "name": "James McConnell",
+      "team": "Liverpool FC"
+    },
+    {
+      "code": "252",
+      "name": "Mateo Retegui",
+      "team": "Italy"
+    },
+    {
+      "code": "253",
+      "name": "Arda Guler",
+      "team": "Real Madrid"
+    },
+    {
+      "code": "254",
+      "name": "Cesar Huerta",
+      "team": "Mexico"
+    },
+    {
+      "code": "255",
+      "name": "Willian Pacho",
+      "team": "Eintracht Frankfurt"
+    },
+    {
+      "code": "256",
+      "name": "Hugo Larsson",
+      "team": "Eintracht Frankfurt"
+    },
+    {
+      "code": "257",
+      "name": "Gabriel Menino",
+      "team": "Palmeiras"
+    },
+    {
+      "code": "258",
+      "name": "Lamine Yamal",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "259",
+      "name": "Endrick",
+      "team": "Palmeiras"
+    },
+    {
+      "code": "260",
+      "name": "Kenan Yildiz",
+      "team": "Juventus"
+    },
+    {
+      "code": "261",
+      "name": "Erling Haaland",
+      "team": "Manchester City"
+    },
+    {
+      "code": "262",
+      "name": "Phil Foden",
+      "team": "England"
+    },
+    {
+      "code": "263",
+      "name": "Bukayo Saka",
+      "team": "England"
+    },
+    {
+      "code": "264",
+      "name": "Lautaro Martinez",
+      "team": "FC Internazionale Milano"
+    },
+    {
+      "code": "265",
+      "name": "Mohamed Salah",
+      "team": "Liverpool FC"
+    },
+    {
+      "code": "266",
+      "name": "Enzo Fernandez",
+      "team": "Argentina"
+    },
+    {
+      "code": "267",
+      "name": "Olivier Giroud",
+      "team": "France"
+    },
+    {
+      "code": "268",
+      "name": "Memphis Depay",
+      "team": "Atletico de Madrid"
+    },
+    {
+      "code": "269",
+      "name": "Mykhailo Mudryk",
+      "team": "Chelsea FC"
+    },
+    {
+      "code": "270",
+      "name": "Christopher Nkunku",
+      "team": "Chelsea FC"
+    },
+    {
+      "code": "271",
+      "name": "Dayot Upamecano",
+      "team": "France"
+    },
+    {
+      "code": "272",
+      "name": "Wojciech Szczesny",
+      "team": "Juventus"
+    },
+    {
+      "code": "273",
+      "name": "Serge Gnabry",
+      "team": "Germany"
+    },
+    {
+      "code": "274",
+      "name": "Pedri",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "275",
+      "name": "Gavi",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "276",
+      "name": "Vini Jr.",
+      "team": "Real Madrid"
+    },
+    {
+      "code": "277",
+      "name": "Rafael Leao",
+      "team": "AC Milan"
+    },
+    {
+      "code": "278",
+      "name": "Ilkay Gundogan",
+      "team": "Germany"
+    },
+    {
+      "code": "279",
+      "name": "Lucas Barcelos",
+      "team": "Daegu FC"
+    },
+    {
+      "code": "280",
+      "name": "Nicolo Barella",
+      "team": "Italy"
+    },
+    {
+      "code": "281",
+      "name": "Lionel Messi",
+      "team": "Argentina"
+    },
+    {
+      "code": "282",
+      "name": "Julian Alvarez",
+      "team": "Argentina"
+    },
+    {
+      "code": "283",
+      "name": "Adrien Rabiot",
+      "team": "France"
+    },
+    {
+      "code": "284",
+      "name": "Harry Kane",
+      "team": "England"
+    },
+    {
+      "code": "285",
+      "name": "Alessandro Bastoni",
+      "team": "FC Internazionale Milano"
+    },
+    {
+      "code": "286",
+      "name": "Ciro Immobile",
+      "team": "Italy"
+    },
+    {
+      "code": "287",
+      "name": "Christian Eriksen",
+      "team": "Manchester United"
+    },
+    {
+      "code": "288",
+      "name": "Alex Morgan",
+      "team": "United States"
+    },
+    {
+      "code": "289",
+      "name": "Antoine Griezmann",
+      "team": "France"
+    },
+    {
+      "code": "290",
+      "name": "Andy Robertson",
+      "team": "Liverpool FC"
+    },
+    {
+      "code": "291",
+      "name": "Heung-min Son",
+      "team": "Tottenham Hotspur"
+    },
+    {
+      "code": "292",
+      "name": "Rodrygo",
+      "team": "Real Madrid"
+    },
+    {
+      "code": "293",
+      "name": "Alisson Becker",
+      "team": "Liverpool FC"
+    },
+    {
+      "code": "294",
+      "name": "Kevin De Bruyne",
+      "team": "Manchester City"
+    },
+    {
+      "code": "295",
+      "name": "Tae-hwan Kim",
+      "team": "Ulsan Hyundai"
+    },
+    {
+      "code": "296",
+      "name": "Jude Bellingham",
+      "team": "England"
+    },
+    {
+      "code": "297",
+      "name": "Luka Modric",
+      "team": "Real Madrid"
+    },
+    {
+      "code": "298",
+      "name": "Kai Havertz",
+      "team": "Germany"
+    },
+    {
+      "code": "299",
+      "name": "Thomas Muller",
+      "team": "Germany"
+    },
+    {
+      "code": "300",
+      "name": "Robert Lewandowski",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "301",
+      "name": "Erling Haaland",
+      "team": "Manchester City"
+    },
+    {
+      "code": "302",
+      "name": "Pedri",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "303",
+      "name": "Kevin De Bruyne",
+      "team": "Manchester City"
+    },
+    {
+      "code": "304",
+      "name": "Lamine Yamal",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "305",
+      "name": "Ousmane Dembele",
+      "team": "France"
+    },
+    {
+      "code": "306",
+      "name": "Julian Alvarez",
+      "team": "Argentina"
+    },
+    {
+      "code": "307",
+      "name": "Robert Lewandowski",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "308",
+      "name": "Rafael Leao",
+      "team": "AC Milan"
+    },
+    {
+      "code": "309",
+      "name": "Marcus Rashford",
+      "team": "Manchester United"
+    },
+    {
+      "code": "310",
+      "name": "Vini Jr.",
+      "team": "Real Madrid"
+    },
+    {
+      "code": "311",
+      "name": "Luka Modric",
+      "team": "Real Madrid"
+    },
+    {
+      "code": "312",
+      "name": "Jude Bellingham",
+      "team": "England"
+    },
+    {
+      "code": "313",
+      "name": "Eduardo Camavinga",
+      "team": "France"
+    },
+    {
+      "code": "314",
+      "name": "Jamal Musiala",
+      "team": "Germany"
+    },
+    {
+      "code": "315",
+      "name": "Lionel Messi",
+      "team": "Argentina"
+    },
+    {
+      "code": "316",
+      "name": "Gavi",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "317",
+      "name": "Randal Kolo Muani",
+      "team": "France"
+    },
+    {
+      "code": "318",
+      "name": "Mohamed Salah",
+      "team": "Liverpool FC"
+    },
+    {
+      "code": "319",
+      "name": "Bukayo Saka",
+      "team": "England"
+    },
+    {
+      "code": "320",
+      "name": "David Beckham",
+      "team": "England"
+    },
+    {
+      "code": "321",
+      "name": "Lionel Messi",
+      "team": "Argentina"
+    },
+    {
+      "code": "322",
+      "name": "Kingsley Coman",
+      "team": "France"
+    },
+    {
+      "code": "323",
+      "name": "Jude Bellingham",
+      "team": "Real Madrid"
+    },
+    {
+      "code": "324",
+      "name": "Darwin Nunez",
+      "team": "Liverpool FC"
+    },
+    {
+      "code": "325",
+      "name": "Endrick",
+      "team": "Palmeiras"
+    },
+    {
+      "code": "326",
+      "name": "Pedri",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "327",
+      "name": "Erling Haaland",
+      "team": "Manchester City"
+    },
+    {
+      "code": "328",
+      "name": "Kylian Mbappe",
+      "team": "France"
+    },
+    {
+      "code": "329",
+      "name": "Christian Pulisic",
+      "team": "United States"
+    },
+    {
+      "code": "330",
+      "name": "Nicolo Barella",
+      "team": "FC Internazionale Milano"
+    },
+    {
+      "code": "331",
+      "name": "Heung-min Son",
+      "team": "Tottenham Hotspur"
+    },
+    {
+      "code": "332",
+      "name": "Gavi",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "333",
+      "name": "Harry Kane",
+      "team": "England"
+    },
+    {
+      "code": "334",
+      "name": "Vini Jr.",
+      "team": "Real Madrid"
+    },
+    {
+      "code": "335",
+      "name": "Florian Wirtz",
+      "team": "Germany"
+    },
+    {
+      "code": "336",
+      "name": "Phil Foden",
+      "team": "Manchester City"
+    },
+    {
+      "code": "337",
+      "name": "Aurelien Tchouameni",
+      "team": "France"
+    },
+    {
+      "code": "338",
+      "name": "Julian Alvarez",
+      "team": "Argentina"
+    },
+    {
+      "code": "339",
+      "name": "Bukayo Saka",
+      "team": "England"
+    },
+    {
+      "code": "340",
+      "name": "Diego Maradona",
+      "team": "Argentina"
+    },
+    {
+      "code": "341",
+      "name": "Julian Alvarez",
+      "team": "Manchester City"
+    },
+    {
+      "code": "342",
+      "name": "Arda Guler",
+      "team": "Real Madrid"
+    },
+    {
+      "code": "343",
+      "name": "Youssoufa Moukoko",
+      "team": "Germany"
+    },
+    {
+      "code": "344",
+      "name": "William Saliba",
+      "team": "France"
+    },
+    {
+      "code": "345",
+      "name": "Enzo Fernandez",
+      "team": "Argentina"
+    },
+    {
+      "code": "346",
+      "name": "Thiago Almada",
+      "team": "Argentina"
+    },
+    {
+      "code": "347",
+      "name": "Trinity Rodman",
+      "team": "United States"
+    },
+    {
+      "code": "348",
+      "name": "Alejandro Garnacho",
+      "team": "Manchester United"
+    },
+    {
+      "code": "349",
+      "name": "Malick Thiaw",
+      "team": "AC Milan"
+    },
+    {
+      "code": "350",
+      "name": "Dominik Szoboszlai",
+      "team": "Liverpool FC"
+    },
+    {
+      "code": "351",
+      "name": "Lamine Yamal",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "352",
+      "name": "Brennan Johnson",
+      "team": "Tottenham Hotspur"
+    },
+    {
+      "code": "353",
+      "name": "Phil Foden",
+      "team": "England"
+    },
+    {
+      "code": "354",
+      "name": "Rodrygo",
+      "team": "Real Madrid"
+    },
+    {
+      "code": "355",
+      "name": "Samuel Iling-Junior",
+      "team": "Juventus"
+    },
+    {
+      "code": "356",
+      "name": "Moises Caicedo",
+      "team": "Chelsea FC"
+    },
+    {
+      "code": "357",
+      "name": "Alyssa Thompson",
+      "team": "United States"
+    },
+    {
+      "code": "358",
+      "name": "Luis Guilherme",
+      "team": "Palmeiras"
+    },
+    {
+      "code": "359",
+      "name": "Endrick",
+      "team": "Palmeiras"
+    },
+    {
+      "code": "360",
+      "name": "Giorgio Scalvini",
+      "team": "Italy"
+    },
+    {
+      "code": "361",
+      "name": "Kylian Mbappe",
+      "team": "France"
+    },
+    {
+      "code": "362",
+      "name": "Ricardo Pepi",
+      "team": "United States"
+    },
+    {
+      "code": "363",
+      "name": "Mario Gotze",
+      "team": "Eintracht Frankfurt"
+    },
+    {
+      "code": "364",
+      "name": "Yerry Mina",
+      "team": "Palmeiras"
+    },
+    {
+      "code": "365",
+      "name": "Ferran Torres",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "366",
+      "name": "Marcos Acuna",
+      "team": "Argentina"
+    },
+    {
+      "code": "367",
+      "name": "Robin Gosens",
+      "team": "Germany"
+    },
+    {
+      "code": "368",
+      "name": "Jae-hyeon Go",
+      "team": "Daegu FC"
+    },
+    {
+      "code": "369",
+      "name": "Robert Lewandowski",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "370",
+      "name": "Olivier Giroud",
+      "team": "France"
+    },
+    {
+      "code": "371",
+      "name": "Hyeon-woo Jo",
+      "team": "Ulsan Hyundai"
+    },
+    {
+      "code": "372",
+      "name": "Jordan Pickford",
+      "team": "England"
+    },
+    {
+      "code": "373",
+      "name": "Luca de la Torre",
+      "team": "United States"
+    },
+    {
+      "code": "374",
+      "name": "Wilfried Gnonto",
+      "team": "Italy"
+    },
+    {
+      "code": "375",
+      "name": "Manuel Locatelli",
+      "team": "Juventus"
+    },
+    {
+      "code": "376",
+      "name": "Cafu",
+      "team": "AC Milan"
+    },
+    {
+      "code": "377",
+      "name": "Adrien Rabiot",
+      "team": "France"
+    },
+    {
+      "code": "378",
+      "name": "Edin Dzeko",
+      "team": "Manchester City"
+    },
+    {
+      "code": "379",
+      "name": "Andrea Pirlo",
+      "team": "Italy"
+    },
+    {
+      "code": "380",
+      "name": "Young-woo Seol",
+      "team": "Ulsan Hyundai"
+    },
+    {
+      "code": "381",
+      "name": "Rafael Marquez",
+      "team": "Mexico"
+    },
+    {
+      "code": "382",
+      "name": "David James",
+      "team": "Liverpool FC"
+    },
+    {
+      "code": "383",
+      "name": "Benjamin Henrichs",
+      "team": "Germany"
+    },
+    {
+      "code": "384",
+      "name": "Rivaldo",
+      "team": "FC Barcelona"
+    },
+    {
+      "code": "385",
+      "name": "Jin-woo Jo",
+      "team": "Daegu FC"
+    },
+    {
+      "code": "386",
+      "name": "Dayot Upamecano",
+      "team": "France"
+    },
+    {
+      "code": "387",
+      "name": "Paulo Sousa",
+      "team": "FC Internazionale Milano"
+    },
+    {
+      "code": "388",
+      "name": "Kevin Trapp",
+      "team": "Eintracht Frankfurt"
+    },
+    {
+      "code": "389",
+      "name": "Gianluigi Buffon",
+      "team": "Italy"
+    },
+    {
+      "code": "390",
+      "name": "Jimmy Floyd Hasselbaink",
+      "team": "Atletico de Madrid"
+    },
+    {
+      "code": "391",
+      "name": "Joe Cole",
+      "team": "Chelsea FC"
+    },
+    {
+      "code": "392",
+      "name": "Shinji Kagawa",
+      "team": "Manchester United"
+    },
+    {
+      "code": "393",
+      "name": "Andreas Moller",
+      "team": "Eintracht Frankfurt"
+    },
+    {
+      "code": "394",
+      "name": "Jae-won Hwang",
+      "team": "Daegu FC"
+    },
+    {
+      "code": "395",
+      "name": "Karim Adeyemi",
+      "team": "Germany"
+    },
+    {
+      "code": "396",
+      "name": "Fabrizio Ravanelli",
+      "team": "Italy"
+    },
+    {
+      "code": "397",
+      "name": "Benjamin Pavard",
+      "team": "France"
+    },
+    {
+      "code": "398",
+      "name": "Dida",
+      "team": "AC Milan"
+    },
+    {
+      "code": "399",
+      "name": "Min-kyu Joo",
+      "team": "Ulsan Hyundai"
+    }
+  ]
+}
