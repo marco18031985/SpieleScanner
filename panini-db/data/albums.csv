@@ -1,5 +1,5 @@
 slug,publisher,title,year,season,category,region,kind,total_stickers,source,notes
-panini-fifa-world-cup-2026,Panini,FIFA World Cup 2026 – Standard Edition,2026,,Fußball,INT,sticker,,https://www.paninigroup.com,Gesamtzahl je nach Ausgabe unterschiedlich – Checkliste importieren
+panini-fifa-world-cup-2026,Panini,FIFA World Cup 2026 – Standard Edition,2026,,Fußball,INT,sticker,980,https://www.paninigroup.com/en/wc26pack-contents,"48 Teams x 20 + 00 + FWC1-19; Checkliste in data/checklists"
 panini-fifa-365-2027,Panini,FIFA 365 2027,2026,2026/27,Fußball,INT,sticker,,,
 panini-fifa-365-2026,Panini,FIFA 365 2026,2025,2025/26,Fußball,INT,sticker,,,
 panini-fifa-club-world-cup-2025,Panini,FIFA Club World Cup 2025,2025,,Fußball,INT,sticker,,,

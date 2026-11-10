@@ -1,0 +1,5115 @@
+{
+  "album": {
+    "slug": "panini-fifa-world-cup-2026",
+    "publisher": "Panini",
+    "title": "FIFA World Cup 2026 – Standard Edition",
+    "year": 2026,
+    "season": null,
+    "category": "Fußball",
+    "region": "INT",
+    "kind": "sticker",
+    "total_stickers": 980,
+    "cover_url": null,
+    "source": "https://www.panini.de/shp_deu_de/fifa-world-cup-2026-official-sticker-collection-fehlende-bilder-005460b-its.html",
+    "notes": "Alle 980 Codes laut Panini (48 Teams x 20 + 00 + FWC1-19; paninigroup.com/en/wc26pack-contents). Spielernamen bisher nur MEX, RSA, KOR und CZE2-11 aus dem offiziellen Nachbestellshop; die übrigen Namen fehlen noch (Platzhalter). Reihenfolge der Teams nach Gruppenauslosung, Position von FWC9-19 (FIFA-Museum) im Album nicht geprüft."
+  },
+  "stickers": [
+    {
+      "code": "00",
+      "name": "Panini",
+      "section": "Intro"
+    },
+    {
+      "code": "FWC1",
+      "name": "Official Emblem",
+      "section": "Intro"
+    },
+    {
+      "code": "FWC2",
+      "name": "Official Emblem",
+      "section": "Intro"
+    },
+    {
+      "code": "FWC3",
+      "name": "Official Mascots",
+      "section": "Intro"
+    },
+    {
+      "code": "FWC4",
+      "name": "Official Slogan",
+      "section": "Intro"
+    },
+    {
+      "code": "FWC5",
+      "name": "Official Ball",
+      "section": "Intro"
+    },
+    {
+      "code": "FWC6",
+      "name": "Host Country Emblem – Canada",
+      "section": "Intro"
+    },
+    {
+      "code": "FWC7",
+      "name": "Host Country Emblem – Mexico",
+      "section": "Intro"
+    },
+    {
+      "code": "FWC8",
+      "name": "Host Country Emblem – USA",
+      "section": "Intro"
+    },
+    {
+      "code": "MEX1",
+      "name": "Logo",
+      "team": "Mexico",
+      "section": "Gruppe A – Mexico",
+      "is_special": true
+    },
+    {
+      "code": "MEX2",
+      "name": "Luis Malagón",
+      "team": "Mexico",
+      "section": "Gruppe A – Mexico"
+    },
+    {
+      "code": "MEX3",
+      "name": "Johan Vásquez",
+      "team": "Mexico",
+      "section": "Gruppe A – Mexico"
+    },
+    {
+      "code": "MEX4",
+      "name": "Jorge Sánchez",
+      "team": "Mexico",
+      "section": "Gruppe A – Mexico"
+    },
+    {
+      "code": "MEX5",
+      "name": "César Montes",
+      "team": "Mexico",
+      "section": "Gruppe A – Mexico"
+    },
+    {
+      "code": "MEX6",
+      "name": "Jesús Gallardo",
+      "team": "Mexico",
+      "section": "Gruppe A – Mexico"
+    },
+    {
+      "code": "MEX7",
+      "name": "Israel Reyes",
+      "team": "Mexico",
+      "section": "Gruppe A – Mexico"
+    },
+    {
+      "code": "MEX8",
+      "name": "Diego Lainez",
+      "team": "Mexico",
+      "section": "Gruppe A – Mexico"
+    },
+    {
+      "code": "MEX9",
+      "name": "Carlos Rodríguez",
+      "team": "Mexico",
+      "section": "Gruppe A – Mexico"
+    },
+    {
+      "code": "MEX10",
+      "name": "Edson Álvarez",
+      "team": "Mexico",
+      "section": "Gruppe A – Mexico"
+    },
+    {
+      "code": "MEX11",
+      "name": "Orbelín Pineda",
+      "team": "Mexico",
+      "section": "Gruppe A – Mexico"
+    },
+    {
+      "code": "MEX12",
+      "name": "Marcel Ruiz",
+      "team": "Mexico",
+      "section": "Gruppe A – Mexico"
+    },
+    {
+      "code": "MEX13",
+      "name": "Team",
+      "team": "Mexico",
+      "section": "Gruppe A – Mexico"
+    },
+    {
+      "code": "MEX14",
+      "name": "Érick Sánchez",
+      "team": "Mexico",
+      "section": "Gruppe A – Mexico"
+    },
+    {
+      "code": "MEX15",
+      "name": "Hirving Lozano",
+      "team": "Mexico",
+      "section": "Gruppe A – Mexico"
+    },
+    {
+      "code": "MEX16",
+      "name": "Santiago Giménez",
+      "team": "Mexico",
+      "section": "Gruppe A – Mexico"
+    },
+    {
+      "code": "MEX17",
+      "name": "Raúl Jiménez",
+      "team": "Mexico",
+      "section": "Gruppe A – Mexico"
+    },
+    {
+      "code": "MEX18",
+      "name": "Alexis Vega",
+      "team": "Mexico",
+      "section": "Gruppe A – Mexico"
+    },
+    {
+      "code": "MEX19",
+      "name": "Roberto Alvarado",
+      "team": "Mexico",
+      "section": "Gruppe A – Mexico"
+    },
+    {
+      "code": "MEX20",
+      "name": "César Huerta",
+      "team": "Mexico",
+      "section": "Gruppe A – Mexico"
+    },
+    {
+      "code": "RSA1",
+      "name": "Logo",
+      "team": "South Africa",
+      "section": "Gruppe A – South Africa",
+      "is_special": true
+    },
+    {
+      "code": "RSA2",
+      "name": "Ronwen Williams",
+      "team": "South Africa",
+      "section": "Gruppe A – South Africa"
+    },
+    {
+      "code": "RSA3",
+      "name": "Sipho Chaine",
+      "team": "South Africa",
+      "section": "Gruppe A – South Africa"
+    },
+    {
+      "code": "RSA4",
+      "name": "Aubrey Modiba",
+      "team": "South Africa",
+      "section": "Gruppe A – South Africa"
+    },
+    {
+      "code": "RSA5",
+      "name": "Samukele Kabini",
+      "team": "South Africa",
+      "section": "Gruppe A – South Africa"
+    },
+    {
+      "code": "RSA6",
+      "name": "Mbekezeli Mbokazi",
+      "team": "South Africa",
+      "section": "Gruppe A – South Africa"
+    },
+    {
+      "code": "RSA7",
+      "name": "Khulumani Ndamane",
+      "team": "South Africa",
+      "section": "Gruppe A – South Africa"
+    },
+    {
+      "code": "RSA8",
+      "name": "Siyabonga Ngezana",
+      "team": "South Africa",
+      "section": "Gruppe A – South Africa"
+    },
+    {
+      "code": "RSA9",
+      "name": "Khuliso Mudau",
+      "team": "South Africa",
+      "section": "Gruppe A – South Africa"
+    },
+    {
+      "code": "RSA10",
+      "name": "Nkosinathi Sibisi",
+      "team": "South Africa",
+      "section": "Gruppe A – South Africa"
+    },
+    {
+      "code": "RSA11",
+      "name": "Teboho Mokoena",
+      "team": "South Africa",
+      "section": "Gruppe A – South Africa"
+    },
+    {
+      "code": "RSA12",
+      "name": "Thalente Mbatha",
+      "team": "South Africa",
+      "section": "Gruppe A – South Africa"
+    },
+    {
+      "code": "RSA13",
+      "name": "Team",
+      "team": "South Africa",
+      "section": "Gruppe A – South Africa"
+    },
+    {
+      "code": "RSA14",
+      "name": "Bathusi Aubaas",
+      "team": "South Africa",
+      "section": "Gruppe A – South Africa"
+    },
+    {
+      "code": "RSA15",
+      "name": "Yaya Sithole",
+      "team": "South Africa",
+      "section": "Gruppe A – South Africa"
+    },
+    {
+      "code": "RSA16",
+      "name": "Sipho Mbule",
+      "team": "South Africa",
+      "section": "Gruppe A – South Africa"
+    },
+    {
+      "code": "RSA17",
+      "name": "Lyle Foster",
+      "team": "South Africa",
+      "section": "Gruppe A – South Africa"
+    },
+    {
+      "code": "RSA18",
+      "name": "Iqraam Rayners",
+      "team": "South Africa",
+      "section": "Gruppe A – South Africa"
+    },
+    {
+      "code": "RSA19",
+      "name": "Mohau Nkota",
+      "team": "South Africa",
+      "section": "Gruppe A – South Africa"
+    },
+    {
+      "code": "RSA20",
+      "name": "Oswin Appollis",
+      "team": "South Africa",
+      "section": "Gruppe A – South Africa"
+    },
+    {
+      "code": "KOR1",
+      "name": "Logo",
+      "team": "Korea Republic",
+      "section": "Gruppe A – Korea Republic",
+      "is_special": true
+    },
+    {
+      "code": "KOR2",
+      "name": "Hyeonwoo Jo",
+      "team": "Korea Republic",
+      "section": "Gruppe A – Korea Republic"
+    },
+    {
+      "code": "KOR3",
+      "name": "Seunggyu Kim",
+      "team": "Korea Republic",
+      "section": "Gruppe A – Korea Republic"
+    },
+    {
+      "code": "KOR4",
+      "name": "Minjae Kim",
+      "team": "Korea Republic",
+      "section": "Gruppe A – Korea Republic"
+    },
+    {
+      "code": "KOR5",
+      "name": "Yumin Cho",
+      "team": "Korea Republic",
+      "section": "Gruppe A – Korea Republic"
+    },
+    {
+      "code": "KOR6",
+      "name": "Youngwoo Seol",
+      "team": "Korea Republic",
+      "section": "Gruppe A – Korea Republic"
+    },
+    {
+      "code": "KOR7",
+      "name": "Hanbeom Lee",
+      "team": "Korea Republic",
+      "section": "Gruppe A – Korea Republic"
+    },
+    {
+      "code": "KOR8",
+      "name": "Taeseok Lee",
+      "team": "Korea Republic",
+      "section": "Gruppe A – Korea Republic"
+    },
+    {
+      "code": "KOR9",
+      "name": "Myungjae Lee",
+      "team": "Korea Republic",
+      "section": "Gruppe A – Korea Republic"
+    },
+    {
+      "code": "KOR10",
+      "name": "Jaesung Lee",
+      "team": "Korea Republic",
+      "section": "Gruppe A – Korea Republic"
+    },
+    {
+      "code": "KOR11",
+      "name": "Inbeom Hwang",
+      "team": "Korea Republic",
+      "section": "Gruppe A – Korea Republic"
+    },
+    {
+      "code": "KOR12",
+      "name": "Kangin Lee",
+      "team": "Korea Republic",
+      "section": "Gruppe A – Korea Republic"
+    },
+    {
+      "code": "KOR13",
+      "name": "Team",
+      "team": "Korea Republic",
+      "section": "Gruppe A – Korea Republic"
+    },
+    {
+      "code": "KOR14",
+      "name": "Seungho Paik",
+      "team": "Korea Republic",
+      "section": "Gruppe A – Korea Republic"
+    },
+    {
+      "code": "KOR15",
+      "name": "Jens Castrop",
+      "team": "Korea Republic",
+      "section": "Gruppe A – Korea Republic"
+    },
+    {
+      "code": "KOR16",
+      "name": "Donggyeong Lee",
+      "team": "Korea Republic",
+      "section": "Gruppe A – Korea Republic"
+    },
+    {
+      "code": "KOR17",
+      "name": "Guesung Cho",
+      "team": "Korea Republic",
+      "section": "Gruppe A – Korea Republic"
+    },
+    {
+      "code": "KOR18",
+      "name": "Heungmin Son",
+      "team": "Korea Republic",
+      "section": "Gruppe A – Korea Republic"
+    },
+    {
+      "code": "KOR19",
+      "name": "Heechan Hwang",
+      "team": "Korea Republic",
+      "section": "Gruppe A – Korea Republic"
+    },
+    {
+      "code": "KOR20",
+      "name": "Hyeongyu Oh",
+      "team": "Korea Republic",
+      "section": "Gruppe A – Korea Republic"
+    },
+    {
+      "code": "CZE1",
+      "name": "Logo",
+      "team": "Czechia",
+      "section": "Gruppe A – Czechia",
+      "is_special": true
+    },
+    {
+      "code": "CZE2",
+      "name": "Matěj Kovář",
+      "team": "Czechia",
+      "section": "Gruppe A – Czechia"
+    },
+    {
+      "code": "CZE3",
+      "name": "Jindřich Staněk",
+      "team": "Czechia",
+      "section": "Gruppe A – Czechia"
+    },
+    {
+      "code": "CZE4",
+      "name": "Ladislav Krejčí",
+      "team": "Czechia",
+      "section": "Gruppe A – Czechia"
+    },
+    {
+      "code": "CZE5",
+      "name": "Vladimír Coufal",
+      "team": "Czechia",
+      "section": "Gruppe A – Czechia"
+    },
+    {
+      "code": "CZE6",
+      "name": "Jaroslav Zelený",
+      "team": "Czechia",
+      "section": "Gruppe A – Czechia"
+    },
+    {
+      "code": "CZE7",
+      "name": "Tomáš Holeš",
+      "team": "Czechia",
+      "section": "Gruppe A – Czechia"
+    },
+    {
+      "code": "CZE8",
+      "name": "David Zima",
+      "team": "Czechia",
+      "section": "Gruppe A – Czechia"
+    },
+    {
+      "code": "CZE9",
+      "name": "Michal Sadílek",
+      "team": "Czechia",
+      "section": "Gruppe A – Czechia"
+    },
+    {
+      "code": "CZE10",
+      "name": "Lukáš Provod",
+      "team": "Czechia",
+      "section": "Gruppe A – Czechia"
+    },
+    {
+      "code": "CZE11",
+      "name": "Lukáš Červ",
+      "team": "Czechia",
+      "section": "Gruppe A – Czechia"
+    },
+    {
+      "code": "CZE12",
+      "team": "Czechia",
+      "section": "Gruppe A – Czechia"
+    },
+    {
+      "code": "CZE13",
+      "name": "Team",
+      "team": "Czechia",
+      "section": "Gruppe A – Czechia"
+    },
+    {
+      "code": "CZE14",
+      "team": "Czechia",
+      "section": "Gruppe A – Czechia"
+    },
+    {
+      "code": "CZE15",
+      "team": "Czechia",
+      "section": "Gruppe A – Czechia"
+    },
+    {
+      "code": "CZE16",
+      "team": "Czechia",
+      "section": "Gruppe A – Czechia"
+    },
+    {
+      "code": "CZE17",
+      "team": "Czechia",
+      "section": "Gruppe A – Czechia"
+    },
+    {
+      "code": "CZE18",
+      "team": "Czechia",
+      "section": "Gruppe A – Czechia"
+    },
+    {
+      "code": "CZE19",
+      "team": "Czechia",
+      "section": "Gruppe A – Czechia"
+    },
+    {
+      "code": "CZE20",
+      "team": "Czechia",
+      "section": "Gruppe A – Czechia"
+    },
+    {
+      "code": "CAN1",
+      "name": "Logo",
+      "team": "Canada",
+      "section": "Gruppe B – Canada",
+      "is_special": true
+    },
+    {
+      "code": "CAN2",
+      "team": "Canada",
+      "section": "Gruppe B – Canada"
+    },
+    {
+      "code": "CAN3",
+      "team": "Canada",
+      "section": "Gruppe B – Canada"
+    },
+    {
+      "code": "CAN4",
+      "team": "Canada",
+      "section": "Gruppe B – Canada"
+    },
+    {
+      "code": "CAN5",
+      "team": "Canada",
+      "section": "Gruppe B – Canada"
+    },
+    {
+      "code": "CAN6",
+      "team": "Canada",
+      "section": "Gruppe B – Canada"
+    },
+    {
+      "code": "CAN7",
+      "team": "Canada",
+      "section": "Gruppe B – Canada"
+    },
+    {
+      "code": "CAN8",
+      "team": "Canada",
+      "section": "Gruppe B – Canada"
+    },
+    {
+      "code": "CAN9",
+      "team": "Canada",
+      "section": "Gruppe B – Canada"
+    },
+    {
+      "code": "CAN10",
+      "team": "Canada",
+      "section": "Gruppe B – Canada"
+    },
+    {
+      "code": "CAN11",
+      "team": "Canada",
+      "section": "Gruppe B – Canada"
+    },
+    {
+      "code": "CAN12",
+      "team": "Canada",
+      "section": "Gruppe B – Canada"
+    },
+    {
+      "code": "CAN13",
+      "name": "Team",
+      "team": "Canada",
+      "section": "Gruppe B – Canada"
+    },
+    {
+      "code": "CAN14",
+      "team": "Canada",
+      "section": "Gruppe B – Canada"
+    },
+    {
+      "code": "CAN15",
+      "team": "Canada",
+      "section": "Gruppe B – Canada"
+    },
+    {
+      "code": "CAN16",
+      "team": "Canada",
+      "section": "Gruppe B – Canada"
+    },
+    {
+      "code": "CAN17",
+      "team": "Canada",
+      "section": "Gruppe B – Canada"
+    },
+    {
+      "code": "CAN18",
+      "team": "Canada",
+      "section": "Gruppe B – Canada"
+    },
+    {
+      "code": "CAN19",
+      "team": "Canada",
+      "section": "Gruppe B – Canada"
+    },
+    {
+      "code": "CAN20",
+      "team": "Canada",
+      "section": "Gruppe B – Canada"
+    },
+    {
+      "code": "BIH1",
+      "name": "Logo",
+      "team": "Bosnia and Herzegovina",
+      "section": "Gruppe B – Bosnia and Herzegovina",
+      "is_special": true
+    },
+    {
+      "code": "BIH2",
+      "team": "Bosnia and Herzegovina",
+      "section": "Gruppe B – Bosnia and Herzegovina"
+    },
+    {
+      "code": "BIH3",
+      "team": "Bosnia and Herzegovina",
+      "section": "Gruppe B – Bosnia and Herzegovina"
+    },
+    {
+      "code": "BIH4",
+      "team": "Bosnia and Herzegovina",
+      "section": "Gruppe B – Bosnia and Herzegovina"
+    },
+    {
+      "code": "BIH5",
+      "team": "Bosnia and Herzegovina",
+      "section": "Gruppe B – Bosnia and Herzegovina"
+    },
+    {
+      "code": "BIH6",
+      "team": "Bosnia and Herzegovina",
+      "section": "Gruppe B – Bosnia and Herzegovina"
+    },
+    {
+      "code": "BIH7",
+      "team": "Bosnia and Herzegovina",
+      "section": "Gruppe B – Bosnia and Herzegovina"
+    },
+    {
+      "code": "BIH8",
+      "team": "Bosnia and Herzegovina",
+      "section": "Gruppe B – Bosnia and Herzegovina"
+    },
+    {
+      "code": "BIH9",
+      "team": "Bosnia and Herzegovina",
+      "section": "Gruppe B – Bosnia and Herzegovina"
+    },
+    {
+      "code": "BIH10",
+      "team": "Bosnia and Herzegovina",
+      "section": "Gruppe B – Bosnia and Herzegovina"
+    },
+    {
+      "code": "BIH11",
+      "team": "Bosnia and Herzegovina",
+      "section": "Gruppe B – Bosnia and Herzegovina"
+    },
+    {
+      "code": "BIH12",
+      "team": "Bosnia and Herzegovina",
+      "section": "Gruppe B – Bosnia and Herzegovina"
+    },
+    {
+      "code": "BIH13",
+      "name": "Team",
+      "team": "Bosnia and Herzegovina",
+      "section": "Gruppe B – Bosnia and Herzegovina"
+    },
+    {
+      "code": "BIH14",
+      "team": "Bosnia and Herzegovina",
+      "section": "Gruppe B – Bosnia and Herzegovina"
+    },
+    {
+      "code": "BIH15",
+      "team": "Bosnia and Herzegovina",
+      "section": "Gruppe B – Bosnia and Herzegovina"
+    },
+    {
+      "code": "BIH16",
+      "team": "Bosnia and Herzegovina",
+      "section": "Gruppe B – Bosnia and Herzegovina"
+    },
+    {
+      "code": "BIH17",
+      "team": "Bosnia and Herzegovina",
+      "section": "Gruppe B – Bosnia and Herzegovina"
+    },
+    {
+      "code": "BIH18",
+      "team": "Bosnia and Herzegovina",
+      "section": "Gruppe B – Bosnia and Herzegovina"
+    },
+    {
+      "code": "BIH19",
+      "team": "Bosnia and Herzegovina",
+      "section": "Gruppe B – Bosnia and Herzegovina"
+    },
+    {
+      "code": "BIH20",
+      "team": "Bosnia and Herzegovina",
+      "section": "Gruppe B – Bosnia and Herzegovina"
+    },
+    {
+      "code": "QAT1",
+      "name": "Logo",
+      "team": "Qatar",
+      "section": "Gruppe B – Qatar",
+      "is_special": true
+    },
+    {
+      "code": "QAT2",
+      "team": "Qatar",
+      "section": "Gruppe B – Qatar"
+    },
+    {
+      "code": "QAT3",
+      "team": "Qatar",
+      "section": "Gruppe B – Qatar"
+    },
+    {
+      "code": "QAT4",
+      "team": "Qatar",
+      "section": "Gruppe B – Qatar"
+    },
+    {
+      "code": "QAT5",
+      "team": "Qatar",
+      "section": "Gruppe B – Qatar"
+    },
+    {
+      "code": "QAT6",
+      "team": "Qatar",
+      "section": "Gruppe B – Qatar"
+    },
+    {
+      "code": "QAT7",
+      "team": "Qatar",
+      "section": "Gruppe B – Qatar"
+    },
+    {
+      "code": "QAT8",
+      "team": "Qatar",
+      "section": "Gruppe B – Qatar"
+    },
+    {
+      "code": "QAT9",
+      "team": "Qatar",
+      "section": "Gruppe B – Qatar"
+    },
+    {
+      "code": "QAT10",
+      "team": "Qatar",
+      "section": "Gruppe B – Qatar"
+    },
+    {
+      "code": "QAT11",
+      "team": "Qatar",
+      "section": "Gruppe B – Qatar"
+    },
+    {
+      "code": "QAT12",
+      "team": "Qatar",
+      "section": "Gruppe B – Qatar"
+    },
+    {
+      "code": "QAT13",
+      "name": "Team",
+      "team": "Qatar",
+      "section": "Gruppe B – Qatar"
+    },
+    {
+      "code": "QAT14",
+      "team": "Qatar",
+      "section": "Gruppe B – Qatar"
+    },
+    {
+      "code": "QAT15",
+      "team": "Qatar",
+      "section": "Gruppe B – Qatar"
+    },
+    {
+      "code": "QAT16",
+      "team": "Qatar",
+      "section": "Gruppe B – Qatar"
+    },
+    {
+      "code": "QAT17",
+      "team": "Qatar",
+      "section": "Gruppe B – Qatar"
+    },
+    {
+      "code": "QAT18",
+      "team": "Qatar",
+      "section": "Gruppe B – Qatar"
+    },
+    {
+      "code": "QAT19",
+      "team": "Qatar",
+      "section": "Gruppe B – Qatar"
+    },
+    {
+      "code": "QAT20",
+      "team": "Qatar",
+      "section": "Gruppe B – Qatar"
+    },
+    {
+      "code": "SUI1",
+      "name": "Logo",
+      "team": "Switzerland",
+      "section": "Gruppe B – Switzerland",
+      "is_special": true
+    },
+    {
+      "code": "SUI2",
+      "team": "Switzerland",
+      "section": "Gruppe B – Switzerland"
+    },
+    {
+      "code": "SUI3",
+      "team": "Switzerland",
+      "section": "Gruppe B – Switzerland"
+    },
+    {
+      "code": "SUI4",
+      "team": "Switzerland",
+      "section": "Gruppe B – Switzerland"
+    },
+    {
+      "code": "SUI5",
+      "team": "Switzerland",
+      "section": "Gruppe B – Switzerland"
+    },
+    {
+      "code": "SUI6",
+      "team": "Switzerland",
+      "section": "Gruppe B – Switzerland"
+    },
+    {
+      "code": "SUI7",
+      "team": "Switzerland",
+      "section": "Gruppe B – Switzerland"
+    },
+    {
+      "code": "SUI8",
+      "team": "Switzerland",
+      "section": "Gruppe B – Switzerland"
+    },
+    {
+      "code": "SUI9",
+      "team": "Switzerland",
+      "section": "Gruppe B – Switzerland"
+    },
+    {
+      "code": "SUI10",
+      "team": "Switzerland",
+      "section": "Gruppe B – Switzerland"
+    },
+    {
+      "code": "SUI11",
+      "team": "Switzerland",
+      "section": "Gruppe B – Switzerland"
+    },
+    {
+      "code": "SUI12",
+      "team": "Switzerland",
+      "section": "Gruppe B – Switzerland"
+    },
+    {
+      "code": "SUI13",
+      "name": "Team",
+      "team": "Switzerland",
+      "section": "Gruppe B – Switzerland"
+    },
+    {
+      "code": "SUI14",
+      "team": "Switzerland",
+      "section": "Gruppe B – Switzerland"
+    },
+    {
+      "code": "SUI15",
+      "team": "Switzerland",
+      "section": "Gruppe B – Switzerland"
+    },
+    {
+      "code": "SUI16",
+      "team": "Switzerland",
+      "section": "Gruppe B – Switzerland"
+    },
+    {
+      "code": "SUI17",
+      "team": "Switzerland",
+      "section": "Gruppe B – Switzerland"
+    },
+    {
+      "code": "SUI18",
+      "team": "Switzerland",
+      "section": "Gruppe B – Switzerland"
+    },
+    {
+      "code": "SUI19",
+      "team": "Switzerland",
+      "section": "Gruppe B – Switzerland"
+    },
+    {
+      "code": "SUI20",
+      "team": "Switzerland",
+      "section": "Gruppe B – Switzerland"
+    },
+    {
+      "code": "BRA1",
+      "name": "Logo",
+      "team": "Brazil",
+      "section": "Gruppe C – Brazil",
+      "is_special": true
+    },
+    {
+      "code": "BRA2",
+      "team": "Brazil",
+      "section": "Gruppe C – Brazil"
+    },
+    {
+      "code": "BRA3",
+      "team": "Brazil",
+      "section": "Gruppe C – Brazil"
+    },
+    {
+      "code": "BRA4",
+      "team": "Brazil",
+      "section": "Gruppe C – Brazil"
+    },
+    {
+      "code": "BRA5",
+      "team": "Brazil",
+      "section": "Gruppe C – Brazil"
+    },
+    {
+      "code": "BRA6",
+      "team": "Brazil",
+      "section": "Gruppe C – Brazil"
+    },
+    {
+      "code": "BRA7",
+      "team": "Brazil",
+      "section": "Gruppe C – Brazil"
+    },
+    {
+      "code": "BRA8",
+      "team": "Brazil",
+      "section": "Gruppe C – Brazil"
+    },
+    {
+      "code": "BRA9",
+      "team": "Brazil",
+      "section": "Gruppe C – Brazil"
+    },
+    {
+      "code": "BRA10",
+      "team": "Brazil",
+      "section": "Gruppe C – Brazil"
+    },
+    {
+      "code": "BRA11",
+      "team": "Brazil",
+      "section": "Gruppe C – Brazil"
+    },
+    {
+      "code": "BRA12",
+      "team": "Brazil",
+      "section": "Gruppe C – Brazil"
+    },
+    {
+      "code": "BRA13",
+      "name": "Team",
+      "team": "Brazil",
+      "section": "Gruppe C – Brazil"
+    },
+    {
+      "code": "BRA14",
+      "team": "Brazil",
+      "section": "Gruppe C – Brazil"
+    },
+    {
+      "code": "BRA15",
+      "team": "Brazil",
+      "section": "Gruppe C – Brazil"
+    },
+    {
+      "code": "BRA16",
+      "team": "Brazil",
+      "section": "Gruppe C – Brazil"
+    },
+    {
+      "code": "BRA17",
+      "team": "Brazil",
+      "section": "Gruppe C – Brazil"
+    },
+    {
+      "code": "BRA18",
+      "team": "Brazil",
+      "section": "Gruppe C – Brazil"
+    },
+    {
+      "code": "BRA19",
+      "team": "Brazil",
+      "section": "Gruppe C – Brazil"
+    },
+    {
+      "code": "BRA20",
+      "team": "Brazil",
+      "section": "Gruppe C – Brazil"
+    },
+    {
+      "code": "MAR1",
+      "name": "Logo",
+      "team": "Morocco",
+      "section": "Gruppe C – Morocco",
+      "is_special": true
+    },
+    {
+      "code": "MAR2",
+      "team": "Morocco",
+      "section": "Gruppe C – Morocco"
+    },
+    {
+      "code": "MAR3",
+      "team": "Morocco",
+      "section": "Gruppe C – Morocco"
+    },
+    {
+      "code": "MAR4",
+      "team": "Morocco",
+      "section": "Gruppe C – Morocco"
+    },
+    {
+      "code": "MAR5",
+      "team": "Morocco",
+      "section": "Gruppe C – Morocco"
+    },
+    {
+      "code": "MAR6",
+      "team": "Morocco",
+      "section": "Gruppe C – Morocco"
+    },
+    {
+      "code": "MAR7",
+      "team": "Morocco",
+      "section": "Gruppe C – Morocco"
+    },
+    {
+      "code": "MAR8",
+      "team": "Morocco",
+      "section": "Gruppe C – Morocco"
+    },
+    {
+      "code": "MAR9",
+      "team": "Morocco",
+      "section": "Gruppe C – Morocco"
+    },
+    {
+      "code": "MAR10",
+      "team": "Morocco",
+      "section": "Gruppe C – Morocco"
+    },
+    {
+      "code": "MAR11",
+      "team": "Morocco",
+      "section": "Gruppe C – Morocco"
+    },
+    {
+      "code": "MAR12",
+      "team": "Morocco",
+      "section": "Gruppe C – Morocco"
+    },
+    {
+      "code": "MAR13",
+      "name": "Team",
+      "team": "Morocco",
+      "section": "Gruppe C – Morocco"
+    },
+    {
+      "code": "MAR14",
+      "team": "Morocco",
+      "section": "Gruppe C – Morocco"
+    },
+    {
+      "code": "MAR15",
+      "team": "Morocco",
+      "section": "Gruppe C – Morocco"
+    },
+    {
+      "code": "MAR16",
+      "team": "Morocco",
+      "section": "Gruppe C – Morocco"
+    },
+    {
+      "code": "MAR17",
+      "team": "Morocco",
+      "section": "Gruppe C – Morocco"
+    },
+    {
+      "code": "MAR18",
+      "team": "Morocco",
+      "section": "Gruppe C – Morocco"
+    },
+    {
+      "code": "MAR19",
+      "team": "Morocco",
+      "section": "Gruppe C – Morocco"
+    },
+    {
+      "code": "MAR20",
+      "team": "Morocco",
+      "section": "Gruppe C – Morocco"
+    },
+    {
+      "code": "HAI1",
+      "name": "Logo",
+      "team": "Haiti",
+      "section": "Gruppe C – Haiti",
+      "is_special": true
+    },
+    {
+      "code": "HAI2",
+      "team": "Haiti",
+      "section": "Gruppe C – Haiti"
+    },
+    {
+      "code": "HAI3",
+      "team": "Haiti",
+      "section": "Gruppe C – Haiti"
+    },
+    {
+      "code": "HAI4",
+      "team": "Haiti",
+      "section": "Gruppe C – Haiti"
+    },
+    {
+      "code": "HAI5",
+      "team": "Haiti",
+      "section": "Gruppe C – Haiti"
+    },
+    {
+      "code": "HAI6",
+      "team": "Haiti",
+      "section": "Gruppe C – Haiti"
+    },
+    {
+      "code": "HAI7",
+      "team": "Haiti",
+      "section": "Gruppe C – Haiti"
+    },
+    {
+      "code": "HAI8",
+      "team": "Haiti",
+      "section": "Gruppe C – Haiti"
+    },
+    {
+      "code": "HAI9",
+      "team": "Haiti",
+      "section": "Gruppe C – Haiti"
+    },
+    {
+      "code": "HAI10",
+      "team": "Haiti",
+      "section": "Gruppe C – Haiti"
+    },
+    {
+      "code": "HAI11",
+      "team": "Haiti",
+      "section": "Gruppe C – Haiti"
+    },
+    {
+      "code": "HAI12",
+      "team": "Haiti",
+      "section": "Gruppe C – Haiti"
+    },
+    {
+      "code": "HAI13",
+      "name": "Team",
+      "team": "Haiti",
+      "section": "Gruppe C – Haiti"
+    },
+    {
+      "code": "HAI14",
+      "team": "Haiti",
+      "section": "Gruppe C – Haiti"
+    },
+    {
+      "code": "HAI15",
+      "team": "Haiti",
+      "section": "Gruppe C – Haiti"
+    },
+    {
+      "code": "HAI16",
+      "team": "Haiti",
+      "section": "Gruppe C – Haiti"
+    },
+    {
+      "code": "HAI17",
+      "team": "Haiti",
+      "section": "Gruppe C – Haiti"
+    },
+    {
+      "code": "HAI18",
+      "team": "Haiti",
+      "section": "Gruppe C – Haiti"
+    },
+    {
+      "code": "HAI19",
+      "team": "Haiti",
+      "section": "Gruppe C – Haiti"
+    },
+    {
+      "code": "HAI20",
+      "team": "Haiti",
+      "section": "Gruppe C – Haiti"
+    },
+    {
+      "code": "SCO1",
+      "name": "Logo",
+      "team": "Scotland",
+      "section": "Gruppe C – Scotland",
+      "is_special": true
+    },
+    {
+      "code": "SCO2",
+      "team": "Scotland",
+      "section": "Gruppe C – Scotland"
+    },
+    {
+      "code": "SCO3",
+      "team": "Scotland",
+      "section": "Gruppe C – Scotland"
+    },
+    {
+      "code": "SCO4",
+      "team": "Scotland",
+      "section": "Gruppe C – Scotland"
+    },
+    {
+      "code": "SCO5",
+      "team": "Scotland",
+      "section": "Gruppe C – Scotland"
+    },
+    {
+      "code": "SCO6",
+      "team": "Scotland",
+      "section": "Gruppe C – Scotland"
+    },
+    {
+      "code": "SCO7",
+      "team": "Scotland",
+      "section": "Gruppe C – Scotland"
+    },
+    {
+      "code": "SCO8",
+      "team": "Scotland",
+      "section": "Gruppe C – Scotland"
+    },
+    {
+      "code": "SCO9",
+      "team": "Scotland",
+      "section": "Gruppe C – Scotland"
+    },
+    {
+      "code": "SCO10",
+      "team": "Scotland",
+      "section": "Gruppe C – Scotland"
+    },
+    {
+      "code": "SCO11",
+      "team": "Scotland",
+      "section": "Gruppe C – Scotland"
+    },
+    {
+      "code": "SCO12",
+      "team": "Scotland",
+      "section": "Gruppe C – Scotland"
+    },
+    {
+      "code": "SCO13",
+      "name": "Team",
+      "team": "Scotland",
+      "section": "Gruppe C – Scotland"
+    },
+    {
+      "code": "SCO14",
+      "team": "Scotland",
+      "section": "Gruppe C – Scotland"
+    },
+    {
+      "code": "SCO15",
+      "team": "Scotland",
+      "section": "Gruppe C – Scotland"
+    },
+    {
+      "code": "SCO16",
+      "team": "Scotland",
+      "section": "Gruppe C – Scotland"
+    },
+    {
+      "code": "SCO17",
+      "team": "Scotland",
+      "section": "Gruppe C – Scotland"
+    },
+    {
+      "code": "SCO18",
+      "team": "Scotland",
+      "section": "Gruppe C – Scotland"
+    },
+    {
+      "code": "SCO19",
+      "team": "Scotland",
+      "section": "Gruppe C – Scotland"
+    },
+    {
+      "code": "SCO20",
+      "team": "Scotland",
+      "section": "Gruppe C – Scotland"
+    },
+    {
+      "code": "USA1",
+      "name": "Logo",
+      "team": "USA",
+      "section": "Gruppe D – USA",
+      "is_special": true
+    },
+    {
+      "code": "USA2",
+      "team": "USA",
+      "section": "Gruppe D – USA"
+    },
+    {
+      "code": "USA3",
+      "team": "USA",
+      "section": "Gruppe D – USA"
+    },
+    {
+      "code": "USA4",
+      "team": "USA",
+      "section": "Gruppe D – USA"
+    },
+    {
+      "code": "USA5",
+      "team": "USA",
+      "section": "Gruppe D – USA"
+    },
+    {
+      "code": "USA6",
+      "team": "USA",
+      "section": "Gruppe D – USA"
+    },
+    {
+      "code": "USA7",
+      "team": "USA",
+      "section": "Gruppe D – USA"
+    },
+    {
+      "code": "USA8",
+      "team": "USA",
+      "section": "Gruppe D – USA"
+    },
+    {
+      "code": "USA9",
+      "team": "USA",
+      "section": "Gruppe D – USA"
+    },
+    {
+      "code": "USA10",
+      "team": "USA",
+      "section": "Gruppe D – USA"
+    },
+    {
+      "code": "USA11",
+      "team": "USA",
+      "section": "Gruppe D – USA"
+    },
+    {
+      "code": "USA12",
+      "team": "USA",
+      "section": "Gruppe D – USA"
+    },
+    {
+      "code": "USA13",
+      "name": "Team",
+      "team": "USA",
+      "section": "Gruppe D – USA"
+    },
+    {
+      "code": "USA14",
+      "team": "USA",
+      "section": "Gruppe D – USA"
+    },
+    {
+      "code": "USA15",
+      "team": "USA",
+      "section": "Gruppe D – USA"
+    },
+    {
+      "code": "USA16",
+      "team": "USA",
+      "section": "Gruppe D – USA"
+    },
+    {
+      "code": "USA17",
+      "team": "USA",
+      "section": "Gruppe D – USA"
+    },
+    {
+      "code": "USA18",
+      "team": "USA",
+      "section": "Gruppe D – USA"
+    },
+    {
+      "code": "USA19",
+      "team": "USA",
+      "section": "Gruppe D – USA"
+    },
+    {
+      "code": "USA20",
+      "team": "USA",
+      "section": "Gruppe D – USA"
+    },
+    {
+      "code": "PAR1",
+      "name": "Logo",
+      "team": "Paraguay",
+      "section": "Gruppe D – Paraguay",
+      "is_special": true
+    },
+    {
+      "code": "PAR2",
+      "team": "Paraguay",
+      "section": "Gruppe D – Paraguay"
+    },
+    {
+      "code": "PAR3",
+      "team": "Paraguay",
+      "section": "Gruppe D – Paraguay"
+    },
+    {
+      "code": "PAR4",
+      "team": "Paraguay",
+      "section": "Gruppe D – Paraguay"
+    },
+    {
+      "code": "PAR5",
+      "team": "Paraguay",
+      "section": "Gruppe D – Paraguay"
+    },
+    {
+      "code": "PAR6",
+      "team": "Paraguay",
+      "section": "Gruppe D – Paraguay"
+    },
+    {
+      "code": "PAR7",
+      "team": "Paraguay",
+      "section": "Gruppe D – Paraguay"
+    },
+    {
+      "code": "PAR8",
+      "team": "Paraguay",
+      "section": "Gruppe D – Paraguay"
+    },
+    {
+      "code": "PAR9",
+      "team": "Paraguay",
+      "section": "Gruppe D – Paraguay"
+    },
+    {
+      "code": "PAR10",
+      "team": "Paraguay",
+      "section": "Gruppe D – Paraguay"
+    },
+    {
+      "code": "PAR11",
+      "team": "Paraguay",
+      "section": "Gruppe D – Paraguay"
+    },
+    {
+      "code": "PAR12",
+      "team": "Paraguay",
+      "section": "Gruppe D – Paraguay"
+    },
+    {
+      "code": "PAR13",
+      "name": "Team",
+      "team": "Paraguay",
+      "section": "Gruppe D – Paraguay"
+    },
+    {
+      "code": "PAR14",
+      "team": "Paraguay",
+      "section": "Gruppe D – Paraguay"
+    },
+    {
+      "code": "PAR15",
+      "team": "Paraguay",
+      "section": "Gruppe D – Paraguay"
+    },
+    {
+      "code": "PAR16",
+      "team": "Paraguay",
+      "section": "Gruppe D – Paraguay"
+    },
+    {
+      "code": "PAR17",
+      "team": "Paraguay",
+      "section": "Gruppe D – Paraguay"
+    },
+    {
+      "code": "PAR18",
+      "team": "Paraguay",
+      "section": "Gruppe D – Paraguay"
+    },
+    {
+      "code": "PAR19",
+      "team": "Paraguay",
+      "section": "Gruppe D – Paraguay"
+    },
+    {
+      "code": "PAR20",
+      "team": "Paraguay",
+      "section": "Gruppe D – Paraguay"
+    },
+    {
+      "code": "AUS1",
+      "name": "Logo",
+      "team": "Australia",
+      "section": "Gruppe D – Australia",
+      "is_special": true
+    },
+    {
+      "code": "AUS2",
+      "team": "Australia",
+      "section": "Gruppe D – Australia"
+    },
+    {
+      "code": "AUS3",
+      "team": "Australia",
+      "section": "Gruppe D – Australia"
+    },
+    {
+      "code": "AUS4",
+      "team": "Australia",
+      "section": "Gruppe D – Australia"
+    },
+    {
+      "code": "AUS5",
+      "team": "Australia",
+      "section": "Gruppe D – Australia"
+    },
+    {
+      "code": "AUS6",
+      "team": "Australia",
+      "section": "Gruppe D – Australia"
+    },
+    {
+      "code": "AUS7",
+      "team": "Australia",
+      "section": "Gruppe D – Australia"
+    },
+    {
+      "code": "AUS8",
+      "team": "Australia",
+      "section": "Gruppe D – Australia"
+    },
+    {
+      "code": "AUS9",
+      "team": "Australia",
+      "section": "Gruppe D – Australia"
+    },
+    {
+      "code": "AUS10",
+      "team": "Australia",
+      "section": "Gruppe D – Australia"
+    },
+    {
+      "code": "AUS11",
+      "team": "Australia",
+      "section": "Gruppe D – Australia"
+    },
+    {
+      "code": "AUS12",
+      "team": "Australia",
+      "section": "Gruppe D – Australia"
+    },
+    {
+      "code": "AUS13",
+      "name": "Team",
+      "team": "Australia",
+      "section": "Gruppe D – Australia"
+    },
+    {
+      "code": "AUS14",
+      "team": "Australia",
+      "section": "Gruppe D – Australia"
+    },
+    {
+      "code": "AUS15",
+      "team": "Australia",
+      "section": "Gruppe D – Australia"
+    },
+    {
+      "code": "AUS16",
+      "team": "Australia",
+      "section": "Gruppe D – Australia"
+    },
+    {
+      "code": "AUS17",
+      "team": "Australia",
+      "section": "Gruppe D – Australia"
+    },
+    {
+      "code": "AUS18",
+      "team": "Australia",
+      "section": "Gruppe D – Australia"
+    },
+    {
+      "code": "AUS19",
+      "team": "Australia",
+      "section": "Gruppe D – Australia"
+    },
+    {
+      "code": "AUS20",
+      "team": "Australia",
+      "section": "Gruppe D – Australia"
+    },
+    {
+      "code": "TUR1",
+      "name": "Logo",
+      "team": "Türkiye",
+      "section": "Gruppe D – Türkiye",
+      "is_special": true
+    },
+    {
+      "code": "TUR2",
+      "team": "Türkiye",
+      "section": "Gruppe D – Türkiye"
+    },
+    {
+      "code": "TUR3",
+      "team": "Türkiye",
+      "section": "Gruppe D – Türkiye"
+    },
+    {
+      "code": "TUR4",
+      "team": "Türkiye",
+      "section": "Gruppe D – Türkiye"
+    },
+    {
+      "code": "TUR5",
+      "team": "Türkiye",
+      "section": "Gruppe D – Türkiye"
+    },
+    {
+      "code": "TUR6",
+      "team": "Türkiye",
+      "section": "Gruppe D – Türkiye"
+    },
+    {
+      "code": "TUR7",
+      "team": "Türkiye",
+      "section": "Gruppe D – Türkiye"
+    },
+    {
+      "code": "TUR8",
+      "team": "Türkiye",
+      "section": "Gruppe D – Türkiye"
+    },
+    {
+      "code": "TUR9",
+      "team": "Türkiye",
+      "section": "Gruppe D – Türkiye"
+    },
+    {
+      "code": "TUR10",
+      "team": "Türkiye",
+      "section": "Gruppe D – Türkiye"
+    },
+    {
+      "code": "TUR11",
+      "team": "Türkiye",
+      "section": "Gruppe D – Türkiye"
+    },
+    {
+      "code": "TUR12",
+      "team": "Türkiye",
+      "section": "Gruppe D – Türkiye"
+    },
+    {
+      "code": "TUR13",
+      "name": "Team",
+      "team": "Türkiye",
+      "section": "Gruppe D – Türkiye"
+    },
+    {
+      "code": "TUR14",
+      "team": "Türkiye",
+      "section": "Gruppe D – Türkiye"
+    },
+    {
+      "code": "TUR15",
+      "team": "Türkiye",
+      "section": "Gruppe D – Türkiye"
+    },
+    {
+      "code": "TUR16",
+      "team": "Türkiye",
+      "section": "Gruppe D – Türkiye"
+    },
+    {
+      "code": "TUR17",
+      "team": "Türkiye",
+      "section": "Gruppe D – Türkiye"
+    },
+    {
+      "code": "TUR18",
+      "team": "Türkiye",
+      "section": "Gruppe D – Türkiye"
+    },
+    {
+      "code": "TUR19",
+      "team": "Türkiye",
+      "section": "Gruppe D – Türkiye"
+    },
+    {
+      "code": "TUR20",
+      "team": "Türkiye",
+      "section": "Gruppe D – Türkiye"
+    },
+    {
+      "code": "GER1",
+      "name": "Logo",
+      "team": "Germany",
+      "section": "Gruppe E – Germany",
+      "is_special": true
+    },
+    {
+      "code": "GER2",
+      "team": "Germany",
+      "section": "Gruppe E – Germany"
+    },
+    {
+      "code": "GER3",
+      "team": "Germany",
+      "section": "Gruppe E – Germany"
+    },
+    {
+      "code": "GER4",
+      "team": "Germany",
+      "section": "Gruppe E – Germany"
+    },
+    {
+      "code": "GER5",
+      "team": "Germany",
+      "section": "Gruppe E – Germany"
+    },
+    {
+      "code": "GER6",
+      "team": "Germany",
+      "section": "Gruppe E – Germany"
+    },
+    {
+      "code": "GER7",
+      "team": "Germany",
+      "section": "Gruppe E – Germany"
+    },
+    {
+      "code": "GER8",
+      "team": "Germany",
+      "section": "Gruppe E – Germany"
+    },
+    {
+      "code": "GER9",
+      "team": "Germany",
+      "section": "Gruppe E – Germany"
+    },
+    {
+      "code": "GER10",
+      "team": "Germany",
+      "section": "Gruppe E – Germany"
+    },
+    {
+      "code": "GER11",
+      "team": "Germany",
+      "section": "Gruppe E – Germany"
+    },
+    {
+      "code": "GER12",
+      "team": "Germany",
+      "section": "Gruppe E – Germany"
+    },
+    {
+      "code": "GER13",
+      "name": "Team",
+      "team": "Germany",
+      "section": "Gruppe E – Germany"
+    },
+    {
+      "code": "GER14",
+      "team": "Germany",
+      "section": "Gruppe E – Germany"
+    },
+    {
+      "code": "GER15",
+      "team": "Germany",
+      "section": "Gruppe E – Germany"
+    },
+    {
+      "code": "GER16",
+      "team": "Germany",
+      "section": "Gruppe E – Germany"
+    },
+    {
+      "code": "GER17",
+      "team": "Germany",
+      "section": "Gruppe E – Germany"
+    },
+    {
+      "code": "GER18",
+      "team": "Germany",
+      "section": "Gruppe E – Germany"
+    },
+    {
+      "code": "GER19",
+      "team": "Germany",
+      "section": "Gruppe E – Germany"
+    },
+    {
+      "code": "GER20",
+      "team": "Germany",
+      "section": "Gruppe E – Germany"
+    },
+    {
+      "code": "CUW1",
+      "name": "Logo",
+      "team": "Curaçao",
+      "section": "Gruppe E – Curaçao",
+      "is_special": true
+    },
+    {
+      "code": "CUW2",
+      "team": "Curaçao",
+      "section": "Gruppe E – Curaçao"
+    },
+    {
+      "code": "CUW3",
+      "team": "Curaçao",
+      "section": "Gruppe E – Curaçao"
+    },
+    {
+      "code": "CUW4",
+      "team": "Curaçao",
+      "section": "Gruppe E – Curaçao"
+    },
+    {
+      "code": "CUW5",
+      "team": "Curaçao",
+      "section": "Gruppe E – Curaçao"
+    },
+    {
+      "code": "CUW6",
+      "team": "Curaçao",
+      "section": "Gruppe E – Curaçao"
+    },
+    {
+      "code": "CUW7",
+      "team": "Curaçao",
+      "section": "Gruppe E – Curaçao"
+    },
+    {
+      "code": "CUW8",
+      "team": "Curaçao",
+      "section": "Gruppe E – Curaçao"
+    },
+    {
+      "code": "CUW9",
+      "team": "Curaçao",
+      "section": "Gruppe E – Curaçao"
+    },
+    {
+      "code": "CUW10",
+      "team": "Curaçao",
+      "section": "Gruppe E – Curaçao"
+    },
+    {
+      "code": "CUW11",
+      "team": "Curaçao",
+      "section": "Gruppe E – Curaçao"
+    },
+    {
+      "code": "CUW12",
+      "team": "Curaçao",
+      "section": "Gruppe E – Curaçao"
+    },
+    {
+      "code": "CUW13",
+      "name": "Team",
+      "team": "Curaçao",
+      "section": "Gruppe E – Curaçao"
+    },
+    {
+      "code": "CUW14",
+      "team": "Curaçao",
+      "section": "Gruppe E – Curaçao"
+    },
+    {
+      "code": "CUW15",
+      "team": "Curaçao",
+      "section": "Gruppe E – Curaçao"
+    },
+    {
+      "code": "CUW16",
+      "team": "Curaçao",
+      "section": "Gruppe E – Curaçao"
+    },
+    {
+      "code": "CUW17",
+      "team": "Curaçao",
+      "section": "Gruppe E – Curaçao"
+    },
+    {
+      "code": "CUW18",
+      "team": "Curaçao",
+      "section": "Gruppe E – Curaçao"
+    },
+    {
+      "code": "CUW19",
+      "team": "Curaçao",
+      "section": "Gruppe E – Curaçao"
+    },
+    {
+      "code": "CUW20",
+      "team": "Curaçao",
+      "section": "Gruppe E – Curaçao"
+    },
+    {
+      "code": "CIV1",
+      "name": "Logo",
+      "team": "Côte d'Ivoire",
+      "section": "Gruppe E – Côte d'Ivoire",
+      "is_special": true
+    },
+    {
+      "code": "CIV2",
+      "team": "Côte d'Ivoire",
+      "section": "Gruppe E – Côte d'Ivoire"
+    },
+    {
+      "code": "CIV3",
+      "team": "Côte d'Ivoire",
+      "section": "Gruppe E – Côte d'Ivoire"
+    },
+    {
+      "code": "CIV4",
+      "team": "Côte d'Ivoire",
+      "section": "Gruppe E – Côte d'Ivoire"
+    },
+    {
+      "code": "CIV5",
+      "team": "Côte d'Ivoire",
+      "section": "Gruppe E – Côte d'Ivoire"
+    },
+    {
+      "code": "CIV6",
+      "team": "Côte d'Ivoire",
+      "section": "Gruppe E – Côte d'Ivoire"
+    },
+    {
+      "code": "CIV7",
+      "team": "Côte d'Ivoire",
+      "section": "Gruppe E – Côte d'Ivoire"
+    },
+    {
+      "code": "CIV8",
+      "team": "Côte d'Ivoire",
+      "section": "Gruppe E – Côte d'Ivoire"
+    },
+    {
+      "code": "CIV9",
+      "team": "Côte d'Ivoire",
+      "section": "Gruppe E – Côte d'Ivoire"
+    },
+    {
+      "code": "CIV10",
+      "team": "Côte d'Ivoire",
+      "section": "Gruppe E – Côte d'Ivoire"
+    },
+    {
+      "code": "CIV11",
+      "team": "Côte d'Ivoire",
+      "section": "Gruppe E – Côte d'Ivoire"
+    },
+    {
+      "code": "CIV12",
+      "team": "Côte d'Ivoire",
+      "section": "Gruppe E – Côte d'Ivoire"
+    },
+    {
+      "code": "CIV13",
+      "name": "Team",
+      "team": "Côte d'Ivoire",
+      "section": "Gruppe E – Côte d'Ivoire"
+    },
+    {
+      "code": "CIV14",
+      "team": "Côte d'Ivoire",
+      "section": "Gruppe E – Côte d'Ivoire"
+    },
+    {
+      "code": "CIV15",
+      "team": "Côte d'Ivoire",
+      "section": "Gruppe E – Côte d'Ivoire"
+    },
+    {
+      "code": "CIV16",
+      "team": "Côte d'Ivoire",
+      "section": "Gruppe E – Côte d'Ivoire"
+    },
+    {
+      "code": "CIV17",
+      "team": "Côte d'Ivoire",
+      "section": "Gruppe E – Côte d'Ivoire"
+    },
+    {
+      "code": "CIV18",
+      "team": "Côte d'Ivoire",
+      "section": "Gruppe E – Côte d'Ivoire"
+    },
+    {
+      "code": "CIV19",
+      "team": "Côte d'Ivoire",
+      "section": "Gruppe E – Côte d'Ivoire"
+    },
+    {
+      "code": "CIV20",
+      "team": "Côte d'Ivoire",
+      "section": "Gruppe E – Côte d'Ivoire"
+    },
+    {
+      "code": "ECU1",
+      "name": "Logo",
+      "team": "Ecuador",
+      "section": "Gruppe E – Ecuador",
+      "is_special": true
+    },
+    {
+      "code": "ECU2",
+      "team": "Ecuador",
+      "section": "Gruppe E – Ecuador"
+    },
+    {
+      "code": "ECU3",
+      "team": "Ecuador",
+      "section": "Gruppe E – Ecuador"
+    },
+    {
+      "code": "ECU4",
+      "team": "Ecuador",
+      "section": "Gruppe E – Ecuador"
+    },
+    {
+      "code": "ECU5",
+      "team": "Ecuador",
+      "section": "Gruppe E – Ecuador"
+    },
+    {
+      "code": "ECU6",
+      "team": "Ecuador",
+      "section": "Gruppe E – Ecuador"
+    },
+    {
+      "code": "ECU7",
+      "team": "Ecuador",
+      "section": "Gruppe E – Ecuador"
+    },
+    {
+      "code": "ECU8",
+      "team": "Ecuador",
+      "section": "Gruppe E – Ecuador"
+    },
+    {
+      "code": "ECU9",
+      "team": "Ecuador",
+      "section": "Gruppe E – Ecuador"
+    },
+    {
+      "code": "ECU10",
+      "team": "Ecuador",
+      "section": "Gruppe E – Ecuador"
+    },
+    {
+      "code": "ECU11",
+      "team": "Ecuador",
+      "section": "Gruppe E – Ecuador"
+    },
+    {
+      "code": "ECU12",
+      "team": "Ecuador",
+      "section": "Gruppe E – Ecuador"
+    },
+    {
+      "code": "ECU13",
+      "name": "Team",
+      "team": "Ecuador",
+      "section": "Gruppe E – Ecuador"
+    },
+    {
+      "code": "ECU14",
+      "team": "Ecuador",
+      "section": "Gruppe E – Ecuador"
+    },
+    {
+      "code": "ECU15",
+      "team": "Ecuador",
+      "section": "Gruppe E – Ecuador"
+    },
+    {
+      "code": "ECU16",
+      "team": "Ecuador",
+      "section": "Gruppe E – Ecuador"
+    },
+    {
+      "code": "ECU17",
+      "team": "Ecuador",
+      "section": "Gruppe E – Ecuador"
+    },
+    {
+      "code": "ECU18",
+      "team": "Ecuador",
+      "section": "Gruppe E – Ecuador"
+    },
+    {
+      "code": "ECU19",
+      "team": "Ecuador",
+      "section": "Gruppe E – Ecuador"
+    },
+    {
+      "code": "ECU20",
+      "team": "Ecuador",
+      "section": "Gruppe E – Ecuador"
+    },
+    {
+      "code": "NED1",
+      "name": "Logo",
+      "team": "Netherlands",
+      "section": "Gruppe F – Netherlands",
+      "is_special": true
+    },
+    {
+      "code": "NED2",
+      "team": "Netherlands",
+      "section": "Gruppe F – Netherlands"
+    },
+    {
+      "code": "NED3",
+      "team": "Netherlands",
+      "section": "Gruppe F – Netherlands"
+    },
+    {
+      "code": "NED4",
+      "team": "Netherlands",
+      "section": "Gruppe F – Netherlands"
+    },
+    {
+      "code": "NED5",
+      "team": "Netherlands",
+      "section": "Gruppe F – Netherlands"
+    },
+    {
+      "code": "NED6",
+      "team": "Netherlands",
+      "section": "Gruppe F – Netherlands"
+    },
+    {
+      "code": "NED7",
+      "team": "Netherlands",
+      "section": "Gruppe F – Netherlands"
+    },
+    {
+      "code": "NED8",
+      "team": "Netherlands",
+      "section": "Gruppe F – Netherlands"
+    },
+    {
+      "code": "NED9",
+      "team": "Netherlands",
+      "section": "Gruppe F – Netherlands"
+    },
+    {
+      "code": "NED10",
+      "team": "Netherlands",
+      "section": "Gruppe F – Netherlands"
+    },
+    {
+      "code": "NED11",
+      "team": "Netherlands",
+      "section": "Gruppe F – Netherlands"
+    },
+    {
+      "code": "NED12",
+      "team": "Netherlands",
+      "section": "Gruppe F – Netherlands"
+    },
+    {
+      "code": "NED13",
+      "name": "Team",
+      "team": "Netherlands",
+      "section": "Gruppe F – Netherlands"
+    },
+    {
+      "code": "NED14",
+      "team": "Netherlands",
+      "section": "Gruppe F – Netherlands"
+    },
+    {
+      "code": "NED15",
+      "team": "Netherlands",
+      "section": "Gruppe F – Netherlands"
+    },
+    {
+      "code": "NED16",
+      "team": "Netherlands",
+      "section": "Gruppe F – Netherlands"
+    },
+    {
+      "code": "NED17",
+      "team": "Netherlands",
+      "section": "Gruppe F – Netherlands"
+    },
+    {
+      "code": "NED18",
+      "team": "Netherlands",
+      "section": "Gruppe F – Netherlands"
+    },
+    {
+      "code": "NED19",
+      "team": "Netherlands",
+      "section": "Gruppe F – Netherlands"
+    },
+    {
+      "code": "NED20",
+      "team": "Netherlands",
+      "section": "Gruppe F – Netherlands"
+    },
+    {
+      "code": "JPN1",
+      "name": "Logo",
+      "team": "Japan",
+      "section": "Gruppe F – Japan",
+      "is_special": true
+    },
+    {
+      "code": "JPN2",
+      "team": "Japan",
+      "section": "Gruppe F – Japan"
+    },
+    {
+      "code": "JPN3",
+      "team": "Japan",
+      "section": "Gruppe F – Japan"
+    },
+    {
+      "code": "JPN4",
+      "team": "Japan",
+      "section": "Gruppe F – Japan"
+    },
+    {
+      "code": "JPN5",
+      "team": "Japan",
+      "section": "Gruppe F – Japan"
+    },
+    {
+      "code": "JPN6",
+      "team": "Japan",
+      "section": "Gruppe F – Japan"
+    },
+    {
+      "code": "JPN7",
+      "team": "Japan",
+      "section": "Gruppe F – Japan"
+    },
+    {
+      "code": "JPN8",
+      "team": "Japan",
+      "section": "Gruppe F – Japan"
+    },
+    {
+      "code": "JPN9",
+      "team": "Japan",
+      "section": "Gruppe F – Japan"
+    },
+    {
+      "code": "JPN10",
+      "team": "Japan",
+      "section": "Gruppe F – Japan"
+    },
+    {
+      "code": "JPN11",
+      "team": "Japan",
+      "section": "Gruppe F – Japan"
+    },
+    {
+      "code": "JPN12",
+      "team": "Japan",
+      "section": "Gruppe F – Japan"
+    },
+    {
+      "code": "JPN13",
+      "name": "Team",
+      "team": "Japan",
+      "section": "Gruppe F – Japan"
+    },
+    {
+      "code": "JPN14",
+      "team": "Japan",
+      "section": "Gruppe F – Japan"
+    },
+    {
+      "code": "JPN15",
+      "team": "Japan",
+      "section": "Gruppe F – Japan"
+    },
+    {
+      "code": "JPN16",
+      "team": "Japan",
+      "section": "Gruppe F – Japan"
+    },
+    {
+      "code": "JPN17",
+      "team": "Japan",
+      "section": "Gruppe F – Japan"
+    },
+    {
+      "code": "JPN18",
+      "team": "Japan",
+      "section": "Gruppe F – Japan"
+    },
+    {
+      "code": "JPN19",
+      "team": "Japan",
+      "section": "Gruppe F – Japan"
+    },
+    {
+      "code": "JPN20",
+      "team": "Japan",
+      "section": "Gruppe F – Japan"
+    },
+    {
+      "code": "SWE1",
+      "name": "Logo",
+      "team": "Sweden",
+      "section": "Gruppe F – Sweden",
+      "is_special": true
+    },
+    {
+      "code": "SWE2",
+      "team": "Sweden",
+      "section": "Gruppe F – Sweden"
+    },
+    {
+      "code": "SWE3",
+      "team": "Sweden",
+      "section": "Gruppe F – Sweden"
+    },
+    {
+      "code": "SWE4",
+      "team": "Sweden",
+      "section": "Gruppe F – Sweden"
+    },
+    {
+      "code": "SWE5",
+      "team": "Sweden",
+      "section": "Gruppe F – Sweden"
+    },
+    {
+      "code": "SWE6",
+      "team": "Sweden",
+      "section": "Gruppe F – Sweden"
+    },
+    {
+      "code": "SWE7",
+      "team": "Sweden",
+      "section": "Gruppe F – Sweden"
+    },
+    {
+      "code": "SWE8",
+      "team": "Sweden",
+      "section": "Gruppe F – Sweden"
+    },
+    {
+      "code": "SWE9",
+      "team": "Sweden",
+      "section": "Gruppe F – Sweden"
+    },
+    {
+      "code": "SWE10",
+      "team": "Sweden",
+      "section": "Gruppe F – Sweden"
+    },
+    {
+      "code": "SWE11",
+      "team": "Sweden",
+      "section": "Gruppe F – Sweden"
+    },
+    {
+      "code": "SWE12",
+      "team": "Sweden",
+      "section": "Gruppe F – Sweden"
+    },
+    {
+      "code": "SWE13",
+      "name": "Team",
+      "team": "Sweden",
+      "section": "Gruppe F – Sweden"
+    },
+    {
+      "code": "SWE14",
+      "team": "Sweden",
+      "section": "Gruppe F – Sweden"
+    },
+    {
+      "code": "SWE15",
+      "team": "Sweden",
+      "section": "Gruppe F – Sweden"
+    },
+    {
+      "code": "SWE16",
+      "team": "Sweden",
+      "section": "Gruppe F – Sweden"
+    },
+    {
+      "code": "SWE17",
+      "team": "Sweden",
+      "section": "Gruppe F – Sweden"
+    },
+    {
+      "code": "SWE18",
+      "team": "Sweden",
+      "section": "Gruppe F – Sweden"
+    },
+    {
+      "code": "SWE19",
+      "team": "Sweden",
+      "section": "Gruppe F – Sweden"
+    },
+    {
+      "code": "SWE20",
+      "team": "Sweden",
+      "section": "Gruppe F – Sweden"
+    },
+    {
+      "code": "TUN1",
+      "name": "Logo",
+      "team": "Tunisia",
+      "section": "Gruppe F – Tunisia",
+      "is_special": true
+    },
+    {
+      "code": "TUN2",
+      "team": "Tunisia",
+      "section": "Gruppe F – Tunisia"
+    },
+    {
+      "code": "TUN3",
+      "team": "Tunisia",
+      "section": "Gruppe F – Tunisia"
+    },
+    {
+      "code": "TUN4",
+      "team": "Tunisia",
+      "section": "Gruppe F – Tunisia"
+    },
+    {
+      "code": "TUN5",
+      "team": "Tunisia",
+      "section": "Gruppe F – Tunisia"
+    },
+    {
+      "code": "TUN6",
+      "team": "Tunisia",
+      "section": "Gruppe F – Tunisia"
+    },
+    {
+      "code": "TUN7",
+      "team": "Tunisia",
+      "section": "Gruppe F – Tunisia"
+    },
+    {
+      "code": "TUN8",
+      "team": "Tunisia",
+      "section": "Gruppe F – Tunisia"
+    },
+    {
+      "code": "TUN9",
+      "team": "Tunisia",
+      "section": "Gruppe F – Tunisia"
+    },
+    {
+      "code": "TUN10",
+      "team": "Tunisia",
+      "section": "Gruppe F – Tunisia"
+    },
+    {
+      "code": "TUN11",
+      "team": "Tunisia",
+      "section": "Gruppe F – Tunisia"
+    },
+    {
+      "code": "TUN12",
+      "team": "Tunisia",
+      "section": "Gruppe F – Tunisia"
+    },
+    {
+      "code": "TUN13",
+      "name": "Team",
+      "team": "Tunisia",
+      "section": "Gruppe F – Tunisia"
+    },
+    {
+      "code": "TUN14",
+      "team": "Tunisia",
+      "section": "Gruppe F – Tunisia"
+    },
+    {
+      "code": "TUN15",
+      "team": "Tunisia",
+      "section": "Gruppe F – Tunisia"
+    },
+    {
+      "code": "TUN16",
+      "team": "Tunisia",
+      "section": "Gruppe F – Tunisia"
+    },
+    {
+      "code": "TUN17",
+      "team": "Tunisia",
+      "section": "Gruppe F – Tunisia"
+    },
+    {
+      "code": "TUN18",
+      "team": "Tunisia",
+      "section": "Gruppe F – Tunisia"
+    },
+    {
+      "code": "TUN19",
+      "team": "Tunisia",
+      "section": "Gruppe F – Tunisia"
+    },
+    {
+      "code": "TUN20",
+      "team": "Tunisia",
+      "section": "Gruppe F – Tunisia"
+    },
+    {
+      "code": "BEL1",
+      "name": "Logo",
+      "team": "Belgium",
+      "section": "Gruppe G – Belgium",
+      "is_special": true
+    },
+    {
+      "code": "BEL2",
+      "team": "Belgium",
+      "section": "Gruppe G – Belgium"
+    },
+    {
+      "code": "BEL3",
+      "team": "Belgium",
+      "section": "Gruppe G – Belgium"
+    },
+    {
+      "code": "BEL4",
+      "team": "Belgium",
+      "section": "Gruppe G – Belgium"
+    },
+    {
+      "code": "BEL5",
+      "team": "Belgium",
+      "section": "Gruppe G – Belgium"
+    },
+    {
+      "code": "BEL6",
+      "team": "Belgium",
+      "section": "Gruppe G – Belgium"
+    },
+    {
+      "code": "BEL7",
+      "team": "Belgium",
+      "section": "Gruppe G – Belgium"
+    },
+    {
+      "code": "BEL8",
+      "team": "Belgium",
+      "section": "Gruppe G – Belgium"
+    },
+    {
+      "code": "BEL9",
+      "team": "Belgium",
+      "section": "Gruppe G – Belgium"
+    },
+    {
+      "code": "BEL10",
+      "team": "Belgium",
+      "section": "Gruppe G – Belgium"
+    },
+    {
+      "code": "BEL11",
+      "team": "Belgium",
+      "section": "Gruppe G – Belgium"
+    },
+    {
+      "code": "BEL12",
+      "team": "Belgium",
+      "section": "Gruppe G – Belgium"
+    },
+    {
+      "code": "BEL13",
+      "name": "Team",
+      "team": "Belgium",
+      "section": "Gruppe G – Belgium"
+    },
+    {
+      "code": "BEL14",
+      "team": "Belgium",
+      "section": "Gruppe G – Belgium"
+    },
+    {
+      "code": "BEL15",
+      "team": "Belgium",
+      "section": "Gruppe G – Belgium"
+    },
+    {
+      "code": "BEL16",
+      "team": "Belgium",
+      "section": "Gruppe G – Belgium"
+    },
+    {
+      "code": "BEL17",
+      "team": "Belgium",
+      "section": "Gruppe G – Belgium"
+    },
+    {
+      "code": "BEL18",
+      "team": "Belgium",
+      "section": "Gruppe G – Belgium"
+    },
+    {
+      "code": "BEL19",
+      "team": "Belgium",
+      "section": "Gruppe G – Belgium"
+    },
+    {
+      "code": "BEL20",
+      "team": "Belgium",
+      "section": "Gruppe G – Belgium"
+    },
+    {
+      "code": "EGY1",
+      "name": "Logo",
+      "team": "Egypt",
+      "section": "Gruppe G – Egypt",
+      "is_special": true
+    },
+    {
+      "code": "EGY2",
+      "team": "Egypt",
+      "section": "Gruppe G – Egypt"
+    },
+    {
+      "code": "EGY3",
+      "team": "Egypt",
+      "section": "Gruppe G – Egypt"
+    },
+    {
+      "code": "EGY4",
+      "team": "Egypt",
+      "section": "Gruppe G – Egypt"
+    },
+    {
+      "code": "EGY5",
+      "team": "Egypt",
+      "section": "Gruppe G – Egypt"
+    },
+    {
+      "code": "EGY6",
+      "team": "Egypt",
+      "section": "Gruppe G – Egypt"
+    },
+    {
+      "code": "EGY7",
+      "team": "Egypt",
+      "section": "Gruppe G – Egypt"
+    },
+    {
+      "code": "EGY8",
+      "team": "Egypt",
+      "section": "Gruppe G – Egypt"
+    },
+    {
+      "code": "EGY9",
+      "team": "Egypt",
+      "section": "Gruppe G – Egypt"
+    },
+    {
+      "code": "EGY10",
+      "team": "Egypt",
+      "section": "Gruppe G – Egypt"
+    },
+    {
+      "code": "EGY11",
+      "team": "Egypt",
+      "section": "Gruppe G – Egypt"
+    },
+    {
+      "code": "EGY12",
+      "team": "Egypt",
+      "section": "Gruppe G – Egypt"
+    },
+    {
+      "code": "EGY13",
+      "name": "Team",
+      "team": "Egypt",
+      "section": "Gruppe G – Egypt"
+    },
+    {
+      "code": "EGY14",
+      "team": "Egypt",
+      "section": "Gruppe G – Egypt"
+    },
+    {
+      "code": "EGY15",
+      "team": "Egypt",
+      "section": "Gruppe G – Egypt"
+    },
+    {
+      "code": "EGY16",
+      "team": "Egypt",
+      "section": "Gruppe G – Egypt"
+    },
+    {
+      "code": "EGY17",
+      "team": "Egypt",
+      "section": "Gruppe G – Egypt"
+    },
+    {
+      "code": "EGY18",
+      "team": "Egypt",
+      "section": "Gruppe G – Egypt"
+    },
+    {
+      "code": "EGY19",
+      "team": "Egypt",
+      "section": "Gruppe G – Egypt"
+    },
+    {
+      "code": "EGY20",
+      "team": "Egypt",
+      "section": "Gruppe G – Egypt"
+    },
+    {
+      "code": "IRN1",
+      "name": "Logo",
+      "team": "IR Iran",
+      "section": "Gruppe G – IR Iran",
+      "is_special": true
+    },
+    {
+      "code": "IRN2",
+      "team": "IR Iran",
+      "section": "Gruppe G – IR Iran"
+    },
+    {
+      "code": "IRN3",
+      "team": "IR Iran",
+      "section": "Gruppe G – IR Iran"
+    },
+    {
+      "code": "IRN4",
+      "team": "IR Iran",
+      "section": "Gruppe G – IR Iran"
+    },
+    {
+      "code": "IRN5",
+      "team": "IR Iran",
+      "section": "Gruppe G – IR Iran"
+    },
+    {
+      "code": "IRN6",
+      "team": "IR Iran",
+      "section": "Gruppe G – IR Iran"
+    },
+    {
+      "code": "IRN7",
+      "team": "IR Iran",
+      "section": "Gruppe G – IR Iran"
+    },
+    {
+      "code": "IRN8",
+      "team": "IR Iran",
+      "section": "Gruppe G – IR Iran"
+    },
+    {
+      "code": "IRN9",
+      "team": "IR Iran",
+      "section": "Gruppe G – IR Iran"
+    },
+    {
+      "code": "IRN10",
+      "team": "IR Iran",
+      "section": "Gruppe G – IR Iran"
+    },
+    {
+      "code": "IRN11",
+      "team": "IR Iran",
+      "section": "Gruppe G – IR Iran"
+    },
+    {
+      "code": "IRN12",
+      "team": "IR Iran",
+      "section": "Gruppe G – IR Iran"
+    },
+    {
+      "code": "IRN13",
+      "name": "Team",
+      "team": "IR Iran",
+      "section": "Gruppe G – IR Iran"
+    },
+    {
+      "code": "IRN14",
+      "team": "IR Iran",
+      "section": "Gruppe G – IR Iran"
+    },
+    {
+      "code": "IRN15",
+      "team": "IR Iran",
+      "section": "Gruppe G – IR Iran"
+    },
+    {
+      "code": "IRN16",
+      "team": "IR Iran",
+      "section": "Gruppe G – IR Iran"
+    },
+    {
+      "code": "IRN17",
+      "team": "IR Iran",
+      "section": "Gruppe G – IR Iran"
+    },
+    {
+      "code": "IRN18",
+      "team": "IR Iran",
+      "section": "Gruppe G – IR Iran"
+    },
+    {
+      "code": "IRN19",
+      "team": "IR Iran",
+      "section": "Gruppe G – IR Iran"
+    },
+    {
+      "code": "IRN20",
+      "team": "IR Iran",
+      "section": "Gruppe G – IR Iran"
+    },
+    {
+      "code": "NZL1",
+      "name": "Logo",
+      "team": "New Zealand",
+      "section": "Gruppe G – New Zealand",
+      "is_special": true
+    },
+    {
+      "code": "NZL2",
+      "team": "New Zealand",
+      "section": "Gruppe G – New Zealand"
+    },
+    {
+      "code": "NZL3",
+      "team": "New Zealand",
+      "section": "Gruppe G – New Zealand"
+    },
+    {
+      "code": "NZL4",
+      "team": "New Zealand",
+      "section": "Gruppe G – New Zealand"
+    },
+    {
+      "code": "NZL5",
+      "team": "New Zealand",
+      "section": "Gruppe G – New Zealand"
+    },
+    {
+      "code": "NZL6",
+      "team": "New Zealand",
+      "section": "Gruppe G – New Zealand"
+    },
+    {
+      "code": "NZL7",
+      "team": "New Zealand",
+      "section": "Gruppe G – New Zealand"
+    },
+    {
+      "code": "NZL8",
+      "team": "New Zealand",
+      "section": "Gruppe G – New Zealand"
+    },
+    {
+      "code": "NZL9",
+      "team": "New Zealand",
+      "section": "Gruppe G – New Zealand"
+    },
+    {
+      "code": "NZL10",
+      "team": "New Zealand",
+      "section": "Gruppe G – New Zealand"
+    },
+    {
+      "code": "NZL11",
+      "team": "New Zealand",
+      "section": "Gruppe G – New Zealand"
+    },
+    {
+      "code": "NZL12",
+      "team": "New Zealand",
+      "section": "Gruppe G – New Zealand"
+    },
+    {
+      "code": "NZL13",
+      "name": "Team",
+      "team": "New Zealand",
+      "section": "Gruppe G – New Zealand"
+    },
+    {
+      "code": "NZL14",
+      "team": "New Zealand",
+      "section": "Gruppe G – New Zealand"
+    },
+    {
+      "code": "NZL15",
+      "team": "New Zealand",
+      "section": "Gruppe G – New Zealand"
+    },
+    {
+      "code": "NZL16",
+      "team": "New Zealand",
+      "section": "Gruppe G – New Zealand"
+    },
+    {
+      "code": "NZL17",
+      "team": "New Zealand",
+      "section": "Gruppe G – New Zealand"
+    },
+    {
+      "code": "NZL18",
+      "team": "New Zealand",
+      "section": "Gruppe G – New Zealand"
+    },
+    {
+      "code": "NZL19",
+      "team": "New Zealand",
+      "section": "Gruppe G – New Zealand"
+    },
+    {
+      "code": "NZL20",
+      "team": "New Zealand",
+      "section": "Gruppe G – New Zealand"
+    },
+    {
+      "code": "ESP1",
+      "name": "Logo",
+      "team": "Spain",
+      "section": "Gruppe H – Spain",
+      "is_special": true
+    },
+    {
+      "code": "ESP2",
+      "team": "Spain",
+      "section": "Gruppe H – Spain"
+    },
+    {
+      "code": "ESP3",
+      "team": "Spain",
+      "section": "Gruppe H – Spain"
+    },
+    {
+      "code": "ESP4",
+      "team": "Spain",
+      "section": "Gruppe H – Spain"
+    },
+    {
+      "code": "ESP5",
+      "team": "Spain",
+      "section": "Gruppe H – Spain"
+    },
+    {
+      "code": "ESP6",
+      "team": "Spain",
+      "section": "Gruppe H – Spain"
+    },
+    {
+      "code": "ESP7",
+      "team": "Spain",
+      "section": "Gruppe H – Spain"
+    },
+    {
+      "code": "ESP8",
+      "team": "Spain",
+      "section": "Gruppe H – Spain"
+    },
+    {
+      "code": "ESP9",
+      "team": "Spain",
+      "section": "Gruppe H – Spain"
+    },
+    {
+      "code": "ESP10",
+      "team": "Spain",
+      "section": "Gruppe H – Spain"
+    },
+    {
+      "code": "ESP11",
+      "team": "Spain",
+      "section": "Gruppe H – Spain"
+    },
+    {
+      "code": "ESP12",
+      "team": "Spain",
+      "section": "Gruppe H – Spain"
+    },
+    {
+      "code": "ESP13",
+      "name": "Team",
+      "team": "Spain",
+      "section": "Gruppe H – Spain"
+    },
+    {
+      "code": "ESP14",
+      "team": "Spain",
+      "section": "Gruppe H – Spain"
+    },
+    {
+      "code": "ESP15",
+      "team": "Spain",
+      "section": "Gruppe H – Spain"
+    },
+    {
+      "code": "ESP16",
+      "team": "Spain",
+      "section": "Gruppe H – Spain"
+    },
+    {
+      "code": "ESP17",
+      "team": "Spain",
+      "section": "Gruppe H – Spain"
+    },
+    {
+      "code": "ESP18",
+      "team": "Spain",
+      "section": "Gruppe H – Spain"
+    },
+    {
+      "code": "ESP19",
+      "team": "Spain",
+      "section": "Gruppe H – Spain"
+    },
+    {
+      "code": "ESP20",
+      "team": "Spain",
+      "section": "Gruppe H – Spain"
+    },
+    {
+      "code": "CPV1",
+      "name": "Logo",
+      "team": "Cabo Verde",
+      "section": "Gruppe H – Cabo Verde",
+      "is_special": true
+    },
+    {
+      "code": "CPV2",
+      "team": "Cabo Verde",
+      "section": "Gruppe H – Cabo Verde"
+    },
+    {
+      "code": "CPV3",
+      "team": "Cabo Verde",
+      "section": "Gruppe H – Cabo Verde"
+    },
+    {
+      "code": "CPV4",
+      "team": "Cabo Verde",
+      "section": "Gruppe H – Cabo Verde"
+    },
+    {
+      "code": "CPV5",
+      "team": "Cabo Verde",
+      "section": "Gruppe H – Cabo Verde"
+    },
+    {
+      "code": "CPV6",
+      "team": "Cabo Verde",
+      "section": "Gruppe H – Cabo Verde"
+    },
+    {
+      "code": "CPV7",
+      "team": "Cabo Verde",
+      "section": "Gruppe H – Cabo Verde"
+    },
+    {
+      "code": "CPV8",
+      "team": "Cabo Verde",
+      "section": "Gruppe H – Cabo Verde"
+    },
+    {
+      "code": "CPV9",
+      "team": "Cabo Verde",
+      "section": "Gruppe H – Cabo Verde"
+    },
+    {
+      "code": "CPV10",
+      "team": "Cabo Verde",
+      "section": "Gruppe H – Cabo Verde"
+    },
+    {
+      "code": "CPV11",
+      "team": "Cabo Verde",
+      "section": "Gruppe H – Cabo Verde"
+    },
+    {
+      "code": "CPV12",
+      "team": "Cabo Verde",
+      "section": "Gruppe H – Cabo Verde"
+    },
+    {
+      "code": "CPV13",
+      "name": "Team",
+      "team": "Cabo Verde",
+      "section": "Gruppe H – Cabo Verde"
+    },
+    {
+      "code": "CPV14",
+      "team": "Cabo Verde",
+      "section": "Gruppe H – Cabo Verde"
+    },
+    {
+      "code": "CPV15",
+      "team": "Cabo Verde",
+      "section": "Gruppe H – Cabo Verde"
+    },
+    {
+      "code": "CPV16",
+      "team": "Cabo Verde",
+      "section": "Gruppe H – Cabo Verde"
+    },
+    {
+      "code": "CPV17",
+      "team": "Cabo Verde",
+      "section": "Gruppe H – Cabo Verde"
+    },
+    {
+      "code": "CPV18",
+      "team": "Cabo Verde",
+      "section": "Gruppe H – Cabo Verde"
+    },
+    {
+      "code": "CPV19",
+      "team": "Cabo Verde",
+      "section": "Gruppe H – Cabo Verde"
+    },
+    {
+      "code": "CPV20",
+      "team": "Cabo Verde",
+      "section": "Gruppe H – Cabo Verde"
+    },
+    {
+      "code": "KSA1",
+      "name": "Logo",
+      "team": "Saudi Arabia",
+      "section": "Gruppe H – Saudi Arabia",
+      "is_special": true
+    },
+    {
+      "code": "KSA2",
+      "team": "Saudi Arabia",
+      "section": "Gruppe H – Saudi Arabia"
+    },
+    {
+      "code": "KSA3",
+      "team": "Saudi Arabia",
+      "section": "Gruppe H – Saudi Arabia"
+    },
+    {
+      "code": "KSA4",
+      "team": "Saudi Arabia",
+      "section": "Gruppe H – Saudi Arabia"
+    },
+    {
+      "code": "KSA5",
+      "team": "Saudi Arabia",
+      "section": "Gruppe H – Saudi Arabia"
+    },
+    {
+      "code": "KSA6",
+      "team": "Saudi Arabia",
+      "section": "Gruppe H – Saudi Arabia"
+    },
+    {
+      "code": "KSA7",
+      "team": "Saudi Arabia",
+      "section": "Gruppe H – Saudi Arabia"
+    },
+    {
+      "code": "KSA8",
+      "team": "Saudi Arabia",
+      "section": "Gruppe H – Saudi Arabia"
+    },
+    {
+      "code": "KSA9",
+      "team": "Saudi Arabia",
+      "section": "Gruppe H – Saudi Arabia"
+    },
+    {
+      "code": "KSA10",
+      "team": "Saudi Arabia",
+      "section": "Gruppe H – Saudi Arabia"
+    },
+    {
+      "code": "KSA11",
+      "team": "Saudi Arabia",
+      "section": "Gruppe H – Saudi Arabia"
+    },
+    {
+      "code": "KSA12",
+      "team": "Saudi Arabia",
+      "section": "Gruppe H – Saudi Arabia"
+    },
+    {
+      "code": "KSA13",
+      "name": "Team",
+      "team": "Saudi Arabia",
+      "section": "Gruppe H – Saudi Arabia"
+    },
+    {
+      "code": "KSA14",
+      "team": "Saudi Arabia",
+      "section": "Gruppe H – Saudi Arabia"
+    },
+    {
+      "code": "KSA15",
+      "team": "Saudi Arabia",
+      "section": "Gruppe H – Saudi Arabia"
+    },
+    {
+      "code": "KSA16",
+      "team": "Saudi Arabia",
+      "section": "Gruppe H – Saudi Arabia"
+    },
+    {
+      "code": "KSA17",
+      "team": "Saudi Arabia",
+      "section": "Gruppe H – Saudi Arabia"
+    },
+    {
+      "code": "KSA18",
+      "team": "Saudi Arabia",
+      "section": "Gruppe H – Saudi Arabia"
+    },
+    {
+      "code": "KSA19",
+      "team": "Saudi Arabia",
+      "section": "Gruppe H – Saudi Arabia"
+    },
+    {
+      "code": "KSA20",
+      "team": "Saudi Arabia",
+      "section": "Gruppe H – Saudi Arabia"
+    },
+    {
+      "code": "URU1",
+      "name": "Logo",
+      "team": "Uruguay",
+      "section": "Gruppe H – Uruguay",
+      "is_special": true
+    },
+    {
+      "code": "URU2",
+      "team": "Uruguay",
+      "section": "Gruppe H – Uruguay"
+    },
+    {
+      "code": "URU3",
+      "team": "Uruguay",
+      "section": "Gruppe H – Uruguay"
+    },
+    {
+      "code": "URU4",
+      "team": "Uruguay",
+      "section": "Gruppe H – Uruguay"
+    },
+    {
+      "code": "URU5",
+      "team": "Uruguay",
+      "section": "Gruppe H – Uruguay"
+    },
+    {
+      "code": "URU6",
+      "team": "Uruguay",
+      "section": "Gruppe H – Uruguay"
+    },
+    {
+      "code": "URU7",
+      "team": "Uruguay",
+      "section": "Gruppe H – Uruguay"
+    },
+    {
+      "code": "URU8",
+      "team": "Uruguay",
+      "section": "Gruppe H – Uruguay"
+    },
+    {
+      "code": "URU9",
+      "team": "Uruguay",
+      "section": "Gruppe H – Uruguay"
+    },
+    {
+      "code": "URU10",
+      "team": "Uruguay",
+      "section": "Gruppe H – Uruguay"
+    },
+    {
+      "code": "URU11",
+      "team": "Uruguay",
+      "section": "Gruppe H – Uruguay"
+    },
+    {
+      "code": "URU12",
+      "team": "Uruguay",
+      "section": "Gruppe H – Uruguay"
+    },
+    {
+      "code": "URU13",
+      "name": "Team",
+      "team": "Uruguay",
+      "section": "Gruppe H – Uruguay"
+    },
+    {
+      "code": "URU14",
+      "team": "Uruguay",
+      "section": "Gruppe H – Uruguay"
+    },
+    {
+      "code": "URU15",
+      "team": "Uruguay",
+      "section": "Gruppe H – Uruguay"
+    },
+    {
+      "code": "URU16",
+      "team": "Uruguay",
+      "section": "Gruppe H – Uruguay"
+    },
+    {
+      "code": "URU17",
+      "team": "Uruguay",
+      "section": "Gruppe H – Uruguay"
+    },
+    {
+      "code": "URU18",
+      "team": "Uruguay",
+      "section": "Gruppe H – Uruguay"
+    },
+    {
+      "code": "URU19",
+      "team": "Uruguay",
+      "section": "Gruppe H – Uruguay"
+    },
+    {
+      "code": "URU20",
+      "team": "Uruguay",
+      "section": "Gruppe H – Uruguay"
+    },
+    {
+      "code": "FRA1",
+      "name": "Logo",
+      "team": "France",
+      "section": "Gruppe I – France",
+      "is_special": true
+    },
+    {
+      "code": "FRA2",
+      "team": "France",
+      "section": "Gruppe I – France"
+    },
+    {
+      "code": "FRA3",
+      "team": "France",
+      "section": "Gruppe I – France"
+    },
+    {
+      "code": "FRA4",
+      "team": "France",
+      "section": "Gruppe I – France"
+    },
+    {
+      "code": "FRA5",
+      "team": "France",
+      "section": "Gruppe I – France"
+    },
+    {
+      "code": "FRA6",
+      "team": "France",
+      "section": "Gruppe I – France"
+    },
+    {
+      "code": "FRA7",
+      "team": "France",
+      "section": "Gruppe I – France"
+    },
+    {
+      "code": "FRA8",
+      "team": "France",
+      "section": "Gruppe I – France"
+    },
+    {
+      "code": "FRA9",
+      "team": "France",
+      "section": "Gruppe I – France"
+    },
+    {
+      "code": "FRA10",
+      "team": "France",
+      "section": "Gruppe I – France"
+    },
+    {
+      "code": "FRA11",
+      "team": "France",
+      "section": "Gruppe I – France"
+    },
+    {
+      "code": "FRA12",
+      "team": "France",
+      "section": "Gruppe I – France"
+    },
+    {
+      "code": "FRA13",
+      "name": "Team",
+      "team": "France",
+      "section": "Gruppe I – France"
+    },
+    {
+      "code": "FRA14",
+      "team": "France",
+      "section": "Gruppe I – France"
+    },
+    {
+      "code": "FRA15",
+      "team": "France",
+      "section": "Gruppe I – France"
+    },
+    {
+      "code": "FRA16",
+      "team": "France",
+      "section": "Gruppe I – France"
+    },
+    {
+      "code": "FRA17",
+      "team": "France",
+      "section": "Gruppe I – France"
+    },
+    {
+      "code": "FRA18",
+      "team": "France",
+      "section": "Gruppe I – France"
+    },
+    {
+      "code": "FRA19",
+      "team": "France",
+      "section": "Gruppe I – France"
+    },
+    {
+      "code": "FRA20",
+      "team": "France",
+      "section": "Gruppe I – France"
+    },
+    {
+      "code": "SEN1",
+      "name": "Logo",
+      "team": "Senegal",
+      "section": "Gruppe I – Senegal",
+      "is_special": true
+    },
+    {
+      "code": "SEN2",
+      "team": "Senegal",
+      "section": "Gruppe I – Senegal"
+    },
+    {
+      "code": "SEN3",
+      "team": "Senegal",
+      "section": "Gruppe I – Senegal"
+    },
+    {
+      "code": "SEN4",
+      "team": "Senegal",
+      "section": "Gruppe I – Senegal"
+    },
+    {
+      "code": "SEN5",
+      "team": "Senegal",
+      "section": "Gruppe I – Senegal"
+    },
+    {
+      "code": "SEN6",
+      "team": "Senegal",
+      "section": "Gruppe I – Senegal"
+    },
+    {
+      "code": "SEN7",
+      "team": "Senegal",
+      "section": "Gruppe I – Senegal"
+    },
+    {
+      "code": "SEN8",
+      "team": "Senegal",
+      "section": "Gruppe I – Senegal"
+    },
+    {
+      "code": "SEN9",
+      "team": "Senegal",
+      "section": "Gruppe I – Senegal"
+    },
+    {
+      "code": "SEN10",
+      "team": "Senegal",
+      "section": "Gruppe I – Senegal"
+    },
+    {
+      "code": "SEN11",
+      "team": "Senegal",
+      "section": "Gruppe I – Senegal"
+    },
+    {
+      "code": "SEN12",
+      "team": "Senegal",
+      "section": "Gruppe I – Senegal"
+    },
+    {
+      "code": "SEN13",
+      "name": "Team",
+      "team": "Senegal",
+      "section": "Gruppe I – Senegal"
+    },
+    {
+      "code": "SEN14",
+      "team": "Senegal",
+      "section": "Gruppe I – Senegal"
+    },
+    {
+      "code": "SEN15",
+      "team": "Senegal",
+      "section": "Gruppe I – Senegal"
+    },
+    {
+      "code": "SEN16",
+      "team": "Senegal",
+      "section": "Gruppe I – Senegal"
+    },
+    {
+      "code": "SEN17",
+      "team": "Senegal",
+      "section": "Gruppe I – Senegal"
+    },
+    {
+      "code": "SEN18",
+      "team": "Senegal",
+      "section": "Gruppe I – Senegal"
+    },
+    {
+      "code": "SEN19",
+      "team": "Senegal",
+      "section": "Gruppe I – Senegal"
+    },
+    {
+      "code": "SEN20",
+      "team": "Senegal",
+      "section": "Gruppe I – Senegal"
+    },
+    {
+      "code": "IRQ1",
+      "name": "Logo",
+      "team": "Iraq",
+      "section": "Gruppe I – Iraq",
+      "is_special": true
+    },
+    {
+      "code": "IRQ2",
+      "team": "Iraq",
+      "section": "Gruppe I – Iraq"
+    },
+    {
+      "code": "IRQ3",
+      "team": "Iraq",
+      "section": "Gruppe I – Iraq"
+    },
+    {
+      "code": "IRQ4",
+      "team": "Iraq",
+      "section": "Gruppe I – Iraq"
+    },
+    {
+      "code": "IRQ5",
+      "team": "Iraq",
+      "section": "Gruppe I – Iraq"
+    },
+    {
+      "code": "IRQ6",
+      "team": "Iraq",
+      "section": "Gruppe I – Iraq"
+    },
+    {
+      "code": "IRQ7",
+      "team": "Iraq",
+      "section": "Gruppe I – Iraq"
+    },
+    {
+      "code": "IRQ8",
+      "team": "Iraq",
+      "section": "Gruppe I – Iraq"
+    },
+    {
+      "code": "IRQ9",
+      "team": "Iraq",
+      "section": "Gruppe I – Iraq"
+    },
+    {
+      "code": "IRQ10",
+      "team": "Iraq",
+      "section": "Gruppe I – Iraq"
+    },
+    {
+      "code": "IRQ11",
+      "team": "Iraq",
+      "section": "Gruppe I – Iraq"
+    },
+    {
+      "code": "IRQ12",
+      "team": "Iraq",
+      "section": "Gruppe I – Iraq"
+    },
+    {
+      "code": "IRQ13",
+      "name": "Team",
+      "team": "Iraq",
+      "section": "Gruppe I – Iraq"
+    },
+    {
+      "code": "IRQ14",
+      "team": "Iraq",
+      "section": "Gruppe I – Iraq"
+    },
+    {
+      "code": "IRQ15",
+      "team": "Iraq",
+      "section": "Gruppe I – Iraq"
+    },
+    {
+      "code": "IRQ16",
+      "team": "Iraq",
+      "section": "Gruppe I – Iraq"
+    },
+    {
+      "code": "IRQ17",
+      "team": "Iraq",
+      "section": "Gruppe I – Iraq"
+    },
+    {
+      "code": "IRQ18",
+      "team": "Iraq",
+      "section": "Gruppe I – Iraq"
+    },
+    {
+      "code": "IRQ19",
+      "team": "Iraq",
+      "section": "Gruppe I – Iraq"
+    },
+    {
+      "code": "IRQ20",
+      "team": "Iraq",
+      "section": "Gruppe I – Iraq"
+    },
+    {
+      "code": "NOR1",
+      "name": "Logo",
+      "team": "Norway",
+      "section": "Gruppe I – Norway",
+      "is_special": true
+    },
+    {
+      "code": "NOR2",
+      "team": "Norway",
+      "section": "Gruppe I – Norway"
+    },
+    {
+      "code": "NOR3",
+      "team": "Norway",
+      "section": "Gruppe I – Norway"
+    },
+    {
+      "code": "NOR4",
+      "team": "Norway",
+      "section": "Gruppe I – Norway"
+    },
+    {
+      "code": "NOR5",
+      "team": "Norway",
+      "section": "Gruppe I – Norway"
+    },
+    {
+      "code": "NOR6",
+      "team": "Norway",
+      "section": "Gruppe I – Norway"
+    },
+    {
+      "code": "NOR7",
+      "team": "Norway",
+      "section": "Gruppe I – Norway"
+    },
+    {
+      "code": "NOR8",
+      "team": "Norway",
+      "section": "Gruppe I – Norway"
+    },
+    {
+      "code": "NOR9",
+      "team": "Norway",
+      "section": "Gruppe I – Norway"
+    },
+    {
+      "code": "NOR10",
+      "team": "Norway",
+      "section": "Gruppe I – Norway"
+    },
+    {
+      "code": "NOR11",
+      "team": "Norway",
+      "section": "Gruppe I – Norway"
+    },
+    {
+      "code": "NOR12",
+      "team": "Norway",
+      "section": "Gruppe I – Norway"
+    },
+    {
+      "code": "NOR13",
+      "name": "Team",
+      "team": "Norway",
+      "section": "Gruppe I – Norway"
+    },
+    {
+      "code": "NOR14",
+      "team": "Norway",
+      "section": "Gruppe I – Norway"
+    },
+    {
+      "code": "NOR15",
+      "team": "Norway",
+      "section": "Gruppe I – Norway"
+    },
+    {
+      "code": "NOR16",
+      "team": "Norway",
+      "section": "Gruppe I – Norway"
+    },
+    {
+      "code": "NOR17",
+      "team": "Norway",
+      "section": "Gruppe I – Norway"
+    },
+    {
+      "code": "NOR18",
+      "team": "Norway",
+      "section": "Gruppe I – Norway"
+    },
+    {
+      "code": "NOR19",
+      "team": "Norway",
+      "section": "Gruppe I – Norway"
+    },
+    {
+      "code": "NOR20",
+      "team": "Norway",
+      "section": "Gruppe I – Norway"
+    },
+    {
+      "code": "ARG1",
+      "name": "Logo",
+      "team": "Argentina",
+      "section": "Gruppe J – Argentina",
+      "is_special": true
+    },
+    {
+      "code": "ARG2",
+      "team": "Argentina",
+      "section": "Gruppe J – Argentina"
+    },
+    {
+      "code": "ARG3",
+      "team": "Argentina",
+      "section": "Gruppe J – Argentina"
+    },
+    {
+      "code": "ARG4",
+      "team": "Argentina",
+      "section": "Gruppe J – Argentina"
+    },
+    {
+      "code": "ARG5",
+      "team": "Argentina",
+      "section": "Gruppe J – Argentina"
+    },
+    {
+      "code": "ARG6",
+      "team": "Argentina",
+      "section": "Gruppe J – Argentina"
+    },
+    {
+      "code": "ARG7",
+      "team": "Argentina",
+      "section": "Gruppe J – Argentina"
+    },
+    {
+      "code": "ARG8",
+      "team": "Argentina",
+      "section": "Gruppe J – Argentina"
+    },
+    {
+      "code": "ARG9",
+      "team": "Argentina",
+      "section": "Gruppe J – Argentina"
+    },
+    {
+      "code": "ARG10",
+      "team": "Argentina",
+      "section": "Gruppe J – Argentina"
+    },
+    {
+      "code": "ARG11",
+      "team": "Argentina",
+      "section": "Gruppe J – Argentina"
+    },
+    {
+      "code": "ARG12",
+      "team": "Argentina",
+      "section": "Gruppe J – Argentina"
+    },
+    {
+      "code": "ARG13",
+      "name": "Team",
+      "team": "Argentina",
+      "section": "Gruppe J – Argentina"
+    },
+    {
+      "code": "ARG14",
+      "team": "Argentina",
+      "section": "Gruppe J – Argentina"
+    },
+    {
+      "code": "ARG15",
+      "team": "Argentina",
+      "section": "Gruppe J – Argentina"
+    },
+    {
+      "code": "ARG16",
+      "team": "Argentina",
+      "section": "Gruppe J – Argentina"
+    },
+    {
+      "code": "ARG17",
+      "team": "Argentina",
+      "section": "Gruppe J – Argentina"
+    },
+    {
+      "code": "ARG18",
+      "team": "Argentina",
+      "section": "Gruppe J – Argentina"
+    },
+    {
+      "code": "ARG19",
+      "team": "Argentina",
+      "section": "Gruppe J – Argentina"
+    },
+    {
+      "code": "ARG20",
+      "team": "Argentina",
+      "section": "Gruppe J – Argentina"
+    },
+    {
+      "code": "ALG1",
+      "name": "Logo",
+      "team": "Algeria",
+      "section": "Gruppe J – Algeria",
+      "is_special": true
+    },
+    {
+      "code": "ALG2",
+      "team": "Algeria",
+      "section": "Gruppe J – Algeria"
+    },
+    {
+      "code": "ALG3",
+      "team": "Algeria",
+      "section": "Gruppe J – Algeria"
+    },
+    {
+      "code": "ALG4",
+      "team": "Algeria",
+      "section": "Gruppe J – Algeria"
+    },
+    {
+      "code": "ALG5",
+      "team": "Algeria",
+      "section": "Gruppe J – Algeria"
+    },
+    {
+      "code": "ALG6",
+      "team": "Algeria",
+      "section": "Gruppe J – Algeria"
+    },
+    {
+      "code": "ALG7",
+      "team": "Algeria",
+      "section": "Gruppe J – Algeria"
+    },
+    {
+      "code": "ALG8",
+      "team": "Algeria",
+      "section": "Gruppe J – Algeria"
+    },
+    {
+      "code": "ALG9",
+      "team": "Algeria",
+      "section": "Gruppe J – Algeria"
+    },
+    {
+      "code": "ALG10",
+      "team": "Algeria",
+      "section": "Gruppe J – Algeria"
+    },
+    {
+      "code": "ALG11",
+      "team": "Algeria",
+      "section": "Gruppe J – Algeria"
+    },
+    {
+      "code": "ALG12",
+      "team": "Algeria",
+      "section": "Gruppe J – Algeria"
+    },
+    {
+      "code": "ALG13",
+      "name": "Team",
+      "team": "Algeria",
+      "section": "Gruppe J – Algeria"
+    },
+    {
+      "code": "ALG14",
+      "team": "Algeria",
+      "section": "Gruppe J – Algeria"
+    },
+    {
+      "code": "ALG15",
+      "team": "Algeria",
+      "section": "Gruppe J – Algeria"
+    },
+    {
+      "code": "ALG16",
+      "team": "Algeria",
+      "section": "Gruppe J – Algeria"
+    },
+    {
+      "code": "ALG17",
+      "team": "Algeria",
+      "section": "Gruppe J – Algeria"
+    },
+    {
+      "code": "ALG18",
+      "team": "Algeria",
+      "section": "Gruppe J – Algeria"
+    },
+    {
+      "code": "ALG19",
+      "team": "Algeria",
+      "section": "Gruppe J – Algeria"
+    },
+    {
+      "code": "ALG20",
+      "team": "Algeria",
+      "section": "Gruppe J – Algeria"
+    },
+    {
+      "code": "AUT1",
+      "name": "Logo",
+      "team": "Austria",
+      "section": "Gruppe J – Austria",
+      "is_special": true
+    },
+    {
+      "code": "AUT2",
+      "team": "Austria",
+      "section": "Gruppe J – Austria"
+    },
+    {
+      "code": "AUT3",
+      "team": "Austria",
+      "section": "Gruppe J – Austria"
+    },
+    {
+      "code": "AUT4",
+      "team": "Austria",
+      "section": "Gruppe J – Austria"
+    },
+    {
+      "code": "AUT5",
+      "team": "Austria",
+      "section": "Gruppe J – Austria"
+    },
+    {
+      "code": "AUT6",
+      "team": "Austria",
+      "section": "Gruppe J – Austria"
+    },
+    {
+      "code": "AUT7",
+      "team": "Austria",
+      "section": "Gruppe J – Austria"
+    },
+    {
+      "code": "AUT8",
+      "team": "Austria",
+      "section": "Gruppe J – Austria"
+    },
+    {
+      "code": "AUT9",
+      "team": "Austria",
+      "section": "Gruppe J – Austria"
+    },
+    {
+      "code": "AUT10",
+      "team": "Austria",
+      "section": "Gruppe J – Austria"
+    },
+    {
+      "code": "AUT11",
+      "team": "Austria",
+      "section": "Gruppe J – Austria"
+    },
+    {
+      "code": "AUT12",
+      "team": "Austria",
+      "section": "Gruppe J – Austria"
+    },
+    {
+      "code": "AUT13",
+      "name": "Team",
+      "team": "Austria",
+      "section": "Gruppe J – Austria"
+    },
+    {
+      "code": "AUT14",
+      "team": "Austria",
+      "section": "Gruppe J – Austria"
+    },
+    {
+      "code": "AUT15",
+      "team": "Austria",
+      "section": "Gruppe J – Austria"
+    },
+    {
+      "code": "AUT16",
+      "team": "Austria",
+      "section": "Gruppe J – Austria"
+    },
+    {
+      "code": "AUT17",
+      "team": "Austria",
+      "section": "Gruppe J – Austria"
+    },
+    {
+      "code": "AUT18",
+      "team": "Austria",
+      "section": "Gruppe J – Austria"
+    },
+    {
+      "code": "AUT19",
+      "team": "Austria",
+      "section": "Gruppe J – Austria"
+    },
+    {
+      "code": "AUT20",
+      "team": "Austria",
+      "section": "Gruppe J – Austria"
+    },
+    {
+      "code": "JOR1",
+      "name": "Logo",
+      "team": "Jordan",
+      "section": "Gruppe J – Jordan",
+      "is_special": true
+    },
+    {
+      "code": "JOR2",
+      "team": "Jordan",
+      "section": "Gruppe J – Jordan"
+    },
+    {
+      "code": "JOR3",
+      "team": "Jordan",
+      "section": "Gruppe J – Jordan"
+    },
+    {
+      "code": "JOR4",
+      "team": "Jordan",
+      "section": "Gruppe J – Jordan"
+    },
+    {
+      "code": "JOR5",
+      "team": "Jordan",
+      "section": "Gruppe J – Jordan"
+    },
+    {
+      "code": "JOR6",
+      "team": "Jordan",
+      "section": "Gruppe J – Jordan"
+    },
+    {
+      "code": "JOR7",
+      "team": "Jordan",
+      "section": "Gruppe J – Jordan"
+    },
+    {
+      "code": "JOR8",
+      "team": "Jordan",
+      "section": "Gruppe J – Jordan"
+    },
+    {
+      "code": "JOR9",
+      "team": "Jordan",
+      "section": "Gruppe J – Jordan"
+    },
+    {
+      "code": "JOR10",
+      "team": "Jordan",
+      "section": "Gruppe J – Jordan"
+    },
+    {
+      "code": "JOR11",
+      "team": "Jordan",
+      "section": "Gruppe J – Jordan"
+    },
+    {
+      "code": "JOR12",
+      "team": "Jordan",
+      "section": "Gruppe J – Jordan"
+    },
+    {
+      "code": "JOR13",
+      "name": "Team",
+      "team": "Jordan",
+      "section": "Gruppe J – Jordan"
+    },
+    {
+      "code": "JOR14",
+      "team": "Jordan",
+      "section": "Gruppe J – Jordan"
+    },
+    {
+      "code": "JOR15",
+      "team": "Jordan",
+      "section": "Gruppe J – Jordan"
+    },
+    {
+      "code": "JOR16",
+      "team": "Jordan",
+      "section": "Gruppe J – Jordan"
+    },
+    {
+      "code": "JOR17",
+      "team": "Jordan",
+      "section": "Gruppe J – Jordan"
+    },
+    {
+      "code": "JOR18",
+      "team": "Jordan",
+      "section": "Gruppe J – Jordan"
+    },
+    {
+      "code": "JOR19",
+      "team": "Jordan",
+      "section": "Gruppe J – Jordan"
+    },
+    {
+      "code": "JOR20",
+      "team": "Jordan",
+      "section": "Gruppe J – Jordan"
+    },
+    {
+      "code": "POR1",
+      "name": "Logo",
+      "team": "Portugal",
+      "section": "Gruppe K – Portugal",
+      "is_special": true
+    },
+    {
+      "code": "POR2",
+      "team": "Portugal",
+      "section": "Gruppe K – Portugal"
+    },
+    {
+      "code": "POR3",
+      "team": "Portugal",
+      "section": "Gruppe K – Portugal"
+    },
+    {
+      "code": "POR4",
+      "team": "Portugal",
+      "section": "Gruppe K – Portugal"
+    },
+    {
+      "code": "POR5",
+      "team": "Portugal",
+      "section": "Gruppe K – Portugal"
+    },
+    {
+      "code": "POR6",
+      "team": "Portugal",
+      "section": "Gruppe K – Portugal"
+    },
+    {
+      "code": "POR7",
+      "team": "Portugal",
+      "section": "Gruppe K – Portugal"
+    },
+    {
+      "code": "POR8",
+      "team": "Portugal",
+      "section": "Gruppe K – Portugal"
+    },
+    {
+      "code": "POR9",
+      "team": "Portugal",
+      "section": "Gruppe K – Portugal"
+    },
+    {
+      "code": "POR10",
+      "team": "Portugal",
+      "section": "Gruppe K – Portugal"
+    },
+    {
+      "code": "POR11",
+      "team": "Portugal",
+      "section": "Gruppe K – Portugal"
+    },
+    {
+      "code": "POR12",
+      "team": "Portugal",
+      "section": "Gruppe K – Portugal"
+    },
+    {
+      "code": "POR13",
+      "name": "Team",
+      "team": "Portugal",
+      "section": "Gruppe K – Portugal"
+    },
+    {
+      "code": "POR14",
+      "team": "Portugal",
+      "section": "Gruppe K – Portugal"
+    },
+    {
+      "code": "POR15",
+      "team": "Portugal",
+      "section": "Gruppe K – Portugal"
+    },
+    {
+      "code": "POR16",
+      "team": "Portugal",
+      "section": "Gruppe K – Portugal"
+    },
+    {
+      "code": "POR17",
+      "team": "Portugal",
+      "section": "Gruppe K – Portugal"
+    },
+    {
+      "code": "POR18",
+      "team": "Portugal",
+      "section": "Gruppe K – Portugal"
+    },
+    {
+      "code": "POR19",
+      "team": "Portugal",
+      "section": "Gruppe K – Portugal"
+    },
+    {
+      "code": "POR20",
+      "team": "Portugal",
+      "section": "Gruppe K – Portugal"
+    },
+    {
+      "code": "COD1",
+      "name": "Logo",
+      "team": "Congo DR",
+      "section": "Gruppe K – Congo DR",
+      "is_special": true
+    },
+    {
+      "code": "COD2",
+      "team": "Congo DR",
+      "section": "Gruppe K – Congo DR"
+    },
+    {
+      "code": "COD3",
+      "team": "Congo DR",
+      "section": "Gruppe K – Congo DR"
+    },
+    {
+      "code": "COD4",
+      "team": "Congo DR",
+      "section": "Gruppe K – Congo DR"
+    },
+    {
+      "code": "COD5",
+      "team": "Congo DR",
+      "section": "Gruppe K – Congo DR"
+    },
+    {
+      "code": "COD6",
+      "team": "Congo DR",
+      "section": "Gruppe K – Congo DR"
+    },
+    {
+      "code": "COD7",
+      "team": "Congo DR",
+      "section": "Gruppe K – Congo DR"
+    },
+    {
+      "code": "COD8",
+      "team": "Congo DR",
+      "section": "Gruppe K – Congo DR"
+    },
+    {
+      "code": "COD9",
+      "team": "Congo DR",
+      "section": "Gruppe K – Congo DR"
+    },
+    {
+      "code": "COD10",
+      "team": "Congo DR",
+      "section": "Gruppe K – Congo DR"
+    },
+    {
+      "code": "COD11",
+      "team": "Congo DR",
+      "section": "Gruppe K – Congo DR"
+    },
+    {
+      "code": "COD12",
+      "team": "Congo DR",
+      "section": "Gruppe K – Congo DR"
+    },
+    {
+      "code": "COD13",
+      "name": "Team",
+      "team": "Congo DR",
+      "section": "Gruppe K – Congo DR"
+    },
+    {
+      "code": "COD14",
+      "team": "Congo DR",
+      "section": "Gruppe K – Congo DR"
+    },
+    {
+      "code": "COD15",
+      "team": "Congo DR",
+      "section": "Gruppe K – Congo DR"
+    },
+    {
+      "code": "COD16",
+      "team": "Congo DR",
+      "section": "Gruppe K – Congo DR"
+    },
+    {
+      "code": "COD17",
+      "team": "Congo DR",
+      "section": "Gruppe K – Congo DR"
+    },
+    {
+      "code": "COD18",
+      "team": "Congo DR",
+      "section": "Gruppe K – Congo DR"
+    },
+    {
+      "code": "COD19",
+      "team": "Congo DR",
+      "section": "Gruppe K – Congo DR"
+    },
+    {
+      "code": "COD20",
+      "team": "Congo DR",
+      "section": "Gruppe K – Congo DR"
+    },
+    {
+      "code": "UZB1",
+      "name": "Logo",
+      "team": "Uzbekistan",
+      "section": "Gruppe K – Uzbekistan",
+      "is_special": true
+    },
+    {
+      "code": "UZB2",
+      "team": "Uzbekistan",
+      "section": "Gruppe K – Uzbekistan"
+    },
+    {
+      "code": "UZB3",
+      "team": "Uzbekistan",
+      "section": "Gruppe K – Uzbekistan"
+    },
+    {
+      "code": "UZB4",
+      "team": "Uzbekistan",
+      "section": "Gruppe K – Uzbekistan"
+    },
+    {
+      "code": "UZB5",
+      "team": "Uzbekistan",
+      "section": "Gruppe K – Uzbekistan"
+    },
+    {
+      "code": "UZB6",
+      "team": "Uzbekistan",
+      "section": "Gruppe K – Uzbekistan"
+    },
+    {
+      "code": "UZB7",
+      "team": "Uzbekistan",
+      "section": "Gruppe K – Uzbekistan"
+    },
+    {
+      "code": "UZB8",
+      "team": "Uzbekistan",
+      "section": "Gruppe K – Uzbekistan"
+    },
+    {
+      "code": "UZB9",
+      "team": "Uzbekistan",
+      "section": "Gruppe K – Uzbekistan"
+    },
+    {
+      "code": "UZB10",
+      "team": "Uzbekistan",
+      "section": "Gruppe K – Uzbekistan"
+    },
+    {
+      "code": "UZB11",
+      "team": "Uzbekistan",
+      "section": "Gruppe K – Uzbekistan"
+    },
+    {
+      "code": "UZB12",
+      "team": "Uzbekistan",
+      "section": "Gruppe K – Uzbekistan"
+    },
+    {
+      "code": "UZB13",
+      "name": "Team",
+      "team": "Uzbekistan",
+      "section": "Gruppe K – Uzbekistan"
+    },
+    {
+      "code": "UZB14",
+      "team": "Uzbekistan",
+      "section": "Gruppe K – Uzbekistan"
+    },
+    {
+      "code": "UZB15",
+      "team": "Uzbekistan",
+      "section": "Gruppe K – Uzbekistan"
+    },
+    {
+      "code": "UZB16",
+      "team": "Uzbekistan",
+      "section": "Gruppe K – Uzbekistan"
+    },
+    {
+      "code": "UZB17",
+      "team": "Uzbekistan",
+      "section": "Gruppe K – Uzbekistan"
+    },
+    {
+      "code": "UZB18",
+      "team": "Uzbekistan",
+      "section": "Gruppe K – Uzbekistan"
+    },
+    {
+      "code": "UZB19",
+      "team": "Uzbekistan",
+      "section": "Gruppe K – Uzbekistan"
+    },
+    {
+      "code": "UZB20",
+      "team": "Uzbekistan",
+      "section": "Gruppe K – Uzbekistan"
+    },
+    {
+      "code": "COL1",
+      "name": "Logo",
+      "team": "Colombia",
+      "section": "Gruppe K – Colombia",
+      "is_special": true
+    },
+    {
+      "code": "COL2",
+      "team": "Colombia",
+      "section": "Gruppe K – Colombia"
+    },
+    {
+      "code": "COL3",
+      "team": "Colombia",
+      "section": "Gruppe K – Colombia"
+    },
+    {
+      "code": "COL4",
+      "team": "Colombia",
+      "section": "Gruppe K – Colombia"
+    },
+    {
+      "code": "COL5",
+      "team": "Colombia",
+      "section": "Gruppe K – Colombia"
+    },
+    {
+      "code": "COL6",
+      "team": "Colombia",
+      "section": "Gruppe K – Colombia"
+    },
+    {
+      "code": "COL7",
+      "team": "Colombia",
+      "section": "Gruppe K – Colombia"
+    },
+    {
+      "code": "COL8",
+      "team": "Colombia",
+      "section": "Gruppe K – Colombia"
+    },
+    {
+      "code": "COL9",
+      "team": "Colombia",
+      "section": "Gruppe K – Colombia"
+    },
+    {
+      "code": "COL10",
+      "team": "Colombia",
+      "section": "Gruppe K – Colombia"
+    },
+    {
+      "code": "COL11",
+      "team": "Colombia",
+      "section": "Gruppe K – Colombia"
+    },
+    {
+      "code": "COL12",
+      "team": "Colombia",
+      "section": "Gruppe K – Colombia"
+    },
+    {
+      "code": "COL13",
+      "name": "Team",
+      "team": "Colombia",
+      "section": "Gruppe K – Colombia"
+    },
+    {
+      "code": "COL14",
+      "team": "Colombia",
+      "section": "Gruppe K – Colombia"
+    },
+    {
+      "code": "COL15",
+      "team": "Colombia",
+      "section": "Gruppe K – Colombia"
+    },
+    {
+      "code": "COL16",
+      "team": "Colombia",
+      "section": "Gruppe K – Colombia"
+    },
+    {
+      "code": "COL17",
+      "team": "Colombia",
+      "section": "Gruppe K – Colombia"
+    },
+    {
+      "code": "COL18",
+      "team": "Colombia",
+      "section": "Gruppe K – Colombia"
+    },
+    {
+      "code": "COL19",
+      "team": "Colombia",
+      "section": "Gruppe K – Colombia"
+    },
+    {
+      "code": "COL20",
+      "team": "Colombia",
+      "section": "Gruppe K – Colombia"
+    },
+    {
+      "code": "ENG1",
+      "name": "Logo",
+      "team": "England",
+      "section": "Gruppe L – England",
+      "is_special": true
+    },
+    {
+      "code": "ENG2",
+      "team": "England",
+      "section": "Gruppe L – England"
+    },
+    {
+      "code": "ENG3",
+      "team": "England",
+      "section": "Gruppe L – England"
+    },
+    {
+      "code": "ENG4",
+      "team": "England",
+      "section": "Gruppe L – England"
+    },
+    {
+      "code": "ENG5",
+      "team": "England",
+      "section": "Gruppe L – England"
+    },
+    {
+      "code": "ENG6",
+      "team": "England",
+      "section": "Gruppe L – England"
+    },
+    {
+      "code": "ENG7",
+      "team": "England",
+      "section": "Gruppe L – England"
+    },
+    {
+      "code": "ENG8",
+      "team": "England",
+      "section": "Gruppe L – England"
+    },
+    {
+      "code": "ENG9",
+      "team": "England",
+      "section": "Gruppe L – England"
+    },
+    {
+      "code": "ENG10",
+      "team": "England",
+      "section": "Gruppe L – England"
+    },
+    {
+      "code": "ENG11",
+      "team": "England",
+      "section": "Gruppe L – England"
+    },
+    {
+      "code": "ENG12",
+      "team": "England",
+      "section": "Gruppe L – England"
+    },
+    {
+      "code": "ENG13",
+      "name": "Team",
+      "team": "England",
+      "section": "Gruppe L – England"
+    },
+    {
+      "code": "ENG14",
+      "team": "England",
+      "section": "Gruppe L – England"
+    },
+    {
+      "code": "ENG15",
+      "team": "England",
+      "section": "Gruppe L – England"
+    },
+    {
+      "code": "ENG16",
+      "team": "England",
+      "section": "Gruppe L – England"
+    },
+    {
+      "code": "ENG17",
+      "team": "England",
+      "section": "Gruppe L – England"
+    },
+    {
+      "code": "ENG18",
+      "team": "England",
+      "section": "Gruppe L – England"
+    },
+    {
+      "code": "ENG19",
+      "team": "England",
+      "section": "Gruppe L – England"
+    },
+    {
+      "code": "ENG20",
+      "team": "England",
+      "section": "Gruppe L – England"
+    },
+    {
+      "code": "CRO1",
+      "name": "Logo",
+      "team": "Croatia",
+      "section": "Gruppe L – Croatia",
+      "is_special": true
+    },
+    {
+      "code": "CRO2",
+      "team": "Croatia",
+      "section": "Gruppe L – Croatia"
+    },
+    {
+      "code": "CRO3",
+      "team": "Croatia",
+      "section": "Gruppe L – Croatia"
+    },
+    {
+      "code": "CRO4",
+      "team": "Croatia",
+      "section": "Gruppe L – Croatia"
+    },
+    {
+      "code": "CRO5",
+      "team": "Croatia",
+      "section": "Gruppe L – Croatia"
+    },
+    {
+      "code": "CRO6",
+      "team": "Croatia",
+      "section": "Gruppe L – Croatia"
+    },
+    {
+      "code": "CRO7",
+      "team": "Croatia",
+      "section": "Gruppe L – Croatia"
+    },
+    {
+      "code": "CRO8",
+      "team": "Croatia",
+      "section": "Gruppe L – Croatia"
+    },
+    {
+      "code": "CRO9",
+      "team": "Croatia",
+      "section": "Gruppe L – Croatia"
+    },
+    {
+      "code": "CRO10",
+      "team": "Croatia",
+      "section": "Gruppe L – Croatia"
+    },
+    {
+      "code": "CRO11",
+      "team": "Croatia",
+      "section": "Gruppe L – Croatia"
+    },
+    {
+      "code": "CRO12",
+      "team": "Croatia",
+      "section": "Gruppe L – Croatia"
+    },
+    {
+      "code": "CRO13",
+      "name": "Team",
+      "team": "Croatia",
+      "section": "Gruppe L – Croatia"
+    },
+    {
+      "code": "CRO14",
+      "team": "Croatia",
+      "section": "Gruppe L – Croatia"
+    },
+    {
+      "code": "CRO15",
+      "team": "Croatia",
+      "section": "Gruppe L – Croatia"
+    },
+    {
+      "code": "CRO16",
+      "team": "Croatia",
+      "section": "Gruppe L – Croatia"
+    },
+    {
+      "code": "CRO17",
+      "team": "Croatia",
+      "section": "Gruppe L – Croatia"
+    },
+    {
+      "code": "CRO18",
+      "team": "Croatia",
+      "section": "Gruppe L – Croatia"
+    },
+    {
+      "code": "CRO19",
+      "team": "Croatia",
+      "section": "Gruppe L – Croatia"
+    },
+    {
+      "code": "CRO20",
+      "team": "Croatia",
+      "section": "Gruppe L – Croatia"
+    },
+    {
+      "code": "GHA1",
+      "name": "Logo",
+      "team": "Ghana",
+      "section": "Gruppe L – Ghana",
+      "is_special": true
+    },
+    {
+      "code": "GHA2",
+      "team": "Ghana",
+      "section": "Gruppe L – Ghana"
+    },
+    {
+      "code": "GHA3",
+      "team": "Ghana",
+      "section": "Gruppe L – Ghana"
+    },
+    {
+      "code": "GHA4",
+      "team": "Ghana",
+      "section": "Gruppe L – Ghana"
+    },
+    {
+      "code": "GHA5",
+      "team": "Ghana",
+      "section": "Gruppe L – Ghana"
+    },
+    {
+      "code": "GHA6",
+      "team": "Ghana",
+      "section": "Gruppe L – Ghana"
+    },
+    {
+      "code": "GHA7",
+      "team": "Ghana",
+      "section": "Gruppe L – Ghana"
+    },
+    {
+      "code": "GHA8",
+      "team": "Ghana",
+      "section": "Gruppe L – Ghana"
+    },
+    {
+      "code": "GHA9",
+      "team": "Ghana",
+      "section": "Gruppe L – Ghana"
+    },
+    {
+      "code": "GHA10",
+      "team": "Ghana",
+      "section": "Gruppe L – Ghana"
+    },
+    {
+      "code": "GHA11",
+      "team": "Ghana",
+      "section": "Gruppe L – Ghana"
+    },
+    {
+      "code": "GHA12",
+      "team": "Ghana",
+      "section": "Gruppe L – Ghana"
+    },
+    {
+      "code": "GHA13",
+      "name": "Team",
+      "team": "Ghana",
+      "section": "Gruppe L – Ghana"
+    },
+    {
+      "code": "GHA14",
+      "team": "Ghana",
+      "section": "Gruppe L – Ghana"
+    },
+    {
+      "code": "GHA15",
+      "team": "Ghana",
+      "section": "Gruppe L – Ghana"
+    },
+    {
+      "code": "GHA16",
+      "team": "Ghana",
+      "section": "Gruppe L – Ghana"
+    },
+    {
+      "code": "GHA17",
+      "team": "Ghana",
+      "section": "Gruppe L – Ghana"
+    },
+    {
+      "code": "GHA18",
+      "team": "Ghana",
+      "section": "Gruppe L – Ghana"
+    },
+    {
+      "code": "GHA19",
+      "team": "Ghana",
+      "section": "Gruppe L – Ghana"
+    },
+    {
+      "code": "GHA20",
+      "team": "Ghana",
+      "section": "Gruppe L – Ghana"
+    },
+    {
+      "code": "PAN1",
+      "name": "Logo",
+      "team": "Panama",
+      "section": "Gruppe L – Panama",
+      "is_special": true
+    },
+    {
+      "code": "PAN2",
+      "team": "Panama",
+      "section": "Gruppe L – Panama"
+    },
+    {
+      "code": "PAN3",
+      "team": "Panama",
+      "section": "Gruppe L – Panama"
+    },
+    {
+      "code": "PAN4",
+      "team": "Panama",
+      "section": "Gruppe L – Panama"
+    },
+    {
+      "code": "PAN5",
+      "team": "Panama",
+      "section": "Gruppe L – Panama"
+    },
+    {
+      "code": "PAN6",
+      "team": "Panama",
+      "section": "Gruppe L – Panama"
+    },
+    {
+      "code": "PAN7",
+      "team": "Panama",
+      "section": "Gruppe L – Panama"
+    },
+    {
+      "code": "PAN8",
+      "team": "Panama",
+      "section": "Gruppe L – Panama"
+    },
+    {
+      "code": "PAN9",
+      "team": "Panama",
+      "section": "Gruppe L – Panama"
+    },
+    {
+      "code": "PAN10",
+      "team": "Panama",
+      "section": "Gruppe L – Panama"
+    },
+    {
+      "code": "PAN11",
+      "team": "Panama",
+      "section": "Gruppe L – Panama"
+    },
+    {
+      "code": "PAN12",
+      "team": "Panama",
+      "section": "Gruppe L – Panama"
+    },
+    {
+      "code": "PAN13",
+      "name": "Team",
+      "team": "Panama",
+      "section": "Gruppe L – Panama"
+    },
+    {
+      "code": "PAN14",
+      "team": "Panama",
+      "section": "Gruppe L – Panama"
+    },
+    {
+      "code": "PAN15",
+      "team": "Panama",
+      "section": "Gruppe L – Panama"
+    },
+    {
+      "code": "PAN16",
+      "team": "Panama",
+      "section": "Gruppe L – Panama"
+    },
+    {
+      "code": "PAN17",
+      "team": "Panama",
+      "section": "Gruppe L – Panama"
+    },
+    {
+      "code": "PAN18",
+      "team": "Panama",
+      "section": "Gruppe L – Panama"
+    },
+    {
+      "code": "PAN19",
+      "team": "Panama",
+      "section": "Gruppe L – Panama"
+    },
+    {
+      "code": "PAN20",
+      "team": "Panama",
+      "section": "Gruppe L – Panama"
+    },
+    {
+      "code": "FWC9",
+      "section": "FIFA World Cup History"
+    },
+    {
+      "code": "FWC10",
+      "section": "FIFA World Cup History"
+    },
+    {
+      "code": "FWC11",
+      "section": "FIFA World Cup History"
+    },
+    {
+      "code": "FWC12",
+      "section": "FIFA World Cup History"
+    },
+    {
+      "code": "FWC13",
+      "section": "FIFA World Cup History"
+    },
+    {
+      "code": "FWC14",
+      "section": "FIFA World Cup History"
+    },
+    {
+      "code": "FWC15",
+      "section": "FIFA World Cup History"
+    },
+    {
+      "code": "FWC16",
+      "section": "FIFA World Cup History"
+    },
+    {
+      "code": "FWC17",
+      "section": "FIFA World Cup History"
+    },
+    {
+      "code": "FWC18",
+      "section": "FIFA World Cup History"
+    },
+    {
+      "code": "FWC19",
+      "section": "FIFA World Cup History"
+    }
+  ]
+}

@@ -1,0 +1,658 @@
+{
+  "album": {
+    "slug": "panini-fifa-world-cup-2026-extra-stickers",
+    "publisher": "Panini",
+    "title": "FIFA World Cup 2026 – Extra Stickers",
+    "year": 2026,
+    "season": null,
+    "category": "Fußball",
+    "region": "INT",
+    "kind": "sticker",
+    "total_stickers": 80,
+    "cover_url": null,
+    "source": "https://www.paninigroup.com/us/ExtraStickers",
+    "notes": "20 Motive ohne Nummer, je in regular/bronze/silver/gold; ca. 1 pro 100 Tüten. Codes EXTRA-<Team>[-Farbe] sind eigene Schlüssel der Datenbank, nicht von Panini."
+  },
+  "stickers": [
+    {
+      "code": "EXTRA-ARG",
+      "name": "Lionel Messi",
+      "team": "Argentina",
+      "section": "Extra Sticker Regular",
+      "variant": "extra",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-BEL",
+      "name": "Jérémy Doku",
+      "team": "Belgium",
+      "section": "Extra Sticker Regular",
+      "variant": "extra",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-BRA",
+      "name": "Vinícius Júnior",
+      "team": "Brazil",
+      "section": "Extra Sticker Regular",
+      "variant": "extra",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-CAN",
+      "name": "Alphonso Davies",
+      "team": "Canada",
+      "section": "Extra Sticker Regular",
+      "variant": "extra",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-COL",
+      "name": "Luis Díaz",
+      "team": "Colombia",
+      "section": "Extra Sticker Regular",
+      "variant": "extra",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-CRO",
+      "name": "Luka Modrić",
+      "team": "Croatia",
+      "section": "Extra Sticker Regular",
+      "variant": "extra",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-ECU",
+      "name": "Moisés Caicedo",
+      "team": "Ecuador",
+      "section": "Extra Sticker Regular",
+      "variant": "extra",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-EGY",
+      "name": "Mohamed Salah",
+      "team": "Egypt",
+      "section": "Extra Sticker Regular",
+      "variant": "extra",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-ENG",
+      "name": "Jude Bellingham",
+      "team": "England",
+      "section": "Extra Sticker Regular",
+      "variant": "extra",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-FRA",
+      "name": "Kylian Mbappé",
+      "team": "France",
+      "section": "Extra Sticker Regular",
+      "variant": "extra",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-GER",
+      "name": "Florian Wirtz",
+      "team": "Germany",
+      "section": "Extra Sticker Regular",
+      "variant": "extra",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-KOR",
+      "name": "Heungmin Son",
+      "team": "Korea Republic",
+      "section": "Extra Sticker Regular",
+      "variant": "extra",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-MEX",
+      "name": "Raúl Jiménez",
+      "team": "Mexico",
+      "section": "Extra Sticker Regular",
+      "variant": "extra",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-MAR",
+      "name": "Achraf Hakimi",
+      "team": "Morocco",
+      "section": "Extra Sticker Regular",
+      "variant": "extra",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-NED",
+      "name": "Cody Gakpo",
+      "team": "Netherlands",
+      "section": "Extra Sticker Regular",
+      "variant": "extra",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-NOR",
+      "name": "Erling Haaland",
+      "team": "Norway",
+      "section": "Extra Sticker Regular",
+      "variant": "extra",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-POR",
+      "name": "Cristiano Ronaldo",
+      "team": "Portugal",
+      "section": "Extra Sticker Regular",
+      "variant": "extra",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-ESP",
+      "name": "Lamine Yamal",
+      "team": "Spain",
+      "section": "Extra Sticker Regular",
+      "variant": "extra",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-URU",
+      "name": "Federico Valverde",
+      "team": "Uruguay",
+      "section": "Extra Sticker Regular",
+      "variant": "extra",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-USA",
+      "name": "Christian Pulisic",
+      "team": "USA",
+      "section": "Extra Sticker Regular",
+      "variant": "extra",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-ARG-BRONZE",
+      "name": "Lionel Messi",
+      "team": "Argentina",
+      "section": "Extra Sticker Bronze",
+      "variant": "bronze",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-BEL-BRONZE",
+      "name": "Jérémy Doku",
+      "team": "Belgium",
+      "section": "Extra Sticker Bronze",
+      "variant": "bronze",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-BRA-BRONZE",
+      "name": "Vinícius Júnior",
+      "team": "Brazil",
+      "section": "Extra Sticker Bronze",
+      "variant": "bronze",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-CAN-BRONZE",
+      "name": "Alphonso Davies",
+      "team": "Canada",
+      "section": "Extra Sticker Bronze",
+      "variant": "bronze",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-COL-BRONZE",
+      "name": "Luis Díaz",
+      "team": "Colombia",
+      "section": "Extra Sticker Bronze",
+      "variant": "bronze",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-CRO-BRONZE",
+      "name": "Luka Modrić",
+      "team": "Croatia",
+      "section": "Extra Sticker Bronze",
+      "variant": "bronze",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-ECU-BRONZE",
+      "name": "Moisés Caicedo",
+      "team": "Ecuador",
+      "section": "Extra Sticker Bronze",
+      "variant": "bronze",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-EGY-BRONZE",
+      "name": "Mohamed Salah",
+      "team": "Egypt",
+      "section": "Extra Sticker Bronze",
+      "variant": "bronze",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-ENG-BRONZE",
+      "name": "Jude Bellingham",
+      "team": "England",
+      "section": "Extra Sticker Bronze",
+      "variant": "bronze",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-FRA-BRONZE",
+      "name": "Kylian Mbappé",
+      "team": "France",
+      "section": "Extra Sticker Bronze",
+      "variant": "bronze",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-GER-BRONZE",
+      "name": "Florian Wirtz",
+      "team": "Germany",
+      "section": "Extra Sticker Bronze",
+      "variant": "bronze",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-KOR-BRONZE",
+      "name": "Heungmin Son",
+      "team": "Korea Republic",
+      "section": "Extra Sticker Bronze",
+      "variant": "bronze",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-MEX-BRONZE",
+      "name": "Raúl Jiménez",
+      "team": "Mexico",
+      "section": "Extra Sticker Bronze",
+      "variant": "bronze",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-MAR-BRONZE",
+      "name": "Achraf Hakimi",
+      "team": "Morocco",
+      "section": "Extra Sticker Bronze",
+      "variant": "bronze",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-NED-BRONZE",
+      "name": "Cody Gakpo",
+      "team": "Netherlands",
+      "section": "Extra Sticker Bronze",
+      "variant": "bronze",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-NOR-BRONZE",
+      "name": "Erling Haaland",
+      "team": "Norway",
+      "section": "Extra Sticker Bronze",
+      "variant": "bronze",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-POR-BRONZE",
+      "name": "Cristiano Ronaldo",
+      "team": "Portugal",
+      "section": "Extra Sticker Bronze",
+      "variant": "bronze",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-ESP-BRONZE",
+      "name": "Lamine Yamal",
+      "team": "Spain",
+      "section": "Extra Sticker Bronze",
+      "variant": "bronze",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-URU-BRONZE",
+      "name": "Federico Valverde",
+      "team": "Uruguay",
+      "section": "Extra Sticker Bronze",
+      "variant": "bronze",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-USA-BRONZE",
+      "name": "Christian Pulisic",
+      "team": "USA",
+      "section": "Extra Sticker Bronze",
+      "variant": "bronze",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-ARG-SILVER",
+      "name": "Lionel Messi",
+      "team": "Argentina",
+      "section": "Extra Sticker Silver",
+      "variant": "silver",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-BEL-SILVER",
+      "name": "Jérémy Doku",
+      "team": "Belgium",
+      "section": "Extra Sticker Silver",
+      "variant": "silver",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-BRA-SILVER",
+      "name": "Vinícius Júnior",
+      "team": "Brazil",
+      "section": "Extra Sticker Silver",
+      "variant": "silver",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-CAN-SILVER",
+      "name": "Alphonso Davies",
+      "team": "Canada",
+      "section": "Extra Sticker Silver",
+      "variant": "silver",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-COL-SILVER",
+      "name": "Luis Díaz",
+      "team": "Colombia",
+      "section": "Extra Sticker Silver",
+      "variant": "silver",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-CRO-SILVER",
+      "name": "Luka Modrić",
+      "team": "Croatia",
+      "section": "Extra Sticker Silver",
+      "variant": "silver",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-ECU-SILVER",
+      "name": "Moisés Caicedo",
+      "team": "Ecuador",
+      "section": "Extra Sticker Silver",
+      "variant": "silver",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-EGY-SILVER",
+      "name": "Mohamed Salah",
+      "team": "Egypt",
+      "section": "Extra Sticker Silver",
+      "variant": "silver",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-ENG-SILVER",
+      "name": "Jude Bellingham",
+      "team": "England",
+      "section": "Extra Sticker Silver",
+      "variant": "silver",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-FRA-SILVER",
+      "name": "Kylian Mbappé",
+      "team": "France",
+      "section": "Extra Sticker Silver",
+      "variant": "silver",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-GER-SILVER",
+      "name": "Florian Wirtz",
+      "team": "Germany",
+      "section": "Extra Sticker Silver",
+      "variant": "silver",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-KOR-SILVER",
+      "name": "Heungmin Son",
+      "team": "Korea Republic",
+      "section": "Extra Sticker Silver",
+      "variant": "silver",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-MEX-SILVER",
+      "name": "Raúl Jiménez",
+      "team": "Mexico",
+      "section": "Extra Sticker Silver",
+      "variant": "silver",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-MAR-SILVER",
+      "name": "Achraf Hakimi",
+      "team": "Morocco",
+      "section": "Extra Sticker Silver",
+      "variant": "silver",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-NED-SILVER",
+      "name": "Cody Gakpo",
+      "team": "Netherlands",
+      "section": "Extra Sticker Silver",
+      "variant": "silver",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-NOR-SILVER",
+      "name": "Erling Haaland",
+      "team": "Norway",
+      "section": "Extra Sticker Silver",
+      "variant": "silver",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-POR-SILVER",
+      "name": "Cristiano Ronaldo",
+      "team": "Portugal",
+      "section": "Extra Sticker Silver",
+      "variant": "silver",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-ESP-SILVER",
+      "name": "Lamine Yamal",
+      "team": "Spain",
+      "section": "Extra Sticker Silver",
+      "variant": "silver",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-URU-SILVER",
+      "name": "Federico Valverde",
+      "team": "Uruguay",
+      "section": "Extra Sticker Silver",
+      "variant": "silver",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-USA-SILVER",
+      "name": "Christian Pulisic",
+      "team": "USA",
+      "section": "Extra Sticker Silver",
+      "variant": "silver",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-ARG-GOLD",
+      "name": "Lionel Messi",
+      "team": "Argentina",
+      "section": "Extra Sticker Gold",
+      "variant": "gold",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-BEL-GOLD",
+      "name": "Jérémy Doku",
+      "team": "Belgium",
+      "section": "Extra Sticker Gold",
+      "variant": "gold",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-BRA-GOLD",
+      "name": "Vinícius Júnior",
+      "team": "Brazil",
+      "section": "Extra Sticker Gold",
+      "variant": "gold",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-CAN-GOLD",
+      "name": "Alphonso Davies",
+      "team": "Canada",
+      "section": "Extra Sticker Gold",
+      "variant": "gold",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-COL-GOLD",
+      "name": "Luis Díaz",
+      "team": "Colombia",
+      "section": "Extra Sticker Gold",
+      "variant": "gold",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-CRO-GOLD",
+      "name": "Luka Modrić",
+      "team": "Croatia",
+      "section": "Extra Sticker Gold",
+      "variant": "gold",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-ECU-GOLD",
+      "name": "Moisés Caicedo",
+      "team": "Ecuador",
+      "section": "Extra Sticker Gold",
+      "variant": "gold",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-EGY-GOLD",
+      "name": "Mohamed Salah",
+      "team": "Egypt",
+      "section": "Extra Sticker Gold",
+      "variant": "gold",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-ENG-GOLD",
+      "name": "Jude Bellingham",
+      "team": "England",
+      "section": "Extra Sticker Gold",
+      "variant": "gold",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-FRA-GOLD",
+      "name": "Kylian Mbappé",
+      "team": "France",
+      "section": "Extra Sticker Gold",
+      "variant": "gold",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-GER-GOLD",
+      "name": "Florian Wirtz",
+      "team": "Germany",
+      "section": "Extra Sticker Gold",
+      "variant": "gold",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-KOR-GOLD",
+      "name": "Heungmin Son",
+      "team": "Korea Republic",
+      "section": "Extra Sticker Gold",
+      "variant": "gold",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-MEX-GOLD",
+      "name": "Raúl Jiménez",
+      "team": "Mexico",
+      "section": "Extra Sticker Gold",
+      "variant": "gold",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-MAR-GOLD",
+      "name": "Achraf Hakimi",
+      "team": "Morocco",
+      "section": "Extra Sticker Gold",
+      "variant": "gold",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-NED-GOLD",
+      "name": "Cody Gakpo",
+      "team": "Netherlands",
+      "section": "Extra Sticker Gold",
+      "variant": "gold",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-NOR-GOLD",
+      "name": "Erling Haaland",
+      "team": "Norway",
+      "section": "Extra Sticker Gold",
+      "variant": "gold",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-POR-GOLD",
+      "name": "Cristiano Ronaldo",
+      "team": "Portugal",
+      "section": "Extra Sticker Gold",
+      "variant": "gold",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-ESP-GOLD",
+      "name": "Lamine Yamal",
+      "team": "Spain",
+      "section": "Extra Sticker Gold",
+      "variant": "gold",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-URU-GOLD",
+      "name": "Federico Valverde",
+      "team": "Uruguay",
+      "section": "Extra Sticker Gold",
+      "variant": "gold",
+      "is_special": true
+    },
+    {
+      "code": "EXTRA-USA-GOLD",
+      "name": "Christian Pulisic",
+      "team": "USA",
+      "section": "Extra Sticker Gold",
+      "variant": "gold",
+      "is_special": true
+    }
+  ]
+}

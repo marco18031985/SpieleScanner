@@ -91,6 +91,18 @@ Bereits enthalten (alle lückenlos geprüft, auch als JSON in `data/checklists/`
 | PDC World Championship 2026 | Cards | 321 |
 | PDC Premier League Darts | Cards | 150 |
 
+Zusätzlich aus offiziellen Panini-Quellen, nur als JSON in `data/checklists/` (nicht über `fetch`):
+
+| Kollektion | Art | Anzahl | Stand |
+|---|---|---|---|
+| FIFA World Cup 2026 | Sticker | 980 | Alle Codes, Logo/Teamfoto/Intro benannt; Spielernamen erst für MEX, RSA, KOR und CZE 2–11 (Panini-Nachbestellshop zeigt nur die ersten 80) |
+| FIFA World Cup 2026 – Update Set | Sticker | 118 | Vollständig (Panini-PDF), Code = ersetzter Platz im Hauptalbum |
+| FIFA World Cup 2026 – Extra Stickers | Sticker | 80 | Vollständig (paninigroup.com): 20 Motive × regular/bronze/silver/gold, Codes `EXTRA-<Team>[-Farbe]` sind eigene Schlüssel |
+| Google Pixel Frauen-Bundesliga 2024/25 | Sticker | 340 | Vollständig (Panini-PDF), PDF-Kodierfehler bei 132/196/212 korrigiert |
+
+Für die fehlenden WM-Namen gilt: nur aus offiziellen Quellen oder von Nutzern ergänzen
+(`import panini-fifa-world-cup-2026 liste.txt` aktualisiert vorhandene Codes, ohne Sammlungen zu verändern).
+
 Grenzen: Viele Panini-PDFs sind eingescannte Bilder ohne Text (Disney, One Piece, Harry Potter,
 Adrenalyn-Ordner …) – die liefern beim `fetch` die Meldung „keine Sticker erkannt“. Die
 Checklisten der großen Sticker-Alben (WM 2026, Bundesliga, 3. Liga …) stehen bei Panini
